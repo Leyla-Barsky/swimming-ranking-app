@@ -1,0 +1,6974 @@
+[
+  {
+    "swimmer_id": "loglig_1",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה אזורית וייסגל - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_2",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה אזורית וייסגל - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_3",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה אזורית וייסגל - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_4",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה אזורית וייסגל - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_5",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה אזורית וייסגל - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_6",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה אזורית וייסגל - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_7",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה אזורית וייסגל - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_8",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה אזורית וייסגל - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_9",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה אזורית וייסגל - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_10",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה אזורית וייסגל - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_11",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה אזורית וייסגל - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_12",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה אזורית וייסגל - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_13",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה אזורית וייסגל - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_14",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה אזורית וייסגל - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_15",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_16",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_17",
+    "swimmer": {
+      "first_name": "200 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_18",
+    "swimmer": {
+      "first_name": "200 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_19",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_20",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_21",
+    "swimmer": {
+      "first_name": "200 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_22",
+    "swimmer": {
+      "first_name": "200 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_23",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_24",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_25",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 9-14"
+    },
+    "competition": "ליגה צעירים 1 בת ים - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_26",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 9-15"
+    },
+    "competition": "ליגה צעירים 1 בת ים - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_27",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 9-14"
+    },
+    "competition": "ליגה צעירים 1 בת ים - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_28",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 9-15"
+    },
+    "competition": "ליגה צעירים 1 בת ים - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_29",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 9-14"
+    },
+    "competition": "ליגה צעירים 1 בת ים - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_30",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 9-15"
+    },
+    "competition": "ליגה צעירים 1 בת ים - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_31",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 9-14"
+    },
+    "competition": "ליגה צעירים 1 בת ים - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_32",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 9-15"
+    },
+    "competition": "ליגה צעירים 1 בת ים - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_33",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 11-99"
+    },
+    "competition": "לידה אזורי עמק חפר 1 - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_34",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 11-99"
+    },
+    "competition": "לידה אזורי עמק חפר 1 - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_35",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 11-99"
+    },
+    "competition": "לידה אזורי עמק חפר 1 - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_36",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 11-99"
+    },
+    "competition": "לידה אזורי עמק חפר 1 - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_37",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 11-99"
+    },
+    "competition": "לידה אזורי עמק חפר 1 - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_38",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 11-99"
+    },
+    "competition": "לידה אזורי עמק חפר 1 - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_39",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 11-99"
+    },
+    "competition": "לידה אזורי עמק חפר 1 - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_40",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 11-99"
+    },
+    "competition": "לידה אזורי עמק חפר 1 - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_41",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 11-99"
+    },
+    "competition": "לידה אזורי עמק חפר 1 - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_42",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 11-99"
+    },
+    "competition": "לידה אזורי עמק חפר 1 - 09/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_43",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 9-99"
+    },
+    "competition": "תחרות ליגה מספר1 של הפועל ירושלים - 15/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_44",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 9-99"
+    },
+    "competition": "תחרות ליגה מספר1 של הפועל ירושלים - 15/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_45",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 9-99"
+    },
+    "competition": "תחרות ליגה מספר1 של הפועל ירושלים - 15/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_46",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 9-99"
+    },
+    "competition": "תחרות ליגה מספר1 של הפועל ירושלים - 15/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_47",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגת נוער ובוגרים הפועל פ\"ת - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_48",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 14-99"
+    },
+    "competition": "ליגת נוער ובוגרים הפועל פ\"ת - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_49",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגת נוער ובוגרים הפועל פ\"ת - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_50",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגת נוער ובוגרים הפועל פ\"ת - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_51",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגת נוער ובוגרים הפועל פ\"ת - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_52",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 14-99"
+    },
+    "competition": "ליגת נוער ובוגרים הפועל פ\"ת - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_53",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגת נוער ובוגרים הפועל פ\"ת - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_54",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגת נוער ובוגרים הפועל פ\"ת - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_55",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-10"
+    },
+    "competition": "ליגה 1 שוהם - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_56",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-10"
+    },
+    "competition": "ליגה 1 שוהם - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_57",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-10"
+    },
+    "competition": "ליגה 1 שוהם - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_58",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-10"
+    },
+    "competition": "ליגה 1 שוהם - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_59",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-10"
+    },
+    "competition": "ליגה 1 שוהם - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_60",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-10"
+    },
+    "competition": "ליגה 1 שוהם - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_61",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 11-99"
+    },
+    "competition": "ליגה 1 שוהם - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_62",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 11-99"
+    },
+    "competition": "ליגה 1 שוהם - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_63",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 11-99"
+    },
+    "competition": "ליגה 1 שוהם - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_64",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 11-99"
+    },
+    "competition": "ליגה 1 שוהם - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_65",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 11-99"
+    },
+    "competition": "ליגה 1 שוהם - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_66",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 11-99"
+    },
+    "competition": "ליגה 1 שוהם - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_67",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 11-99"
+    },
+    "competition": "ליגה 1 שוהם - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_68",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 11-99"
+    },
+    "competition": "ליגה 1 שוהם - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_69",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 11-99"
+    },
+    "competition": "ליגה 1 שוהם - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_70",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 11-99"
+    },
+    "competition": "ליגה 1 שוהם - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_71",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 11-99"
+    },
+    "competition": "ליגה 1 שוהם - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_72",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 11-99"
+    },
+    "competition": "ליגה 1 שוהם - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_73",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 11-99"
+    },
+    "competition": "ליגה 1 שוהם - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_74",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 11-99"
+    },
+    "competition": "ליגה 1 שוהם - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_75",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 11-99"
+    },
+    "competition": "ליגה 1 שוהם - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_76",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 11-99"
+    },
+    "competition": "ליגה 1 שוהם - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_77",
+    "swimmer": {
+      "first_name": "400 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 11-99"
+    },
+    "competition": "ליגה 1 שוהם - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_78",
+    "swimmer": {
+      "first_name": "400 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 11-99"
+    },
+    "competition": "ליגה 1 שוהם - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_79",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-10"
+    },
+    "competition": "תחרות ליגה 1 - ראשון לציון - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_80",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-10"
+    },
+    "competition": "תחרות ליגה 1 - ראשון לציון - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_81",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 11-18"
+    },
+    "competition": "תחרות ליגה 1 - ראשון לציון - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_82",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 11-18"
+    },
+    "competition": "תחרות ליגה 1 - ראשון לציון - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_83",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-10"
+    },
+    "competition": "תחרות ליגה 1 - ראשון לציון - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_84",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-10"
+    },
+    "competition": "תחרות ליגה 1 - ראשון לציון - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_85",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 11-18"
+    },
+    "competition": "תחרות ליגה 1 - ראשון לציון - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_86",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 11-18"
+    },
+    "competition": "תחרות ליגה 1 - ראשון לציון - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_87",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 11-18"
+    },
+    "competition": "תחרות ליגה 1 - ראשון לציון - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_88",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 11-18"
+    },
+    "competition": "תחרות ליגה 1 - ראשון לציון - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_89",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_90",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 14-99"
+    },
+    "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_91",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_92",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_93",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_94",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 14-99"
+    },
+    "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_95",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_96",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_97",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 9-99"
+    },
+    "competition": "ליגה הפועל בית שמש - 22/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_98",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 9-99"
+    },
+    "competition": "ליגה הפועל בית שמש - 22/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_99",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 9-99"
+    },
+    "competition": "ליגה הפועל בית שמש - 22/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_100",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 9-99"
+    },
+    "competition": "ליגה הפועל בית שמש - 22/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_101",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 9-99"
+    },
+    "competition": "ליגה הפועל בית שמש - 22/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_102",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 9-99"
+    },
+    "competition": "ליגה הפועל בית שמש - 22/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_103",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 14-15"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_104",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 15-16"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_105",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 16-99"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_106",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 17-99"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_107",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 14-15"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_108",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 15-16"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_109",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 16-99"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_110",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 17-99"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_111",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 14-15"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_112",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 15-16"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_113",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 16-99"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_114",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 17-99"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_115",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 14-15"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_116",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 15-16"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_117",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 16-99"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_118",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 17-99"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_119",
+    "swimmer": {
+      "first_name": "200 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 14-15"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_120",
+    "swimmer": {
+      "first_name": "200 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 15-16"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_121",
+    "swimmer": {
+      "first_name": "200 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 16-99"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_122",
+    "swimmer": {
+      "first_name": "200 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 17-99"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_123",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 14-15"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_124",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 15-16"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_125",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 16-99"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_126",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 17-99"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_127",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 14-15"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_128",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 15-16"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_129",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 16-99"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_130",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 17-99"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_131",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 14-15"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_132",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 15-16"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_133",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 16-99"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_134",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 17-99"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_135",
+    "swimmer": {
+      "first_name": "4X50 מעורב שליחים",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_136",
+    "swimmer": {
+      "first_name": "4X50 מעורב שליחים",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_137",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 10-11"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_138",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 10-12"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_139",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12-13"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_140",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 13-14"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_141",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 10-11"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_142",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 10-12"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_143",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12-13"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_144",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 13-14"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_145",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 10-11"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_146",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 10-12"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_147",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12-13"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_148",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 13-14"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_149",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 10-11"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_150",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 10-12"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_151",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12-13"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_152",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 13-14"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_153",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 10-11"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_154",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 10-12"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_155",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12-13"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_156",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 13-14"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_157",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 10-11"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_158",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 10-12"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_159",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12-13"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_160",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 13-14"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_161",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 10-11"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_162",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 10-12"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_163",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12-13"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_164",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 13-14"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_165",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 10-11"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_166",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 10-12"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_167",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12-13"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_168",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 13-14"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_169",
+    "swimmer": {
+      "first_name": "4X50 מעורב שליחים",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 10-13"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_170",
+    "swimmer": {
+      "first_name": "4X50 מעורב שליחים",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 10-14"
+    },
+    "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_171",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 11-15"
+    },
+    "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_172",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 11-15"
+    },
+    "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_173",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 11-15"
+    },
+    "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_174",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 11-15"
+    },
+    "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_175",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 11-15"
+    },
+    "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_176",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 11-15"
+    },
+    "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_177",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 11-15"
+    },
+    "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_178",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 11-15"
+    },
+    "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_179",
+    "swimmer": {
+      "first_name": "דרגה 1",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-99"
+    },
+    "competition": "ליגת HOLMES קריית אונו בשחייה אומנותית - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_180",
+    "swimmer": {
+      "first_name": "תרגילי חובה ליגה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "אומנותית 13-15"
+    },
+    "competition": "ליגת HOLMES קריית אונו בשחייה אומנותית - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_181",
+    "swimmer": {
+      "first_name": "תרגילי חובה ליגה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "ילדות/ים U12"
+    },
+    "competition": "ליגת HOLMES קריית אונו בשחייה אומנותית - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_182",
+    "swimmer": {
+      "first_name": "דרגה 2",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-99"
+    },
+    "competition": "ליגת HOLMES קריית אונו בשחייה אומנותית - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_183",
+    "swimmer": {
+      "first_name": "דרגה 3",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-99"
+    },
+    "competition": "ליגת HOLMES קריית אונו בשחייה אומנותית - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_184",
+    "swimmer": {
+      "first_name": "אלמנטים",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נערות/ים 15-19"
+    },
+    "competition": "ליגת HOLMES קריית אונו בשחייה אומנותית - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_185",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 9-11"
+    },
+    "competition": "ליגה צעירים 1 – פ\"ת - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_186",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 9-11"
+    },
+    "competition": "ליגה צעירים 1 – פ\"ת - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_187",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 9-11"
+    },
+    "competition": "ליגה צעירים 1 – פ\"ת - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_188",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 9-11"
+    },
+    "competition": "ליגה צעירים 1 – פ\"ת - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_189",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 9-11"
+    },
+    "competition": "ליגה צעירים 1 – פ\"ת - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_190",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 9-11"
+    },
+    "competition": "ליגה צעירים 1 – פ\"ת - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_191",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 9-11"
+    },
+    "competition": "ליגה צעירים 1 – פ\"ת - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_192",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 9-11"
+    },
+    "competition": "ליגה צעירים 1 – פ\"ת - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_193",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 9-11"
+    },
+    "competition": "ליגה צעירים 1 – פ\"ת - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_194",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 9-11"
+    },
+    "competition": "ליגה צעירים 1 – פ\"ת - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_195",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 9-11"
+    },
+    "competition": "ליגה צעירים 1 – פ\"ת - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_196",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 9-11"
+    },
+    "competition": "ליגה צעירים 1 – פ\"ת - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_197",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-99"
+    },
+    "competition": "ליגה ראשונה \"צעירים\" מכבי ירושלים - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_198",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-99"
+    },
+    "competition": "ליגה ראשונה \"צעירים\" מכבי ירושלים - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_199",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-14"
+    },
+    "competition": "ליגה ראשונה \"צעירים\" מכבי ירושלים - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_200",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-14"
+    },
+    "competition": "ליגה ראשונה \"צעירים\" מכבי ירושלים - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_201",
+    "swimmer": {
+      "first_name": "200 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-14"
+    },
+    "competition": "ליגה ראשונה \"צעירים\" מכבי ירושלים - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_202",
+    "swimmer": {
+      "first_name": "200 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-14"
+    },
+    "competition": "ליגה ראשונה \"צעירים\" מכבי ירושלים - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_203",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-14"
+    },
+    "competition": "ליגה ראשונה \"צעירים\" מכבי ירושלים - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_204",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-14"
+    },
+    "competition": "ליגה ראשונה \"צעירים\" מכבי ירושלים - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_205",
+    "swimmer": {
+      "first_name": "400 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-14"
+    },
+    "competition": "ליגה ראשונה \"צעירים\" מכבי ירושלים - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_206",
+    "swimmer": {
+      "first_name": "400 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 7-99"
+    },
+    "competition": "ליגה ראשונה \"צעירים\" מכבי ירושלים - 30/10/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_207",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 10-13"
+    },
+    "competition": "ליגה צעירים מספר 1 - מכבי חיפה",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_208",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 10-14"
+    },
+    "competition": "ליגה צעירים מספר 1 - מכבי חיפה",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_209",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 10-13"
+    },
+    "competition": "ליגה צעירים מספר 1 - מכבי חיפה",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_210",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 10-14"
+    },
+    "competition": "ליגה צעירים מספר 1 - מכבי חיפה",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_211",
+    "swimmer": {
+      "first_name": "200 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 10-13"
+    },
+    "competition": "ליגה צעירים מספר 1 - מכבי חיפה",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_212",
+    "swimmer": {
+      "first_name": "200 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 10-14"
+    },
+    "competition": "ליגה צעירים מספר 1 - מכבי חיפה",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_213",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 10-13"
+    },
+    "competition": "ליגה צעירים מספר 1 - מכבי חיפה",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_214",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 10-14"
+    },
+    "competition": "ליגה צעירים מספר 1 - מכבי חיפה",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_215",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 10-13"
+    },
+    "competition": "ליגה צעירים מספר 1 - מכבי חיפה",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_216",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 10-14"
+    },
+    "competition": "ליגה צעירים מספר 1 - מכבי חיפה",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_217",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-15"
+    },
+    "competition": "ליגה אזורית וייסגל 30/10",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_218",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-15"
+    },
+    "competition": "ליגה אזורית וייסגל 30/10",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_219",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-15"
+    },
+    "competition": "ליגה אזורית וייסגל 30/10",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_220",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-15"
+    },
+    "competition": "ליגה אזורית וייסגל 30/10",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_221",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-15"
+    },
+    "competition": "ליגה אזורית וייסגל 30/10",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_222",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-15"
+    },
+    "competition": "ליגה אזורית וייסגל 30/10",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_223",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-15"
+    },
+    "competition": "ליגה אזורית וייסגל 30/10",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_224",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-15"
+    },
+    "competition": "ליגה אזורית וייסגל 30/10",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_225",
+    "swimmer": {
+      "first_name": "4X50 חופשי שליחים",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-15"
+    },
+    "competition": "ליגה אזורית וייסגל 30/10",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_226",
+    "swimmer": {
+      "first_name": "4X50 חופשי שליחים",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-15"
+    },
+    "competition": "ליגה אזורית וייסגל 30/10",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_227",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 9-16"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_228",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 9-16"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_229",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-19"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_230",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-19"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_231",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-19"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_232",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 9-16"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_233",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 9-19"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_234",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 9-19"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_235",
+    "swimmer": {
+      "first_name": "4X50 חופשי שליחים",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 9-10"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_236",
+    "swimmer": {
+      "first_name": "4X50 חופשי שליחים",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 9-10"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_237",
+    "swimmer": {
+      "first_name": "4X50 חופשי שליחים",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 11-13"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_238",
+    "swimmer": {
+      "first_name": "4X50 חופשי שליחים",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 11-14"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_239",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 11-16"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_240",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 11-16"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_241",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 9-16"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_242",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 9-16"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_243",
+    "swimmer": {
+      "first_name": "200 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 10-16"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_244",
+    "swimmer": {
+      "first_name": "200 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 10-16"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_245",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 11-16"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_246",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 11-16"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_247",
+    "swimmer": {
+      "first_name": "200 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 11-16"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_248",
+    "swimmer": {
+      "first_name": "200 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 11-16"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_249",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 11-16"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_250",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 11-16"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_251",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 9-16"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_252",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 9-16"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_253",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 9-16"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_254",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 9-16"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_255",
+    "swimmer": {
+      "first_name": "4X50 מעורב שליחים",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 9-10"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_256",
+    "swimmer": {
+      "first_name": "4X50 מעורב שליחים",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 9-10"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_257",
+    "swimmer": {
+      "first_name": "4X50 מעורב שליחים",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 11-13"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_258",
+    "swimmer": {
+      "first_name": "4X50 מעורב שליחים",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 11-14"
+    },
+    "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_259",
+    "swimmer": {
+      "first_name": "800 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 12-99"
+    },
+    "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_260",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 12-99"
+    },
+    "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_261",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 13-99"
+    },
+    "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_262",
+    "swimmer": {
+      "first_name": "400 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 12-99"
+    },
+    "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_263",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 12-99"
+    },
+    "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_264",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 13-99"
+    },
+    "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_265",
+    "swimmer": {
+      "first_name": "1500 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 12-99"
+    },
+    "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_266",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 12-99"
+    },
+    "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_267",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 13-99"
+    },
+    "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_268",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 12-99"
+    },
+    "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_269",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 13-99"
+    },
+    "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_270",
+    "swimmer": {
+      "first_name": "400 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 12-99"
+    },
+    "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_271",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 12-99"
+    },
+    "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_272",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 13-99"
+    },
+    "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_273",
+    "swimmer": {
+      "first_name": "800 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 13-99"
+    },
+    "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד צפוני - 06/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_274",
+    "swimmer": {
+      "first_name": "400 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 13-99"
+    },
+    "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד צפוני - 06/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_275",
+    "swimmer": {
+      "first_name": "1500 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 13-99"
+    },
+    "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד צפוני - 06/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_276",
+    "swimmer": {
+      "first_name": "400 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 13-99"
+    },
+    "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד צפוני - 06/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_277",
+    "swimmer": {
+      "first_name": "200 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_278",
+    "swimmer": {
+      "first_name": "200 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_279",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_280",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_281",
+    "swimmer": {
+      "first_name": "200 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_282",
+    "swimmer": {
+      "first_name": "200 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_283",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_284",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_285",
+    "swimmer": {
+      "first_name": "200 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_286",
+    "swimmer": {
+      "first_name": "200 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_287",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_288",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_289",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_290",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_291",
+    "swimmer": {
+      "first_name": "200 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_292",
+    "swimmer": {
+      "first_name": "200 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_293",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_294",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_295",
+    "swimmer": {
+      "first_name": "400 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_296",
+    "swimmer": {
+      "first_name": "400 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_297",
+    "swimmer": {
+      "first_name": "400 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_298",
+    "swimmer": {
+      "first_name": "200 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 13-99"
+    },
+    "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_299",
+    "swimmer": {
+      "first_name": "200 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 14-99"
+    },
+    "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_300",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 13-99"
+    },
+    "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_301",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 14-99"
+    },
+    "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_302",
+    "swimmer": {
+      "first_name": "200 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 13-99"
+    },
+    "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_303",
+    "swimmer": {
+      "first_name": "200 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 14-99"
+    },
+    "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_304",
+    "swimmer": {
+      "first_name": "200 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 13-99"
+    },
+    "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_305",
+    "swimmer": {
+      "first_name": "200 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 14-99"
+    },
+    "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_306",
+    "swimmer": {
+      "first_name": "200 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 13-99"
+    },
+    "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_307",
+    "swimmer": {
+      "first_name": "200 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 14-99"
+    },
+    "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_308",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 13-99"
+    },
+    "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_309",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 14-99"
+    },
+    "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_310",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 13-99"
+    },
+    "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_311",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 14-99"
+    },
+    "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_312",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 13-99"
+    },
+    "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_313",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 14-99"
+    },
+    "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_314",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 13-99"
+    },
+    "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_315",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 14-99"
+    },
+    "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_316",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 13-99"
+    },
+    "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_317",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 14-99"
+    },
+    "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_318",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-13"
+    },
+    "competition": "ליגה מס' 1- צעירים מכבי תל אביב - 13/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_319",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-14"
+    },
+    "competition": "ליגה מס' 1- צעירים מכבי תל אביב - 13/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_320",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-13"
+    },
+    "competition": "ליגה מס' 1- צעירים מכבי תל אביב - 13/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_321",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-14"
+    },
+    "competition": "ליגה מס' 1- צעירים מכבי תל אביב - 13/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_322",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-13"
+    },
+    "competition": "ליגה מס' 1- צעירים מכבי תל אביב - 13/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_323",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-14"
+    },
+    "competition": "ליגה מס' 1- צעירים מכבי תל אביב - 13/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_324",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-13"
+    },
+    "competition": "ליגה מס' 1- צעירים מכבי תל אביב - 13/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_325",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-14"
+    },
+    "competition": "ליגה מס' 1- צעירים מכבי תל אביב - 13/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_326",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-15"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_327",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-15"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_328",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-15"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_329",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-15"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_330",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-15"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_331",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-15"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_332",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-15"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_333",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-15"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_334",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-15"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_335",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-15"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_336",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-15"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_337",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-15"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_338",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-15"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_339",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-15"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_340",
+    "swimmer": {
+      "first_name": "4X50 חופשי שליחים",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-15"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_341",
+    "swimmer": {
+      "first_name": "4X50 חופשי שליחים",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-15"
+    },
+    "competition": "ליגה אזורית וייסגל",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_342",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 10-13"
+    },
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_343",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 10-14"
+    },
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_344",
+    "swimmer": {
+      "first_name": "200 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 10-13"
+    },
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_345",
+    "swimmer": {
+      "first_name": "200 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 10-14"
+    },
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_346",
+    "swimmer": {
+      "first_name": "200 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 10-13"
+    },
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_347",
+    "swimmer": {
+      "first_name": "200 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 10-14"
+    },
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_348",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 10-13"
+    },
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_349",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 10-14"
+    },
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_350",
+    "swimmer": {
+      "first_name": "200 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 10-13"
+    },
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_351",
+    "swimmer": {
+      "first_name": "200 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 10-14"
+    },
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_352",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 10-13"
+    },
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_353",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 10-14"
+    },
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_354",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-21"
+    },
+    "competition": "ליגה ראשון – הרצליה מחזור 2 - 20/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_355",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-99"
+    },
+    "competition": "ליגה ראשון – הרצליה מחזור 2 - 20/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_356",
+    "swimmer": {
+      "first_name": "200 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-21"
+    },
+    "competition": "ליגה ראשון – הרצליה מחזור 2 - 20/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_357",
+    "swimmer": {
+      "first_name": "200 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-99"
+    },
+    "competition": "ליגה ראשון – הרצליה מחזור 2 - 20/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_358",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-21"
+    },
+    "competition": "ליגה ראשון – הרצליה מחזור 2 - 20/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_359",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-99"
+    },
+    "competition": "ליגה ראשון – הרצליה מחזור 2 - 20/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_360",
+    "swimmer": {
+      "first_name": "200 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-21"
+    },
+    "competition": "ליגה ראשון – הרצליה מחזור 2 - 20/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_361",
+    "swimmer": {
+      "first_name": "200 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-21"
+    },
+    "competition": "ליגה ראשון – הרצליה מחזור 2 - 20/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_362",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-21"
+    },
+    "competition": "ליגה ראשון – הרצליה מחזור 2 - 20/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_363",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-21"
+    },
+    "competition": "ליגה ראשון – הרצליה מחזור 2 - 20/11/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_364",
+    "swimmer": {
+      "first_name": "400 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_365",
+    "swimmer": {
+      "first_name": "400 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_366",
+    "swimmer": {
+      "first_name": "400 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_367",
+    "swimmer": {
+      "first_name": "400 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_368",
+    "swimmer": {
+      "first_name": "200 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_369",
+    "swimmer": {
+      "first_name": "200 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_370",
+    "swimmer": {
+      "first_name": "200 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_371",
+    "swimmer": {
+      "first_name": "200 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_372",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_373",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_374",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_375",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_376",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_377",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_378",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_379",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_380",
+    "swimmer": {
+      "first_name": "4X50 מעורב שליחים",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_381",
+    "swimmer": {
+      "first_name": "4X50 מעורב שליחים",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_382",
+    "swimmer": {
+      "first_name": "4X50 מעורב שליחים",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_383",
+    "swimmer": {
+      "first_name": "4X50 מעורב שליחים",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_384",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_385",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_386",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_387",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_388",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_389",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_390",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_391",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_392",
+    "swimmer": {
+      "first_name": "200 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_393",
+    "swimmer": {
+      "first_name": "200 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_394",
+    "swimmer": {
+      "first_name": "200 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_395",
+    "swimmer": {
+      "first_name": "200 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_396",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_397",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_398",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_399",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_400",
+    "swimmer": {
+      "first_name": "200 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_401",
+    "swimmer": {
+      "first_name": "200 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_402",
+    "swimmer": {
+      "first_name": "200 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_403",
+    "swimmer": {
+      "first_name": "200 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_404",
+    "swimmer": {
+      "first_name": "4X50 חופשי שליחים",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_405",
+    "swimmer": {
+      "first_name": "4X50 חופשי שליחים",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_406",
+    "swimmer": {
+      "first_name": "4X50 חופשי שליחים",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_407",
+    "swimmer": {
+      "first_name": "4X50 חופשי שליחים",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_408",
+    "swimmer": {
+      "first_name": "400 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 12-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_409",
+    "swimmer": {
+      "first_name": "400 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 12-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_410",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_411",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_412",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_413",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_414",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_415",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_416",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_417",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_418",
+    "swimmer": {
+      "first_name": "200 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_419",
+    "swimmer": {
+      "first_name": "200 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_420",
+    "swimmer": {
+      "first_name": "200 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_421",
+    "swimmer": {
+      "first_name": "200 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_422",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_423",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_424",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_425",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_426",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_427",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_428",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_429",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_430",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_431",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 12-15"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_432",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_433",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 16-99"
+    },
+    "competition": "משחה המילניום ה25",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_434",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 13-99"
+    },
+    "competition": "ליגה נוער ובוגרים מס' 2 דרום",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_435",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 13-99"
+    },
+    "competition": "ליגה נוער ובוגרים מס' 2 דרום",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_436",
+    "swimmer": {
+      "first_name": "200 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 13-99"
+    },
+    "competition": "ליגה נוער ובוגרים מס' 2 דרום",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_437",
+    "swimmer": {
+      "first_name": "200 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 13-99"
+    },
+    "competition": "ליגה נוער ובוגרים מס' 2 דרום",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_438",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 13-99"
+    },
+    "competition": "ליגה נוער ובוגרים מס' 2 דרום",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_439",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 13-99"
+    },
+    "competition": "ליגה נוער ובוגרים מס' 2 דרום",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_440",
+    "swimmer": {
+      "first_name": "200 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 13-99"
+    },
+    "competition": "ליגה נוער ובוגרים מס' 2 דרום",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_441",
+    "swimmer": {
+      "first_name": "200 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 13-99"
+    },
+    "competition": "ליגה נוער ובוגרים מס' 2 דרום",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_442",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 13-99"
+    },
+    "competition": "ליגה נוער ובוגרים מס' 2 דרום",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_443",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 13-99"
+    },
+    "competition": "ליגה נוער ובוגרים מס' 2 דרום",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_444",
+    "swimmer": {
+      "first_name": "400 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 13-99"
+    },
+    "competition": "ליגה נוער ובוגרים מס' 2 דרום",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_445",
+    "swimmer": {
+      "first_name": "400 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 13-99"
+    },
+    "competition": "ליגה נוער ובוגרים מס' 2 דרום",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_446",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 13-99"
+    },
+    "competition": "ליגה נוער ובוגרים מס' 2 דרום",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_447",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 13-99"
+    },
+    "competition": "ליגה נוער ובוגרים מס' 2 דרום",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_448",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 13-99"
+    },
+    "competition": "ליגה נוער ובוגרים מס' 2 דרום",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_449",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 13-99"
+    },
+    "competition": "ליגה נוער ובוגרים מס' 2 דרום",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_450",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 13-99"
+    },
+    "competition": "ליגה נוער ובוגרים מס' 2 דרום",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_451",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 13-99"
+    },
+    "competition": "ליגה נוער ובוגרים מס' 2 דרום",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_452",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 13-99"
+    },
+    "competition": "ליגה נוער ובוגרים מס' 2 דרום",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_453",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 13-99"
+    },
+    "competition": "ליגה נוער ובוגרים מס' 2 דרום",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_454",
+    "swimmer": {
+      "first_name": "200 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 13-99"
+    },
+    "competition": "ליגה נוער ובוגרים מס' 2 דרום",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_455",
+    "swimmer": {
+      "first_name": "200 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 13-99"
+    },
+    "competition": "ליגה נוער ובוגרים מס' 2 דרום",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_456",
+    "swimmer": {
+      "first_name": "200 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 13-99"
+    },
+    "competition": "ליגה נוער ובוגרים מס' 2 דרום",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_457",
+    "swimmer": {
+      "first_name": "200 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 13-99"
+    },
+    "competition": "ליגה נוער ובוגרים מס' 2 דרום",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_458",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 1- חורף 26 - 04/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_459",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 1- חורף 26 - 04/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_460",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 1- חורף 26 - 04/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_461",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 1- חורף 26 - 04/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_462",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 1- חורף 26 - 04/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_463",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 1- חורף 26 - 04/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_464",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 1- חורף 26 - 04/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_465",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 1- חורף 26 - 04/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_466",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 1- חורף 26 - 04/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_467",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 1- חורף 26 - 04/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_468",
+    "swimmer": {
+      "first_name": "200 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 1- חורף 26 - 04/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_469",
+    "swimmer": {
+      "first_name": "200 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 1- חורף 26 - 04/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_470",
+    "swimmer": {
+      "first_name": "200 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 1- חורף 26 - 04/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_471",
+    "swimmer": {
+      "first_name": "200 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 1- חורף 26 - 04/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_472",
+    "swimmer": {
+      "first_name": "200 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 1- חורף 26 - 04/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_473",
+    "swimmer": {
+      "first_name": "200 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 1- חורף 26 - 04/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_474",
+    "swimmer": {
+      "first_name": "200 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 1- חורף 26 - 04/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_475",
+    "swimmer": {
+      "first_name": "200 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 1- חורף 26 - 04/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_476",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 11"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_477",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 11"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_478",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_479",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 12"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_480",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 13"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_481",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 13"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_482",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 14"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_483",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 11"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_484",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 11"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_485",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_486",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 12"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_487",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 13"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_488",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 13"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_489",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 14"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_490",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 11"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_491",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 11"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_492",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_493",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 12"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_494",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 13"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_495",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 13"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_496",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 14"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_497",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 11"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_498",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 11"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_499",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_500",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 12"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_501",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 13"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_502",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 13"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_503",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 14"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_504",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 11"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_505",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 11"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_506",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 12"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_507",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 12"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_508",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 13"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_509",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 13"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_510",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 14"
+    },
+    "competition": "גביע ירושלים על שם אלעד ברדע - 05/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_511",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-14"
+    },
+    "competition": "ליגה ראשונה \"צעירים\" מכבי גני תקווה - 06/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_512",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-14"
+    },
+    "competition": "ליגה ראשונה \"צעירים\" מכבי גני תקווה - 06/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_513",
+    "swimmer": {
+      "first_name": "200 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-14"
+    },
+    "competition": "ליגה ראשונה \"צעירים\" מכבי גני תקווה - 06/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_514",
+    "swimmer": {
+      "first_name": "200 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-14"
+    },
+    "competition": "ליגה ראשונה \"צעירים\" מכבי גני תקווה - 06/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_515",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-14"
+    },
+    "competition": "ליגה ראשונה \"צעירים\" מכבי גני תקווה - 06/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_516",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-14"
+    },
+    "competition": "ליגה ראשונה \"צעירים\" מכבי גני תקווה - 06/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_517",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-14"
+    },
+    "competition": "ליגה ראשונה \"צעירים\" מכבי גני תקווה - 06/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_518",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-14"
+    },
+    "competition": "ליגה ראשונה \"צעירים\" מכבי גני תקווה - 06/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_519",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-14"
+    },
+    "competition": "ליגה ראשונה \"צעירים\" מכבי גני תקווה - 06/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_520",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-14"
+    },
+    "competition": "ליגה ראשונה \"צעירים\" מכבי גני תקווה - 06/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_521",
+    "swimmer": {
+      "first_name": "800 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 9-13"
+    },
+    "competition": "ליגה דולפין נתניה",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_522",
+    "swimmer": {
+      "first_name": "800 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 9-14"
+    },
+    "competition": "ליגה דולפין נתניה",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_523",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 9-13"
+    },
+    "competition": "ליגה דולפין נתניה",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_524",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 9-14"
+    },
+    "competition": "ליגה דולפין נתניה",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_525",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 9-13"
+    },
+    "competition": "ליגה דולפין נתניה",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_526",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 9-14"
+    },
+    "competition": "ליגה דולפין נתניה",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_527",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 9-13"
+    },
+    "competition": "ליגה דולפין נתניה",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_528",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 9-14"
+    },
+    "competition": "ליגה דולפין נתניה",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_529",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 9-13"
+    },
+    "competition": "ליגה דולפין נתניה",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_530",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 9-14"
+    },
+    "competition": "ליגה דולפין נתניה",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_531",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 9-13"
+    },
+    "competition": "ליגה דולפין נתניה",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_532",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 9-14"
+    },
+    "competition": "ליגה דולפין נתניה",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_533",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 9-13"
+    },
+    "competition": "ליגה דולפין נתניה",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_534",
+    "swimmer": {
+      "first_name": "200 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 9-14"
+    },
+    "competition": "ליגה דולפין נתניה",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_535",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-11"
+    },
+    "competition": "גביע חנוכה רמת השרון",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_536",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-12"
+    },
+    "competition": "גביע חנוכה רמת השרון",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_537",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-11"
+    },
+    "competition": "גביע חנוכה רמת השרון",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_538",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-12"
+    },
+    "competition": "גביע חנוכה רמת השרון",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_539",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-11"
+    },
+    "competition": "גביע חנוכה רמת השרון",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_540",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-12"
+    },
+    "competition": "גביע חנוכה רמת השרון",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_541",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה בוגרים מס 2- חורף 26- קרית ביאליק - 11/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_542",
+    "swimmer": {
+      "first_name": "50 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה בוגרים מס 2- חורף 26- קרית ביאליק - 11/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_543",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה בוגרים מס 2- חורף 26- קרית ביאליק - 11/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_544",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה בוגרים מס 2- חורף 26- קרית ביאליק - 11/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_545",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה בוגרים מס 2- חורף 26- קרית ביאליק - 11/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_546",
+    "swimmer": {
+      "first_name": "50 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה בוגרים מס 2- חורף 26- קרית ביאליק - 11/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_547",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה בוגרים מס 2- חורף 26- קרית ביאליק - 11/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_548",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה בוגרים מס 2- חורף 26- קרית ביאליק - 11/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_549",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 14-99"
+    },
+    "competition": "ליגה בוגרים מס 2- חורף 26- קרית ביאליק - 11/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_550",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 15-99"
+    },
+    "competition": "ליגה בוגרים מס 2- חורף 26- קרית ביאליק - 11/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_551",
+    "swimmer": {
+      "first_name": "4X50 חופשי שליחים מיקס",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "מיקס 14-99"
+    },
+    "competition": "ליגה בוגרים מס 2- חורף 26- קרית ביאליק - 11/12/2026",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_552",
+    "swimmer": {
+      "first_name": "400 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 13-99"
+    },
+    "competition": "ליגת הפועל ירושלים- וינגייט",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_553",
+    "swimmer": {
+      "first_name": "400 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 13-99"
+    },
+    "competition": "ליגת הפועל ירושלים- וינגייט",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_554",
+    "swimmer": {
+      "first_name": "400 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 13-99"
+    },
+    "competition": "ליגת הפועל ירושלים- וינגייט",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_555",
+    "swimmer": {
+      "first_name": "400 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 13-99"
+    },
+    "competition": "ליגת הפועל ירושלים- וינגייט",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_556",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 11-99"
+    },
+    "competition": "ליגת הפועל ירושלים- וינגייט",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_557",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 11-99"
+    },
+    "competition": "ליגת הפועל ירושלים- וינגייט",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_558",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 11-99"
+    },
+    "competition": "ליגת הפועל ירושלים- וינגייט",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_559",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 11-99"
+    },
+    "competition": "ליגת הפועל ירושלים- וינגייט",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_560",
+    "swimmer": {
+      "first_name": "200 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 11-99"
+    },
+    "competition": "ליגת הפועל ירושלים- וינגייט",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_561",
+    "swimmer": {
+      "first_name": "200 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 11-99"
+    },
+    "competition": "ליגת הפועל ירושלים- וינגייט",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_562",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 11-99"
+    },
+    "competition": "ליגת הפועל ירושלים- וינגייט",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_563",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 11-99"
+    },
+    "competition": "ליגת הפועל ירושלים- וינגייט",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_564",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "גברים 12-99"
+    },
+    "competition": "ליגת הפועל ירושלים- וינגייט",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_565",
+    "swimmer": {
+      "first_name": "50 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "נשים 11-99"
+    },
+    "competition": "ליגת הפועל ירושלים- וינגייט",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_566",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 2- חורף 27",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_567",
+    "swimmer": {
+      "first_name": "50 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 2- חורף 27",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_568",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 2- חורף 27",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_569",
+    "swimmer": {
+      "first_name": "100 פרפר",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 2- חורף 27",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_570",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 2- חורף 27",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_571",
+    "swimmer": {
+      "first_name": "100 חזה",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 2- חורף 27",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_572",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 2- חורף 27",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_573",
+    "swimmer": {
+      "first_name": "100 גב",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 2- חורף 27",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_574",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 2- חורף 27",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_575",
+    "swimmer": {
+      "first_name": "100 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 2- חורף 27",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_576",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 2- חורף 27",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_577",
+    "swimmer": {
+      "first_name": "100 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 2- חורף 27",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_578",
+    "swimmer": {
+      "first_name": "400 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 2- חורף 27",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_579",
+    "swimmer": {
+      "first_name": "400 חופשי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 2- חורף 27",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_580",
+    "swimmer": {
+      "first_name": "400 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנות 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 2- חורף 27",
+    "source": "Loglig"
+  },
+  {
+    "swimmer_id": "loglig_581",
+    "swimmer": {
+      "first_name": "400 מעורב אישי",
+      "last_name": ""
+    },
+    "club": {
+      "name_he": "בנים 8-99"
+    },
+    "competition": "ליגה פתוחה חיפה מס' 2- חורף 27",
+    "source": "Loglig"
+  }
+]
