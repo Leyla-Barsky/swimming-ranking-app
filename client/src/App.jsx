@@ -125,7 +125,7 @@ function App() {
       const yearFromMatch = yearFrom === 'הכל' || (!isNaN(birthYear) && birthYear >= parseInt(yearFrom));
       const yearToMatch = yearTo === 'הכל' || (!isNaN(birthYear) && birthYear <= parseInt(yearTo));
 
-      const compDate = extractIsoDate(item.competition);
+      const compDate =  extractIsoDate(item.competition) || item.competition_date || '';
       const dateFromMatch = !dateFrom || (compDate && compDate >= dateFrom);
       const dateToMatch = !dateTo || (compDate && compDate <= dateTo);
 
@@ -337,6 +337,7 @@ function App() {
                 const clubName = row.club?.name_he || 'אגודה';
                 const birthYear = row.birth_year || '-';
                 const competitionInfo = row.competition || 'תחרות שחייה';
+                const competitionDate = row.competition_date || extractIsoDate(row.competition);
 
                 return (
                   <div key={index} style={{ 
@@ -375,6 +376,11 @@ function App() {
 
                     <div style={{ flex: 2, fontSize: '13px', color: '#566' }}>
                       {competitionInfo}
+                      {competitionDate && !extractIsoDate(competitionInfo) && (
+                      <div style={{ fontSize: '12px', color: '#777', marginTop: '4px' }}>
+                      {competitionDate.split('-').reverse().join('/')}
+                      </div>
+                    )}
                     </div>
 
                     <div style={{ width: '150px', textAlign: 'left' }}>
