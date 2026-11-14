@@ -329,9 +329,22 @@ function App() {
           <div style={{ backgroundColor: '#fff', borderRadius: '0 0 10px 10px', boxShadow: '0 4px 10px rgba(0,0,0,0.05)', overflow: 'hidden' }}>
             {filteredSwimmers.length > 0 ? (
               filteredSwimmers.slice(0, 100).map((row, index) => {
-                let fullName = row.swimmer?.first_name || '';
-                if (!fullName || fullName.includes('חופשי') || fullName.includes('גב') || fullName.includes('חזה') || fullName.includes('פרפר') || fullName.includes('מעורב') || fullName.match(/^\d/)) {
-                  fullName = row.name || 'שחיין לא ידוע';
+                
+                let fullName = row.swimmer?.full_name || row.swimmer?.first_name || row.name || '';
+                const invalidNames = [
+                  'חופשי',
+                  'גב',
+                  'חזה',
+                  'פרפר',
+                  'מעורב'
+                ];
+
+                if (
+                  !fullName.trim() ||
+                  invalidNames.includes(fullName.trim()) ||
+                  /^\d/.test(fullName.trim())
+                ) {
+                  fullName = 'שחיין לא ידוע';
                 }
 
                 const clubName = row.club?.name_he || 'אגודה';
