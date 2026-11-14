@@ -14,6 +14,7 @@ A high-performance React web application designed to track, filter, and rank com
 * **Data Scraping & Processing:** Node.js, Playwright
 * **Version Control:** Git & GitHub
 
+
 ## 🚀 Getting Started Locally
 
 1. **Clone the repository:**
