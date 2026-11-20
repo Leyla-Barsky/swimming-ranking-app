@@ -26,6 +26,7 @@ function timeToSeconds(timeStr) {
 
 function extractIsoDate(compStr) {
   if (!compStr) return '';
+
   const match = compStr.match(/(\d{2})\/(\d{2})\/(\d{4})/);
 
   if (match) {
@@ -211,6 +212,21 @@ function App() {
         yearTo === 'הכל' ||
         (!isNaN(birthYear) && birthYear <= parseInt(yearTo));
 
+      // חיפוש לפי שם מלא, שם פרטי או שם משפחה
+      const swimmerName = [
+        item.swimmer?.full_name,
+        item.swimmer?.first_name,
+        item.swimmer?.last_name,
+        item.name
+      ]
+        .filter(Boolean)
+        .join(' ')
+        .toLowerCase();
+
+      const searchMatch =
+        !appliedSearch ||
+        swimmerName.includes(appliedSearch.toLowerCase());
+
       // העדפת התאריך שמופיע בשם התחרות
       const compDate =
         extractIsoDate(item.competition) ||
@@ -222,16 +238,6 @@ function App() {
 
       const dateToMatch =
         !dateTo || (compDate && compDate <= dateTo);
-
-      const swimmerName = `
-        ${item.swimmer?.first_name || ''}
-        ${item.swimmer?.last_name || ''}
-        ${item.name || ''}
-      `.toLowerCase();
-
-      const searchMatch =
-        !appliedSearch ||
-        swimmerName.includes(appliedSearch.toLowerCase());
 
       return (
         disciplineMatch &&
@@ -639,7 +645,7 @@ function App() {
                 cursor: 'pointer'
               }}
             >
-              הצג תוצאה הטובה ביותר לשחיין/ית   
+              הצג תוצאה הטובה ביותר לשחיין/ית
             </label>
           </div>
 
@@ -693,7 +699,6 @@ function App() {
             </table>
           </div>
 
-          
           <div style={{
             backgroundColor: '#fff',
             borderRadius: '0 0 10px 10px',
@@ -702,11 +707,6 @@ function App() {
           }}>
             {displayedSwimmers.length > 0 ? (
               displayedSwimmers.slice(0, 100).map((row, index) => {
-                const possibleNames = [
-                  row.swimmer?.full_name,
-                  row.swimmer?.first_name,
-                  row.name
-                ];
 
                 const invalidNames = [
                   'חופשי',
@@ -716,7 +716,7 @@ function App() {
                   'מעורב'
                 ];
 
-                const isValidName = (name) => {
+                const isValidSwimmerName = (name) => {
                   const cleanName = String(name || '').trim();
 
                   return (
@@ -726,8 +726,14 @@ function App() {
                   );
                 };
 
+                const possibleNames = [
+                  row.swimmer?.full_name,
+                  row.swimmer?.first_name,
+                  row.name
+                ];
+
                 const fullName =
-                  possibleNames.find(isValidName) || 'שחיין לא ידוע';
+                  possibleNames.find(isValidSwimmerName) || 'שחיין לא ידוע';
 
                 const clubName = row.club?.name_he || 'אגודה';
                 const birthYear = row.birth_year || '-';
