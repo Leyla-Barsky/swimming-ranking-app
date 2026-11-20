@@ -129,8 +129,19 @@ function App() {
       const dateFromMatch = !dateFrom || (compDate && compDate >= dateFrom);
       const dateToMatch = !dateTo || (compDate && compDate <= dateTo);
 
-      const swimmerName = `${item.swimmer?.first_name || ''} ${item.swimmer?.last_name || ''} ${item.name || ''}`.toLowerCase();
-      const searchMatch = !appliedSearch || swimmerName.includes(appliedSearch.toLowerCase());
+      const swimmerName = [
+        item.swimmer?.full_name,
+        item.swimmer?.first_name,
+        item.swimmer?.last_name,
+        item.name
+      ]
+      .filter(Boolean)
+      .join(' ')
+      .toLowerCase();
+
+      const searchMatch =
+       !appliedSearch ||
+       swimmerName.includes(appliedSearch.toLowerCase());
 
       return disciplineMatch && genderMatch && poolMatch && yearFromMatch && yearToMatch && dateFromMatch && dateToMatch && searchMatch;
     })
@@ -329,10 +340,33 @@ function App() {
           <div style={{ backgroundColor: '#fff', borderRadius: '0 0 10px 10px', boxShadow: '0 4px 10px rgba(0,0,0,0.05)', overflow: 'hidden' }}>
             {filteredSwimmers.length > 0 ? (
               filteredSwimmers.slice(0, 100).map((row, index) => {
-                let fullName = row.swimmer?.first_name || '';
-                if (!fullName || fullName.includes('חופשי') || fullName.includes('גב') || fullName.includes('חזה') || fullName.includes('פרפר') || fullName.includes('מעורב') || fullName.match(/^\d/)) {
-                  fullName = row.name || 'שחיין לא ידוע';
-                }
+                
+                const invalidNames = [
+                  'חופשי',
+                  'גב',
+                  'חזה',
+                  'פרפר',
+                  'מעורב'
+                ];
+
+                const isValidSwimmerName = (name) => {
+                  const cleanName = String(name || '').trim();
+
+                  return (
+                    cleanName !== '' &&
+                    !invalidNames.includes(cleanName) &&
+                    !/^\d/.test(cleanName)
+                  );
+                };
+
+                const possibleNames = [
+                  row.swimmer?.full_name,
+                  row.swimmer?.first_name,
+                  row.name
+                ];
+
+                const fullName =
+                  possibleNames.find(isValidSwimmerName) || 'שחיין לא ידוע';
 
                 const clubName = row.club?.name_he || 'אגודה';
                 const birthYear = row.birth_year || '-';
