@@ -1,0 +1,56 @@
+
+name: Update Swimming Data
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Get repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Chromium
+        run: npx playwright install --with-deps chromium
+
+      - name: Discover competitions
+        run: node scrapeAssociation.js
+
+      - name: Scrape swimming results
+        run: node scrapeLogligResults.js
+
+      - name: Merge swimming database
+        run: node mergeData.js
+
+      - name: Save updated data to GitHub
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add loglig_competitions.json
+          git add client/public/loglig_results.json
+          git add client/public/loglig_competition_metadata.json
+          git add client/public/master_swimming_database.json
+
+          if git diff --cached --quiet; then
+            echo "No new swimming data to commit."
+          else
+            git commit -m "Update swimming results"
+            git push
+          fi
