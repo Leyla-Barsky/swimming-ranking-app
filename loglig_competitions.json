@@ -185,8 +185,8 @@
     "url": "https://isr.org.il/comp.asp?compID=16898",
     "source": "Loglig_Iframe",
     "associationUrl": "https://isr.org.il/comp.asp?compID=16898",
-    "logligUrl": null,
-    "regulationUrl": "https://loglig.com:2053/LeagueTable/ShowLeagueDoc/3452"
+    "logligUrl": "https://loglig.com:2053/LeagueTable/AthleticsDisciplines/15949",
+    "regulationUrl": null
   },
   {
     "id": 82,
@@ -230,8 +230,8 @@
     "url": "https://isr.org.il/comp.asp?compID=16899",
     "source": "Loglig_Iframe",
     "associationUrl": "https://isr.org.il/comp.asp?compID=16899",
-    "logligUrl": null,
-    "regulationUrl": "https://loglig.com:2053/LeagueTable/ShowLeagueDoc/3460"
+    "logligUrl": "https://loglig.com:2053/LeagueTable/AthleticsDisciplines/15966",
+    "regulationUrl": null
   },
   {
     "id": 96,
