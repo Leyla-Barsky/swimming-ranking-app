@@ -185,11 +185,17 @@ function App() {
       .sort((a, b) => getDisciplineOrder(a) - getDisciplineOrder(b))
   ];
 
-  // רשימת שנות הלידה
-  const years = [
-    'הכל',
-    ...Array.from({ length: 18 }, (_, i) => String(2003 + i))
-  ];
+
+// רשימת שנות הלידה מתוך מסד הנתונים
+const years = [
+  'הכל',
+  ...[...new Set(
+    swimmers
+      .map(item => String(item.birth_year || '').trim())
+      .filter(year => Number(year) >= 1998 && Number(year) <= 2019)
+  )].sort((a, b) => Number(a) - Number(b))
+];
+
 
   // סינון התוצאות
   const filteredSwimmers = swimmers
