@@ -348112,5 +348112,4035 @@
     "competition_date": "2026-11-20",
     "source": "Loglig",
     "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87030?isModal=True"
+  },
+  {
+    "result_id": "518112fcf799cb163947d7a8b6020e3b7a89fa31",
+    "swimmer_id": "0fb4a0edd5c30cf63e7a59b3486d9e1460ec3c7a",
+    "swimmer": {
+      "first_name": "ליאן שטוטמן",
+      "last_name": "",
+      "full_name": "ליאן שטוטמן"
+    },
+    "gender": "בנות",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "00:31.71",
+    "points": 373,
+    "position": "1",
+    "heat": "2",
+    "lane": "6",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87340?isModal=True"
+  },
+  {
+    "result_id": "95e79dd93d3e35c2825c7e17013b5cfa72da3018",
+    "swimmer_id": "67b39607f15ef689dddeb9e169179a339d03771e",
+    "swimmer": {
+      "first_name": "אליזבטה דמיטרייב",
+      "last_name": "",
+      "full_name": "אליזבטה דמיטרייב"
+    },
+    "gender": "בנות",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "00:32.27",
+    "points": 354,
+    "position": "2",
+    "heat": "2",
+    "lane": "4",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87340?isModal=True"
+  },
+  {
+    "result_id": "bc7825f15cd183ffaf407e2fc7f355cea76a2b35",
+    "swimmer_id": "7d58b59fb41451a65747ec241a056c6fd92b8081",
+    "swimmer": {
+      "first_name": "אוליביה בלץ",
+      "last_name": "",
+      "full_name": "אוליביה בלץ"
+    },
+    "gender": "בנות",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "הפועל קרית אתא"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "00:33.09",
+    "points": 328,
+    "position": "3",
+    "heat": "2",
+    "lane": "3",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87340?isModal=True"
+  },
+  {
+    "result_id": "d6a266b515e5de79987c1c0b1509f021fe2025ad",
+    "swimmer_id": "2dffea5700f9d371734e52f85de9651aeb0f2082",
+    "swimmer": {
+      "first_name": "ליונא סעד",
+      "last_name": "",
+      "full_name": "ליונא סעד"
+    },
+    "gender": "בנות",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי נהריה"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "00:34.42",
+    "points": 291,
+    "position": "4",
+    "heat": "2",
+    "lane": "5",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87340?isModal=True"
+  },
+  {
+    "result_id": "34182695ed80af695c0a0d849da6ed503fe7516a",
+    "swimmer_id": "d4ac7bc5cb99ce8074f7ba5fa03e4230cb02bd6f",
+    "swimmer": {
+      "first_name": "יהלי פסו",
+      "last_name": "",
+      "full_name": "יהלי פסו"
+    },
+    "gender": "בנות",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "00:35.52",
+    "points": 265,
+    "position": "5",
+    "heat": "1",
+    "lane": "4",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87340?isModal=True"
+  },
+  {
+    "result_id": "1b77ccf4791ce492b9e6c7dcfa108827a6a8179d",
+    "swimmer_id": "f440794ca82770aa5c7a275ea68814fb0eac7f94",
+    "swimmer": {
+      "first_name": "טליה מיכל",
+      "last_name": "",
+      "full_name": "טליה מיכל"
+    },
+    "gender": "בנות",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "הפועל קרית אתא"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "00:37.67",
+    "points": 222,
+    "position": "6",
+    "heat": "2",
+    "lane": "7",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87340?isModal=True"
+  },
+  {
+    "result_id": "0534a838fc3b76f451438eeafdc8b329f75688d9",
+    "swimmer_id": "194792d6a7470ab8a756ffed79a7ab9a26e9ad87",
+    "swimmer": {
+      "first_name": "מיקה ספיר",
+      "last_name": "",
+      "full_name": "מיקה ספיר"
+    },
+    "gender": "בנות",
+    "birth_year": "2016",
+    "club": {
+      "name_he": "מכבי נהריה"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "00:38.37",
+    "points": 210,
+    "position": "7",
+    "heat": "2",
+    "lane": "2",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87340?isModal=True"
+  },
+  {
+    "result_id": "124d719b0fc7bf0e5c3e539a60c201d7a77377b3",
+    "swimmer_id": "c6c4199f35495411940d8a33df52e9767ea32c12",
+    "swimmer": {
+      "first_name": "טליה נירקיס",
+      "last_name": "",
+      "full_name": "טליה נירקיס"
+    },
+    "gender": "בנות",
+    "birth_year": "2016",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "00:40.03",
+    "points": 185,
+    "position": "8",
+    "heat": "2",
+    "lane": "8",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87340?isModal=True"
+  },
+  {
+    "result_id": "bbbfa84384330c411a9abad8fdb0603ff7be05b2",
+    "swimmer_id": "f5f35229b373cd7db0ed539d2ac4d0a7d0ad6ab9",
+    "swimmer": {
+      "first_name": "נועה גלסברג",
+      "last_name": "",
+      "full_name": "נועה גלסברג"
+    },
+    "gender": "בנות",
+    "birth_year": "2017",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "00:42.69",
+    "points": 152,
+    "position": "9",
+    "heat": "1",
+    "lane": "5",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87340?isModal=True"
+  },
+  {
+    "result_id": "9c2003d1c46d44a76c81be85ec880d009635dfe6",
+    "swimmer_id": "343e1f5e489813ef2d124a75329c3198af8a02d7",
+    "swimmer": {
+      "first_name": "מיאל לוין",
+      "last_name": "",
+      "full_name": "מיאל לוין"
+    },
+    "gender": "בנות",
+    "birth_year": "2016",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "00:44.47",
+    "points": 135,
+    "position": "10",
+    "heat": "2",
+    "lane": "1",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87340?isModal=True"
+  },
+  {
+    "result_id": "902fae052bcd5b5f244e1163785f86b5556acc4b",
+    "swimmer_id": "9c992e45c41dbce5b39bb0231beb43c8733372bf",
+    "swimmer": {
+      "first_name": "רוני סטרימובסקי",
+      "last_name": "",
+      "full_name": "רוני סטרימובסקי"
+    },
+    "gender": "בנות",
+    "birth_year": "2017",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "00:44.99",
+    "points": 130,
+    "position": "11",
+    "heat": "1",
+    "lane": "3",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87340?isModal=True"
+  },
+  {
+    "result_id": "e7a908e7ac62441c9153f19e329a3e1654003908",
+    "swimmer_id": "83ecd3ac3f15a522da820cbbe2e685b22d94f463",
+    "swimmer": {
+      "first_name": "רומי פימה",
+      "last_name": "",
+      "full_name": "רומי פימה"
+    },
+    "gender": "בנות",
+    "birth_year": "2016",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "00:47.31",
+    "points": 112,
+    "position": "12",
+    "heat": "1",
+    "lane": "2",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87340?isModal=True"
+  },
+  {
+    "result_id": "2becba603a7caec7b995a9c2d81752b7f690e637",
+    "swimmer_id": "1ea31f39e1c7ba13943135f622a4bfd0cd0bb797",
+    "swimmer": {
+      "first_name": "תמר קרן כהן",
+      "last_name": "",
+      "full_name": "תמר קרן כהן"
+    },
+    "gender": "בנות",
+    "birth_year": "2017",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "00:54.26",
+    "points": 74,
+    "position": "13",
+    "heat": "1",
+    "lane": "8",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87340?isModal=True"
+  },
+  {
+    "result_id": "093950997949dbad1994459741b39b8b88a74c66",
+    "swimmer_id": "94deb3579324a8a78417f555c203afd473d2d16d",
+    "swimmer": {
+      "first_name": "אנסטסיה קלינה",
+      "last_name": "",
+      "full_name": "אנסטסיה קלינה"
+    },
+    "gender": "בנות",
+    "birth_year": "2017",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "00:56.28",
+    "points": 66,
+    "position": "14",
+    "heat": "1",
+    "lane": "1",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87340?isModal=True"
+  },
+  {
+    "result_id": "ea4f3bb97f5b7372c25f7c6a5caf210d86150d67",
+    "swimmer_id": "4e54faa9875958b9e762c9e4b480b9ba6183d6dd",
+    "swimmer": {
+      "first_name": "אילה פישר",
+      "last_name": "",
+      "full_name": "אילה פישר"
+    },
+    "gender": "בנות",
+    "birth_year": "2017",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "00:56.60",
+    "points": 65,
+    "position": "15",
+    "heat": "1",
+    "lane": "7",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87340?isModal=True"
+  },
+  {
+    "result_id": "153260d81bbc33ddae8fdb023d657b7375486282",
+    "swimmer_id": "9ae08b5596833a0d3be9c727833914f7ea9f7c9b",
+    "swimmer": {
+      "first_name": "אריאל משה",
+      "last_name": "",
+      "full_name": "אריאל משה"
+    },
+    "gender": "בנות",
+    "birth_year": "2017",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "00:57.53",
+    "points": 62,
+    "position": "16",
+    "heat": "1",
+    "lane": "6",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87340?isModal=True"
+  },
+  {
+    "result_id": "48d35d5d64e79996bc8c96a3e1eb0805b883659b",
+    "swimmer_id": "33d5dad9d0e7997e96189ece0514545ce284928b",
+    "swimmer": {
+      "first_name": "לירוי בורוליה",
+      "last_name": "",
+      "full_name": "לירוי בורוליה"
+    },
+    "gender": "בנים",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:26.97",
+    "points": 401,
+    "position": "1",
+    "heat": "5",
+    "lane": "4",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "502108335d25bebb0004cf1b92a168282e95410c",
+    "swimmer_id": "8045eb535f233c296b33e997d882b8d14a1e9c89",
+    "swimmer": {
+      "first_name": "אלכסנדר קוזוריז",
+      "last_name": "",
+      "full_name": "אלכסנדר קוזוריז"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי נהריה"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:29.58",
+    "points": 304,
+    "position": "2",
+    "heat": "5",
+    "lane": "5",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "8042118a130ccbcd16089dd944aab8013157a454",
+    "swimmer_id": "5b7654db295b2df347263a93e93368559da109e3",
+    "swimmer": {
+      "first_name": "איתי חרמוני",
+      "last_name": "",
+      "full_name": "איתי חרמוני"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:30.05",
+    "points": 290,
+    "position": "3",
+    "heat": "5",
+    "lane": "2",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "08bf3b8a4a1918ffe439e292211f4a8046179598",
+    "swimmer_id": "6a099b5f8e7bed7615faaa7e149b89bbabb282b2",
+    "swimmer": {
+      "first_name": "גיא שנהר",
+      "last_name": "",
+      "full_name": "גיא שנהר"
+    },
+    "gender": "בנים",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:30.56",
+    "points": 276,
+    "position": "4",
+    "heat": "5",
+    "lane": "8",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "eb621a61f74a9ecdf22a340ce4d5debde4277cdc",
+    "swimmer_id": "e4dfc6da95008435e956585fe4a1cc000995e37b",
+    "swimmer": {
+      "first_name": "נתן קרימר",
+      "last_name": "",
+      "full_name": "נתן קרימר"
+    },
+    "gender": "בנים",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:31.09",
+    "points": 262,
+    "position": "5",
+    "heat": "5",
+    "lane": "7",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "a99033f5e47af1f5a13c0eceb231f1c352184ba4",
+    "swimmer_id": "e5c8d486668e33ca2a655c94aff320af1d29304f",
+    "swimmer": {
+      "first_name": "בועז נחם",
+      "last_name": "",
+      "full_name": "בועז נחם"
+    },
+    "gender": "בנים",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:31.19",
+    "points": 259,
+    "position": "6",
+    "heat": "5",
+    "lane": "3",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "f05d22a761e1140003755b9b4f9127bc9bb369d0",
+    "swimmer_id": "abbde32fd63b5e9f15d09ff308a77a57d130dede",
+    "swimmer": {
+      "first_name": "איתן דונאייבסקי",
+      "last_name": "",
+      "full_name": "איתן דונאייבסקי"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי נהריה"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:31.65",
+    "points": 248,
+    "position": "7",
+    "heat": "3",
+    "lane": "5",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "4896eb936491b6e496eb25ca34feed04e93cfe9e",
+    "swimmer_id": "60d7b59f8b0cf022cc6a0e0c86810a4ab6126287",
+    "swimmer": {
+      "first_name": "עלי בלאל נגידאת",
+      "last_name": "",
+      "full_name": "עלי בלאל נגידאת"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "הפועל לב הגליל סחנין"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:32.33",
+    "points": 233,
+    "position": "8",
+    "heat": "5",
+    "lane": "1",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "87e579e78608881d9ea18297eaf605ca8c60bc40",
+    "swimmer_id": "9d87965c8bec4f5bf84426e97f16960ec17f4d73",
+    "swimmer": {
+      "first_name": "אורן קליין",
+      "last_name": "",
+      "full_name": "אורן קליין"
+    },
+    "gender": "בנים",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:33.53",
+    "points": 209,
+    "position": "9",
+    "heat": "4",
+    "lane": "3",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "e0bfc2549223eb3b55a55bd47273151a6f209738",
+    "swimmer_id": "00d2ff6f86abbc4788def2be9124e290e8031e73",
+    "swimmer": {
+      "first_name": "בן אור קינן",
+      "last_name": "",
+      "full_name": "בן אור קינן"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:33.72",
+    "points": 205,
+    "position": "10",
+    "heat": "4",
+    "lane": "5",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "ed326d339d5b325b5190fde6f92b979a453fb666",
+    "swimmer_id": "2e6174df9d3a701eb68fdbbdeb12ee7ff1752c6a",
+    "swimmer": {
+      "first_name": "דוד זרובקין",
+      "last_name": "",
+      "full_name": "דוד זרובקין"
+    },
+    "gender": "בנים",
+    "birth_year": "2016",
+    "club": {
+      "name_he": "הפועל קרית אתא"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:35.75",
+    "points": 172,
+    "position": "11",
+    "heat": "3",
+    "lane": "4",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "4a5aee1b2478b98d1c206e58ca26576de4aed1bf",
+    "swimmer_id": "dd3049e5c03ee38b9e68e0a6017379d1e1be6886",
+    "swimmer": {
+      "first_name": "תומר טרלין",
+      "last_name": "",
+      "full_name": "תומר טרלין"
+    },
+    "gender": "בנים",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:36.38",
+    "points": 163,
+    "position": "12",
+    "heat": "4",
+    "lane": "6",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "3fe6146a99b7c6d5ea36bad16c496b1536d4bc2a",
+    "swimmer_id": "e00081c3886fe3e44e26651515d15c523a85fc6f",
+    "swimmer": {
+      "first_name": "מחמוד אמיר אמיר זבידאת",
+      "last_name": "",
+      "full_name": "מחמוד אמיר אמיר זבידאת"
+    },
+    "gender": "בנים",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "הפועל לב הגליל סחנין"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:36.43",
+    "points": 162,
+    "position": "13",
+    "heat": "4",
+    "lane": "2",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "8f47b16619ddf62c301f1b7275b9758c703991fc",
+    "swimmer_id": "606c2159413cc5963cd7bce153375fcfa93be565",
+    "swimmer": {
+      "first_name": "סטיבן מצק",
+      "last_name": "",
+      "full_name": "סטיבן מצק"
+    },
+    "gender": "בנים",
+    "birth_year": "2016",
+    "club": {
+      "name_he": "הפועל קרית אתא"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:36.45",
+    "points": 162,
+    "position": "14",
+    "heat": "2",
+    "lane": "8",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "7bc319e52653ea2c46b96a68dc5beaabbfc7525b",
+    "swimmer_id": "40894d283f2b9c0a9607c0ac6a498f0e6265572b",
+    "swimmer": {
+      "first_name": "אדם בוגוסלבץ",
+      "last_name": "",
+      "full_name": "אדם בוגוסלבץ"
+    },
+    "gender": "בנים",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:36.56",
+    "points": 161,
+    "position": "15",
+    "heat": "4",
+    "lane": "8",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "94220370c0e2e04dc4ef2d7abf486e51f2d4b6e3",
+    "swimmer_id": "a312cc7177c8d6f0e1654abec208013e18e87b6a",
+    "swimmer": {
+      "first_name": "באסם מוחמד אבו ריא",
+      "last_name": "",
+      "full_name": "באסם מוחמד אבו ריא"
+    },
+    "gender": "בנים",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "הפועל לב הגליל סחנין"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:36.72",
+    "points": 159,
+    "position": "16",
+    "heat": "5",
+    "lane": "6",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "70ab558227d733c8292df5ef60e00e57240ac2f0",
+    "swimmer_id": "3553449ce6742e2ff31c9c449e01fcea2e4eeef7",
+    "swimmer": {
+      "first_name": "גבריאל מובצ'ן מלר",
+      "last_name": "",
+      "full_name": "גבריאל מובצ'ן מלר"
+    },
+    "gender": "בנים",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:37.04",
+    "points": 155,
+    "position": "17",
+    "heat": "4",
+    "lane": "7",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "93dd0ea119e239d1b71d093bab0fd368902ff79e",
+    "swimmer_id": "3da1d43b9500a356734efb3a51e3f9fb173eec0f",
+    "swimmer": {
+      "first_name": "מאור פינטו",
+      "last_name": "",
+      "full_name": "מאור פינטו"
+    },
+    "gender": "בנים",
+    "birth_year": "2017",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:38.68",
+    "points": 136,
+    "position": "18",
+    "heat": "3",
+    "lane": "3",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "a1d7b9f1f02cbea25976da871edf127931f3adf0",
+    "swimmer_id": "fb68b2badc5c0da47ceccd51ae5256e5277f1046",
+    "swimmer": {
+      "first_name": "מיכל דביר",
+      "last_name": "",
+      "full_name": "מיכל דביר"
+    },
+    "gender": "בנים",
+    "birth_year": "2016",
+    "club": {
+      "name_he": "הפועל קרית אתא"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:39.75",
+    "points": 125,
+    "position": "19",
+    "heat": "3",
+    "lane": "7",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "f1777d0e06c9178448669224ee6d51d7447bf367",
+    "swimmer_id": "9ace3226f9119504e8f56928eb6458eb73aee4d1",
+    "swimmer": {
+      "first_name": "לוקה אובציניקוב",
+      "last_name": "",
+      "full_name": "לוקה אובציניקוב"
+    },
+    "gender": "בנים",
+    "birth_year": "2017",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:42.27",
+    "points": 104,
+    "position": "20",
+    "heat": "3",
+    "lane": "2",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "69502ffe41a9927480179e1f02079979a46564b2",
+    "swimmer_id": "2436ace6bb85464aec85e0e9b70574b11a5e1cf5",
+    "swimmer": {
+      "first_name": "דן (Den) גנקין",
+      "last_name": "",
+      "full_name": "דן (Den) גנקין"
+    },
+    "gender": "בנים",
+    "birth_year": "2017",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:42.79",
+    "points": 100,
+    "position": "21",
+    "heat": "2",
+    "lane": "5",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "46225d230069922697c7d494884c37e8d94f4852",
+    "swimmer_id": "1cfbba29169f803b6ecbd83fbc37621259662234",
+    "swimmer": {
+      "first_name": "אייל ליפשיץ",
+      "last_name": "",
+      "full_name": "אייל ליפשיץ"
+    },
+    "gender": "בנים",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:43.17",
+    "points": 97,
+    "position": "22",
+    "heat": "3",
+    "lane": "6",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "1427fa3f9b2d070af0da3870eae4bc956a2da81d",
+    "swimmer_id": "13b87a636428862019322c28cfbfa27cbd4a2795",
+    "swimmer": {
+      "first_name": "כאמל עומר אסמעיל",
+      "last_name": "",
+      "full_name": "כאמל עומר אסמעיל"
+    },
+    "gender": "בנים",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "הפועל לב הגליל סחנין"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:43.23",
+    "points": 97,
+    "position": "23",
+    "heat": "3",
+    "lane": "8",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "e66081db1ac810c8fccfb510e2c3d9ae4104bf15",
+    "swimmer_id": "873df911a477c01c44c3d05bf449b05ca310a68d",
+    "swimmer": {
+      "first_name": "איתי חיבטוב",
+      "last_name": "",
+      "full_name": "איתי חיבטוב"
+    },
+    "gender": "בנים",
+    "birth_year": "2017",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:43.89",
+    "points": 93,
+    "position": "24",
+    "heat": "3",
+    "lane": "1",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "079188683a849567ac4042c55b1c9dfbfd998396",
+    "swimmer_id": "cb44c6ee9ca03e09804dbee2c39ce88755ab7d02",
+    "swimmer": {
+      "first_name": "בן ליובובסקי",
+      "last_name": "",
+      "full_name": "בן ליובובסקי"
+    },
+    "gender": "בנים",
+    "birth_year": "2017",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:45.38",
+    "points": 84,
+    "position": "25",
+    "heat": "1",
+    "lane": "4",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "ce31c5d2785895655000315daa605f5d82f977f7",
+    "swimmer_id": "769b03d1f9c00881a3bea2a3e513f91c39b68f78",
+    "swimmer": {
+      "first_name": "יובל דהן",
+      "last_name": "",
+      "full_name": "יובל דהן"
+    },
+    "gender": "בנים",
+    "birth_year": "2017",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:45.48",
+    "points": 83,
+    "position": "26",
+    "heat": "1",
+    "lane": "3",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "6d6acd705136616c978c6972185d8637326c1afd",
+    "swimmer_id": "4008df50622ab641d09c0050529a9c5a5d5f8157",
+    "swimmer": {
+      "first_name": "אורי לוי",
+      "last_name": "",
+      "full_name": "אורי לוי"
+    },
+    "gender": "בנים",
+    "birth_year": "2017",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:45.63",
+    "points": 82,
+    "position": "27",
+    "heat": "2",
+    "lane": "4",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "a5704ba43331bb6b83c60f0f9de5ffaaecc1cded",
+    "swimmer_id": "a95e8235cfc2bb4a69b2ab90233283abc3cbd36a",
+    "swimmer": {
+      "first_name": "דן בראון",
+      "last_name": "",
+      "full_name": "דן בראון"
+    },
+    "gender": "בנים",
+    "birth_year": "2016",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:46.52",
+    "points": 78,
+    "position": "28",
+    "heat": "2",
+    "lane": "2",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "0db6a2f50960f62d53136020c9b0ce62e73907b1",
+    "swimmer_id": "c1874c096b0ea14bc57bf3b7658d9d5c3719021c",
+    "swimmer": {
+      "first_name": "נתן גוסצנקו",
+      "last_name": "",
+      "full_name": "נתן גוסצנקו"
+    },
+    "gender": "בנים",
+    "birth_year": "2017",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:46.75",
+    "points": 77,
+    "position": "29",
+    "heat": "1",
+    "lane": "5",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "793c92d0439f3e91c56901ae554f40a497e96b77",
+    "swimmer_id": "2360e8fc43db13cef9c4af6845180d93650f6407",
+    "swimmer": {
+      "first_name": "ארבל אדרי",
+      "last_name": "",
+      "full_name": "ארבל אדרי"
+    },
+    "gender": "בנים",
+    "birth_year": "2016",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:48.65",
+    "points": 68,
+    "position": "30",
+    "heat": "2",
+    "lane": "1",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "df6d9a25abdf2242b79f79fdc3e182608ede956e",
+    "swimmer_id": "8816f7dfebae9543d24e1d28b8b0824e95f87f10",
+    "swimmer": {
+      "first_name": "יובל ניצני",
+      "last_name": "",
+      "full_name": "יובל ניצני"
+    },
+    "gender": "בנים",
+    "birth_year": "2017",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "50 חופשי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "00:53.78",
+    "points": 50,
+    "position": "31",
+    "heat": "2",
+    "lane": "6",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87346?isModal=True"
+  },
+  {
+    "result_id": "9e94984c62fcc84969261050e3c7e9bfd2ef785a",
+    "swimmer_id": "9a4a665e3b98ce35395f957fc0fd14a4253b27e7",
+    "swimmer": {
+      "first_name": "סופיה לפטב",
+      "last_name": "",
+      "full_name": "סופיה לפטב"
+    },
+    "gender": "בנות",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "02:48.24",
+    "points": 377,
+    "position": "1",
+    "heat": "4",
+    "lane": "4",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87338?isModal=True"
+  },
+  {
+    "result_id": "1a83c9a2fb3b6c2fd71e3335caa78ef2288228c2",
+    "swimmer_id": "732d40a71b510536869ca6b3b518d94b01c67890",
+    "swimmer": {
+      "first_name": "איילת ליפשיץ",
+      "last_name": "",
+      "full_name": "איילת ליפשיץ"
+    },
+    "gender": "בנות",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "02:51.53",
+    "points": 356,
+    "position": "2",
+    "heat": "3",
+    "lane": "6",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87338?isModal=True"
+  },
+  {
+    "result_id": "208cb1cda9ae768408550d6e5ac4d48f2dc12968",
+    "swimmer_id": "9e1d8cf8b1b5e9cb4a273b67320943ab5b8c832f",
+    "swimmer": {
+      "first_name": "טליה אדרי",
+      "last_name": "",
+      "full_name": "טליה אדרי"
+    },
+    "gender": "בנות",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "02:51.59",
+    "points": 356,
+    "position": "3",
+    "heat": "4",
+    "lane": "6",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87338?isModal=True"
+  },
+  {
+    "result_id": "3673d6319501998309e9080837a061aab43afd6f",
+    "swimmer_id": "740215b72d642bcc81817c37d5e827864cbb228b",
+    "swimmer": {
+      "first_name": "אביגייל ממדוב",
+      "last_name": "",
+      "full_name": "אביגייל ממדוב"
+    },
+    "gender": "בנות",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "02:52.42",
+    "points": 351,
+    "position": "4",
+    "heat": "4",
+    "lane": "2",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87338?isModal=True"
+  },
+  {
+    "result_id": "d11bb31233a62e735f413fe8280a3c57f6d62336",
+    "swimmer_id": "82159a87d71a94c64dd4118546aa69145784ec75",
+    "swimmer": {
+      "first_name": "נעמי זסלבסקי",
+      "last_name": "",
+      "full_name": "נעמי זסלבסקי"
+    },
+    "gender": "בנות",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "02:53.38",
+    "points": 345,
+    "position": "5",
+    "heat": "4",
+    "lane": "5",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87338?isModal=True"
+  },
+  {
+    "result_id": "adadaa1ed7973ba7d307ed691eb32f7632341d38",
+    "swimmer_id": "7fa4c56e329ba2fc7800c16750220754e7382a5b",
+    "swimmer": {
+      "first_name": "ארבל ישראלי",
+      "last_name": "",
+      "full_name": "ארבל ישראלי"
+    },
+    "gender": "בנות",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי נהריה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "02:53.99",
+    "points": 341,
+    "position": "6",
+    "heat": "4",
+    "lane": "3",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87338?isModal=True"
+  },
+  {
+    "result_id": "df7839064420293a15a27fa021881c40d930a995",
+    "swimmer_id": "f2924b9d5ffc5d4235d8c527e6b3ec47a01d771d",
+    "swimmer": {
+      "first_name": "אומה קוט אניקין",
+      "last_name": "",
+      "full_name": "אומה קוט אניקין"
+    },
+    "gender": "בנות",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "02:59.18",
+    "points": 312,
+    "position": "7",
+    "heat": "4",
+    "lane": "7",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87338?isModal=True"
+  },
+  {
+    "result_id": "ae709129b74ae85197dbc3b5f0e5964b69884d7f",
+    "swimmer_id": "218fdf7d91026ea1544ddc6b83184b3b46c650e6",
+    "swimmer": {
+      "first_name": "יעל אשד",
+      "last_name": "",
+      "full_name": "יעל אשד"
+    },
+    "gender": "בנות",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "02:59.25",
+    "points": 312,
+    "position": "8",
+    "heat": "4",
+    "lane": "1",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87338?isModal=True"
+  },
+  {
+    "result_id": "8173efb9ad11dbd63ca86c3cacecd33b40752459",
+    "swimmer_id": "64f344e4577b6592361e69f97fa6af17bb20b26f",
+    "swimmer": {
+      "first_name": "מאי זאור",
+      "last_name": "",
+      "full_name": "מאי זאור"
+    },
+    "gender": "בנות",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:01.91",
+    "points": 298,
+    "position": "9",
+    "heat": "3",
+    "lane": "3",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87338?isModal=True"
+  },
+  {
+    "result_id": "abaff75cbcbcf1ed2495b6b1a3566c3e73216868",
+    "swimmer_id": "dce78cf3044440f3d4f26feefe87e239af34d337",
+    "swimmer": {
+      "first_name": "ופא זקריה עאסלה",
+      "last_name": "",
+      "full_name": "ופא זקריה עאסלה"
+    },
+    "gender": "בנות",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "הפועל לב הגליל סחנין"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:03.12",
+    "points": 293,
+    "position": "10",
+    "heat": "3",
+    "lane": "5",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87338?isModal=True"
+  },
+  {
+    "result_id": "e9917bd1b38868e89fd200b11dba9c8ab4f076ba",
+    "swimmer_id": "37018ea10d5533b8cc229946e4d58134ef16a2b1",
+    "swimmer": {
+      "first_name": "שוהם סבן",
+      "last_name": "",
+      "full_name": "שוהם סבן"
+    },
+    "gender": "בנות",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:04.38",
+    "points": 287,
+    "position": "11",
+    "heat": "3",
+    "lane": "4",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87338?isModal=True"
+  },
+  {
+    "result_id": "669603454199fa41e7b952a5bbd1807d0f435f71",
+    "swimmer_id": "f150a34ea0543a9b02b27ee75432c3368fd82fdd",
+    "swimmer": {
+      "first_name": "טלי קליינר",
+      "last_name": "",
+      "full_name": "טלי קליינר"
+    },
+    "gender": "בנות",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:06.04",
+    "points": 279,
+    "position": "12",
+    "heat": "4",
+    "lane": "8",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87338?isModal=True"
+  },
+  {
+    "result_id": "858a06401ce4bafc0ff1735a63e86162b34a5458",
+    "swimmer_id": "b698757f5527fbf50fd874b785dd22d36895c860",
+    "swimmer": {
+      "first_name": "אליאור צ'בוטר",
+      "last_name": "",
+      "full_name": "אליאור צ'בוטר"
+    },
+    "gender": "בנות",
+    "birth_year": "2016",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:06.25",
+    "points": 278,
+    "position": "13",
+    "heat": "2",
+    "lane": "7",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87338?isModal=True"
+  },
+  {
+    "result_id": "927bed177ec930e32da6ac86579db3cff0de43eb",
+    "swimmer_id": "f87e2059ff02cb8c572487e7058901b2aad6c382",
+    "swimmer": {
+      "first_name": "אליזבטה פרילוצקי",
+      "last_name": "",
+      "full_name": "אליזבטה פרילוצקי"
+    },
+    "gender": "בנות",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:07.52",
+    "points": 272,
+    "position": "14",
+    "heat": "2",
+    "lane": "4",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87338?isModal=True"
+  },
+  {
+    "result_id": "7a9ab91ce56f3545cd740ceddfae90e82a3abfa8",
+    "swimmer_id": "ff422790222abcd685c93d27f1489214b4694af9",
+    "swimmer": {
+      "first_name": "דניאל יוחנן",
+      "last_name": "",
+      "full_name": "דניאל יוחנן"
+    },
+    "gender": "בנות",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:09.22",
+    "points": 265,
+    "position": "15",
+    "heat": "2",
+    "lane": "6",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87338?isModal=True"
+  },
+  {
+    "result_id": "797b547a9de901fedaccdeb5ae5c16678c478c21",
+    "swimmer_id": "b2f9ef9662725b49696c33143b1fe5b23e23b820",
+    "swimmer": {
+      "first_name": "תום אברמסון",
+      "last_name": "",
+      "full_name": "תום אברמסון"
+    },
+    "gender": "בנות",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:11.18",
+    "points": 257,
+    "position": "16",
+    "heat": "3",
+    "lane": "2",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87338?isModal=True"
+  },
+  {
+    "result_id": "9c24eb87eb2711f8686620f4b3f65178f6ba6fe9",
+    "swimmer_id": "b92cf408482a8ac733826ae34c6d2e9601c722ea",
+    "swimmer": {
+      "first_name": "אלה אשכנזי",
+      "last_name": "",
+      "full_name": "אלה אשכנזי"
+    },
+    "gender": "בנות",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:12.20",
+    "points": 253,
+    "position": "17",
+    "heat": "3",
+    "lane": "7",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87338?isModal=True"
+  },
+  {
+    "result_id": "9cc304367e3ab29f6b59e8b2d8555ffe673a8cda",
+    "swimmer_id": "36304ab92cb8ab5f5bb056ba69b4a03bb154866f",
+    "swimmer": {
+      "first_name": "יאסמין לואי נעאמנה",
+      "last_name": "",
+      "full_name": "יאסמין לואי נעאמנה"
+    },
+    "gender": "בנות",
+    "birth_year": "2016",
+    "club": {
+      "name_he": "הפועל לב הגליל סחנין"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:13.24",
+    "points": 249,
+    "position": "18",
+    "heat": "3",
+    "lane": "8",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87338?isModal=True"
+  },
+  {
+    "result_id": "ec79f5c9d3a60248ab7caf478b1da4b143fc8ab6",
+    "swimmer_id": "b6abf96c6cd283d9398cd82fb5abec3b7cd69881",
+    "swimmer": {
+      "first_name": "נועם גרימברג",
+      "last_name": "",
+      "full_name": "נועם גרימברג"
+    },
+    "gender": "בנות",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי נהריה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:14.69",
+    "points": 243,
+    "position": "19",
+    "heat": "3",
+    "lane": "1",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87338?isModal=True"
+  },
+  {
+    "result_id": "b503c09b484ebc804d92dba77111184665010184",
+    "swimmer_id": "0949c4c951acec8f729e969135d34c326dca49bb",
+    "swimmer": {
+      "first_name": "נטע שרעבי",
+      "last_name": "",
+      "full_name": "נטע שרעבי"
+    },
+    "gender": "בנות",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:17.19",
+    "points": 234,
+    "position": "20",
+    "heat": "2",
+    "lane": "3",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87338?isModal=True"
+  },
+  {
+    "result_id": "1f5797a9168e39f811dc54f61e130a2fc4b03780",
+    "swimmer_id": "e1d6d2400bcc2357c0bb355e83fc593f5aa1d4f3",
+    "swimmer": {
+      "first_name": "קרימה מוחמטזיאנוב",
+      "last_name": "",
+      "full_name": "קרימה מוחמטזיאנוב"
+    },
+    "gender": "בנות",
+    "birth_year": "2016",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:20.28",
+    "points": 223,
+    "position": "21",
+    "heat": "2",
+    "lane": "1",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87338?isModal=True"
+  },
+  {
+    "result_id": "e52779b395d539ccb81ca9ac5ea533adf550652a",
+    "swimmer_id": "45b2498befb30672613594949fe5afc228bb5f1a",
+    "swimmer": {
+      "first_name": "אדל חומנטוב",
+      "last_name": "",
+      "full_name": "אדל חומנטוב"
+    },
+    "gender": "בנות",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:29.37",
+    "points": 196,
+    "position": "22",
+    "heat": "2",
+    "lane": "2",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87338?isModal=True"
+  },
+  {
+    "result_id": "439db43f4a469ed9d31be6156ea7c209989afb70",
+    "swimmer_id": "6323cd78fdd000044e864c5b0ff1503660cf6e27",
+    "swimmer": {
+      "first_name": "אליה סברדלוב",
+      "last_name": "",
+      "full_name": "אליה סברדלוב"
+    },
+    "gender": "בנות",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:30.21",
+    "points": 193,
+    "position": "23",
+    "heat": "2",
+    "lane": "5",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87338?isModal=True"
+  },
+  {
+    "result_id": "a0f352297ccbcabf79345306cdbd21b03dda5349",
+    "swimmer_id": "15235247ebdf0b9ab6890f602a90237a2fefc16e",
+    "swimmer": {
+      "first_name": "אילאן מוסא מוסא אבו יונס",
+      "last_name": "",
+      "full_name": "אילאן מוסא מוסא אבו יונס"
+    },
+    "gender": "בנות",
+    "birth_year": "2017",
+    "club": {
+      "name_he": "הפועל לב הגליל סחנין"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:34.46",
+    "points": 182,
+    "position": "24",
+    "heat": "2",
+    "lane": "8",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87338?isModal=True"
+  },
+  {
+    "result_id": "6b61ae885a7d5ab32151853f864f12c65a72b7db",
+    "swimmer_id": "b4905037b81d03e7e08c6648771d6070c14cccfa",
+    "swimmer": {
+      "first_name": "אן כהן",
+      "last_name": "",
+      "full_name": "אן כהן"
+    },
+    "gender": "בנות",
+    "birth_year": "2017",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:43.81",
+    "points": 160,
+    "position": "25",
+    "heat": "1",
+    "lane": "4",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87338?isModal=True"
+  },
+  {
+    "result_id": "4dc849c9583c6e5e65f841b06cfc69ab0a4712bc",
+    "swimmer_id": "eb925c82094a67b11e2aa4406b5f17117037d9d6",
+    "swimmer": {
+      "first_name": "מיכאלה תורג'מן",
+      "last_name": "",
+      "full_name": "מיכאלה תורג'מן"
+    },
+    "gender": "בנות",
+    "birth_year": "2017",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "04:00.76",
+    "points": 128,
+    "position": "26",
+    "heat": "1",
+    "lane": "3",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87338?isModal=True"
+  },
+  {
+    "result_id": "afa359d111ea09deea34023c8eb93a3104de2e95",
+    "swimmer_id": "2dbf8a0d76f9fc7fdaab703fc358c8391c07dcb9",
+    "swimmer": {
+      "first_name": "ליה סבירסקי",
+      "last_name": "",
+      "full_name": "ליה סבירסקי"
+    },
+    "gender": "בנות",
+    "birth_year": "2017",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "04:09.92",
+    "points": 115,
+    "position": "27",
+    "heat": "1",
+    "lane": "5",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87338?isModal=True"
+  },
+  {
+    "result_id": "6e1c35e56c1ac17473059d1d28a4b535b246d59c",
+    "swimmer_id": "71578cca57ab8823fb20b3e72f41668e4d35cb3a",
+    "swimmer": {
+      "first_name": "יליסיי פופרוגין",
+      "last_name": "",
+      "full_name": "יליסיי פופרוגין"
+    },
+    "gender": "בנים",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "02:27.23",
+    "points": 404,
+    "position": "1",
+    "heat": "7",
+    "lane": "4",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "c431b8e473fe6958b88208e45a7450aa2ddc1b13",
+    "swimmer_id": "33d5dad9d0e7997e96189ece0514545ce284928b",
+    "swimmer": {
+      "first_name": "לירוי בורוליה",
+      "last_name": "",
+      "full_name": "לירוי בורוליה"
+    },
+    "gender": "בנים",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "02:28.50",
+    "points": 394,
+    "position": "2",
+    "heat": "7",
+    "lane": "5",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "a5a054fe6a345120ae08a0f4bde11d91f6486c4b",
+    "swimmer_id": "0d79b743cc181903b9e998de58e1d7e425cadfcd",
+    "swimmer": {
+      "first_name": "ירין סויפר",
+      "last_name": "",
+      "full_name": "ירין סויפר"
+    },
+    "gender": "בנים",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "02:31.34",
+    "points": 372,
+    "position": "3",
+    "heat": "7",
+    "lane": "3",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "64bd1a19b0e33fb6824e133fe4caef59593f7cd9",
+    "swimmer_id": "dd63a28fc66f6f51d46d8ec39f6eff4745f36876",
+    "swimmer": {
+      "first_name": "רון קובלסקי",
+      "last_name": "",
+      "full_name": "רון קובלסקי"
+    },
+    "gender": "בנים",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "02:31.94",
+    "points": 367,
+    "position": "4",
+    "heat": "2",
+    "lane": "5",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "e42ff063cb93a787575b913fb61b60f03d065e9a",
+    "swimmer_id": "b5b2cd660af62f7f556b6920c565054afc89d6d5",
+    "swimmer": {
+      "first_name": "מיכאל סמיונוב",
+      "last_name": "",
+      "full_name": "מיכאל סמיונוב"
+    },
+    "gender": "בנים",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "02:42.48",
+    "points": 300,
+    "position": "5",
+    "heat": "5",
+    "lane": "5",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "c8cbdc927c2ecc01949d824efd643b2c9e2018c1",
+    "swimmer_id": "8b375d4c43ccc1e1bf3d12d79dae85b0c166f1a1",
+    "swimmer": {
+      "first_name": "רתם סימון",
+      "last_name": "",
+      "full_name": "רתם סימון"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "הפועל קרית אתא"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "02:42.59",
+    "points": 300,
+    "position": "6",
+    "heat": "7",
+    "lane": "2",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "3a0db2dcad7d627e6e4339ae8019e5f288c75fdf",
+    "swimmer_id": "ce7eea03037e81ca50a7c51ecc2971e960d0f7bb",
+    "swimmer": {
+      "first_name": "לידור מישלוב",
+      "last_name": "",
+      "full_name": "לידור מישלוב"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "02:44.06",
+    "points": 292,
+    "position": "7",
+    "heat": "6",
+    "lane": "6",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "0d7ae10bb553bd7edf57bcd9ed983ad258c6d94d",
+    "swimmer_id": "bc07300199ff8066a5bad14e2bbea1ff2ee92a59",
+    "swimmer": {
+      "first_name": "ליאור איבניר",
+      "last_name": "",
+      "full_name": "ליאור איבניר"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "02:44.33",
+    "points": 290,
+    "position": "8",
+    "heat": "6",
+    "lane": "8",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "d3b445e8fedb0a8d636ab748b5e82c8edefe22e2",
+    "swimmer_id": "dfdd52b1b5239b82c20eed662d1fd1801c4a48d9",
+    "swimmer": {
+      "first_name": "נגיב עלאא אבו ריא",
+      "last_name": "",
+      "full_name": "נגיב עלאא אבו ריא"
+    },
+    "gender": "בנים",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "הפועל לב הגליל סחנין"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "02:46.35",
+    "points": 280,
+    "position": "9",
+    "heat": "7",
+    "lane": "6",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "4d683552c869126e9b239cb16a59515e8f18c262",
+    "swimmer_id": "b40782a922f258193d49ee7a5d2b62a25994ace1",
+    "swimmer": {
+      "first_name": "נדיר גלינר",
+      "last_name": "",
+      "full_name": "נדיר גלינר"
+    },
+    "gender": "בנים",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "02:47.42",
+    "points": 275,
+    "position": "10",
+    "heat": "7",
+    "lane": "7",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "5714398f073d94f11c6de9a68c64dc0a0c45d176",
+    "swimmer_id": "5b7654db295b2df347263a93e93368559da109e3",
+    "swimmer": {
+      "first_name": "איתי חרמוני",
+      "last_name": "",
+      "full_name": "איתי חרמוני"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "02:49.14",
+    "points": 266,
+    "position": "11",
+    "heat": "6",
+    "lane": "2",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "f9f1ccde33e9a0ec8805649fa3505514fe6e0ed9",
+    "swimmer_id": "72ece27df299ffbdaf863caddb06ebf0426c81f4",
+    "swimmer": {
+      "first_name": "עדו אייכל",
+      "last_name": "",
+      "full_name": "עדו אייכל"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "02:51.26",
+    "points": 256,
+    "position": "12",
+    "heat": "6",
+    "lane": "5",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "4de5010c9a9a615175a322fcc9653e8f0e91e334",
+    "swimmer_id": "2acab3d5c81a9cd8355a6e2cff252c55e4615d74",
+    "swimmer": {
+      "first_name": "נעם אביב",
+      "last_name": "",
+      "full_name": "נעם אביב"
+    },
+    "gender": "בנים",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "02:52.34",
+    "points": 252,
+    "position": "13",
+    "heat": "6",
+    "lane": "3",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "23caac6d9c7c7ab8ac5525891e317f0c253f73cb",
+    "swimmer_id": "e6b473df40343c05771b86206fcb0acf0ca55b72",
+    "swimmer": {
+      "first_name": "דור שניר",
+      "last_name": "",
+      "full_name": "דור שניר"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "02:54.30",
+    "points": 243,
+    "position": "14",
+    "heat": "6",
+    "lane": "1",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "96870141da89e8d7cea54378c51e2565f6010e05",
+    "swimmer_id": "53cdbadf132067805982840d2dc704c8d25bad57",
+    "swimmer": {
+      "first_name": "רן יודובין",
+      "last_name": "",
+      "full_name": "רן יודובין"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "הפועל קרית אתא"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "02:55.35",
+    "points": 239,
+    "position": "15",
+    "heat": "4",
+    "lane": "6",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "1b581260ce17cfaa24a223fbc0ac5729107d90a9",
+    "swimmer_id": "95d2a167d84fc5b93dfc49680b0eef3c65341eda",
+    "swimmer": {
+      "first_name": "יואב ארקה",
+      "last_name": "",
+      "full_name": "יואב ארקה"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "02:55.59",
+    "points": 238,
+    "position": "16",
+    "heat": "5",
+    "lane": "7",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "f2463dc7e8af0d7c16a808e39330cdf96f9568dc",
+    "swimmer_id": "8cb68dd1937feed5522986e04945302f1c4cfe85",
+    "swimmer": {
+      "first_name": "דוד שידלוביץ",
+      "last_name": "",
+      "full_name": "דוד שידלוביץ"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "02:58.20",
+    "points": 228,
+    "position": "17",
+    "heat": "5",
+    "lane": "6",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "6af2cc3b0cb8f4706b6369ebf6eec526490ea3ae",
+    "swimmer_id": "ec84c34094847d37d76ceed2215f7528d4ffcd52",
+    "swimmer": {
+      "first_name": "אלרואי אביב ביטס",
+      "last_name": "",
+      "full_name": "אלרואי אביב ביטס"
+    },
+    "gender": "בנים",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "02:58.42",
+    "points": 227,
+    "position": "18",
+    "heat": "5",
+    "lane": "3",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "80847c43cf3173a5c167eeb199ae5155bc412eda",
+    "swimmer_id": "4454bdc08dbfaa52c0a058bba731a101b259c0a4",
+    "swimmer": {
+      "first_name": "סטיבן ליובומסקי",
+      "last_name": "",
+      "full_name": "סטיבן ליובומסקי"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "02:58.56",
+    "points": 226,
+    "position": "19",
+    "heat": "4",
+    "lane": "4",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "ded55d8691506bce16289532d52c1265a1226613",
+    "swimmer_id": "f16773521c79c3ec654e4c35a6c917fd1e1dd62d",
+    "swimmer": {
+      "first_name": "שון לוין",
+      "last_name": "",
+      "full_name": "שון לוין"
+    },
+    "gender": "בנים",
+    "birth_year": "2016",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "02:59.39",
+    "points": 223,
+    "position": "20",
+    "heat": "7",
+    "lane": "8",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "1ebfe2c3b2d0ebd5218893bf58c33cc7bf2332b5",
+    "swimmer_id": "e9b677c830210e2480e4df037f0c72eaa5d8b5df",
+    "swimmer": {
+      "first_name": "איתי חזן",
+      "last_name": "",
+      "full_name": "איתי חזן"
+    },
+    "gender": "בנים",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "02:59.78",
+    "points": 222,
+    "position": "21",
+    "heat": "4",
+    "lane": "5",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "a125548e291e8f4e38e8b800f4314a779ea1fe54",
+    "swimmer_id": "1eba187c9d512298bcccbeb1d9ff0c7a114506d5",
+    "swimmer": {
+      "first_name": "סטפן חרקוב",
+      "last_name": "",
+      "full_name": "סטפן חרקוב"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:01.84",
+    "points": 214,
+    "position": "22",
+    "heat": "3",
+    "lane": "3",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "a55d3ff835155718602e8d2484253c6780977279",
+    "swimmer_id": "4dff09fbc10086e293b3fb1d563dc6761d4c4565",
+    "swimmer": {
+      "first_name": "יאן אניקייב",
+      "last_name": "",
+      "full_name": "יאן אניקייב"
+    },
+    "gender": "בנים",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:02.50",
+    "points": 212,
+    "position": "23",
+    "heat": "6",
+    "lane": "7",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "03f6c934885d16dae218edc60c3f8536e6504805",
+    "swimmer_id": "c87f81b5d08371d847d0e9f6ea29ccf34ada2719",
+    "swimmer": {
+      "first_name": "פיודור נטרוב",
+      "last_name": "",
+      "full_name": "פיודור נטרוב"
+    },
+    "gender": "בנים",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:06.70",
+    "points": 198,
+    "position": "25",
+    "heat": "5",
+    "lane": "4",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "4c08a93fc75d104e6b6915413e47f3253b4ccd88",
+    "swimmer_id": "3a6fffd15b99af40d8a45868c62629f2a1fee80c",
+    "swimmer": {
+      "first_name": "אריאל ויסמן",
+      "last_name": "",
+      "full_name": "אריאל ויסמן"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:06.72",
+    "points": 198,
+    "position": "26",
+    "heat": "4",
+    "lane": "7",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "d74ccbcd0d5c5ed056ed08f12cdbf145a20373df",
+    "swimmer_id": "a8865bd17f1132c50e5a95f6bb2684806921ef92",
+    "swimmer": {
+      "first_name": "אביתר פריד",
+      "last_name": "",
+      "full_name": "אביתר פריד"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:06.77",
+    "points": 198,
+    "position": "27",
+    "heat": "4",
+    "lane": "8",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "324b9d02c21fed8944959e43d14fed54edd62e3a",
+    "swimmer_id": "00d2ff6f86abbc4788def2be9124e290e8031e73",
+    "swimmer": {
+      "first_name": "בן אור קינן",
+      "last_name": "",
+      "full_name": "בן אור קינן"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:06.91",
+    "points": 197,
+    "position": "28",
+    "heat": "5",
+    "lane": "1",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "bfd0363a3284d6e27952ae52623887179103ab09",
+    "swimmer_id": "f8d6f9ee43b9963e150106d3675633431dbb4064",
+    "swimmer": {
+      "first_name": "גולן ברשד",
+      "last_name": "",
+      "full_name": "גולן ברשד"
+    },
+    "gender": "בנים",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:12.16",
+    "points": 181,
+    "position": "29",
+    "heat": "5",
+    "lane": "2",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "d521c9d9927a71e11c9ce8331be54adb279a3758",
+    "swimmer_id": "d2b12bf46a12086cbba4fbde20acf2d1eba5fb44",
+    "swimmer": {
+      "first_name": "טומי וויסמן",
+      "last_name": "",
+      "full_name": "טומי וויסמן"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:14.50",
+    "points": 175,
+    "position": "30",
+    "heat": "3",
+    "lane": "6",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "cd24263ddedb50eb7d18b5306c0e0667e8ac54f8",
+    "swimmer_id": "968690c5068c445d2cfc6fe36a38fb2ec8e5c7b9",
+    "swimmer": {
+      "first_name": "קוסי טרביה",
+      "last_name": "",
+      "full_name": "קוסי טרביה"
+    },
+    "gender": "בנים",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "הפועל לב הגליל סחנין"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:14.93",
+    "points": 174,
+    "position": "31",
+    "heat": "3",
+    "lane": "7",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "9dfb77c42a8f04871f2950b8783c009a4f2e68ca",
+    "swimmer_id": "119df59ecf3ba9fcb20e0d4ad6c14e4591b1f77f",
+    "swimmer": {
+      "first_name": "נח שאולסקי",
+      "last_name": "",
+      "full_name": "נח שאולסקי"
+    },
+    "gender": "בנים",
+    "birth_year": "2016",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:15.20",
+    "points": 173,
+    "position": "32",
+    "heat": "2",
+    "lane": "1",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "efe59ff148fa18155082329217405c8b45301e6c",
+    "swimmer_id": "a9afe4681a29b7f09009a4ac79068b644b4fd514",
+    "swimmer": {
+      "first_name": "טל סויפר",
+      "last_name": "",
+      "full_name": "טל סויפר"
+    },
+    "gender": "בנים",
+    "birth_year": "2017",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:17.09",
+    "points": 168,
+    "position": "33",
+    "heat": "1",
+    "lane": "5",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "26553035200eedb2210dadd3552e9267a1c37f42",
+    "swimmer_id": "1b98b8a8ea9046df6d721aec5294944574d029e2",
+    "swimmer": {
+      "first_name": "נועם שאולסקי",
+      "last_name": "",
+      "full_name": "נועם שאולסקי"
+    },
+    "gender": "בנים",
+    "birth_year": "2016",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:17.37",
+    "points": 167,
+    "position": "34",
+    "heat": "2",
+    "lane": "7",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "0a2842a07a7d762a7af6c7c4021ff587f95a28e1",
+    "swimmer_id": "15cdde1c4e8b356a6e4c5798e5887ca29eccbcec",
+    "swimmer": {
+      "first_name": "ארטיום גולביץ'",
+      "last_name": "",
+      "full_name": "ארטיום גולביץ'"
+    },
+    "gender": "בנים",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:18.50",
+    "points": 165,
+    "position": "35",
+    "heat": "5",
+    "lane": "8",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "951ec21b088074cda3722e9d9a54887f1ed9335a",
+    "swimmer_id": "ae2900f55e00e8bd5d4c25fdd44b3a7561d9d912",
+    "swimmer": {
+      "first_name": "מקסים פרילוצקי",
+      "last_name": "",
+      "full_name": "מקסים פרילוצקי"
+    },
+    "gender": "בנים",
+    "birth_year": "2017",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:19.23",
+    "points": 163,
+    "position": "36",
+    "heat": "1",
+    "lane": "6",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "7a1cc66e9954e3e0e911a3b23060133a6ffacf68",
+    "swimmer_id": "f150ed004357484f3b851556117d99d99bb7bdcf",
+    "swimmer": {
+      "first_name": "דניאל בורוליה",
+      "last_name": "",
+      "full_name": "דניאל בורוליה"
+    },
+    "gender": "בנים",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:22.83",
+    "points": 154,
+    "position": "38",
+    "heat": "2",
+    "lane": "4",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "4f19aa5a5a4a5add8eb915ab3d65513bda85ad07",
+    "swimmer_id": "97cdb142323457eeb1fbb3e3ee20e200a792db0f",
+    "swimmer": {
+      "first_name": "בשארה קטוף",
+      "last_name": "",
+      "full_name": "בשארה קטוף"
+    },
+    "gender": "בנים",
+    "birth_year": "2016",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:25.82",
+    "points": 148,
+    "position": "40",
+    "heat": "3",
+    "lane": "4",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "d46e9638425fb7b06b7ffd2fe10a93e0bdb66ce5",
+    "swimmer_id": "920d22914647f3c6cf5ba9a184bd2f73d2148561",
+    "swimmer": {
+      "first_name": "ליאור פינקלבאום",
+      "last_name": "",
+      "full_name": "ליאור פינקלבאום"
+    },
+    "gender": "בנים",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:27.07",
+    "points": 145,
+    "position": "41",
+    "heat": "3",
+    "lane": "1",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "8df0e423763b15a25b668dede2ca2ba09eac44c5",
+    "swimmer_id": "ec66c5d1d823022278b94fcd1fa2f3e6d892c75b",
+    "swimmer": {
+      "first_name": "אדם קרסבץ",
+      "last_name": "",
+      "full_name": "אדם קרסבץ"
+    },
+    "gender": "בנים",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:27.59",
+    "points": 144,
+    "position": "42",
+    "heat": "3",
+    "lane": "2",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "a7bdd6d0938d75ad3a58bc5b27c377f46ce8cd27",
+    "swimmer_id": "2e37d93e60403cfa2ba9388ce292d41f7adcc403",
+    "swimmer": {
+      "first_name": "נועם בקשטיין",
+      "last_name": "",
+      "full_name": "נועם בקשטיין"
+    },
+    "gender": "בנים",
+    "birth_year": "2016",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:27.83",
+    "points": 143,
+    "position": "43",
+    "heat": "1",
+    "lane": "4",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "3304da32d83bb68542a35ddf5258c70b71fa4f89",
+    "swimmer_id": "a046ab2db6b8b418793de9a72384f07ceeb0faad",
+    "swimmer": {
+      "first_name": "טום פרויק",
+      "last_name": "",
+      "full_name": "טום פרויק"
+    },
+    "gender": "בנים",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:30.77",
+    "points": 137,
+    "position": "44",
+    "heat": "4",
+    "lane": "1",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "bcf874f142cd58fdedc0fd01cc2e06d7145a418b",
+    "swimmer_id": "552e57635559f40108c245199a267e0989eafcff",
+    "swimmer": {
+      "first_name": "סטפאן גבליצ'נקו",
+      "last_name": "",
+      "full_name": "סטפאן גבליצ'נקו"
+    },
+    "gender": "בנים",
+    "birth_year": "2016",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:32.08",
+    "points": 135,
+    "position": "45",
+    "heat": "2",
+    "lane": "2",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "8403b6d5e3eec2d0d786575c16af5f789f3c7b1b",
+    "swimmer_id": "3d30c39ecf2f606c05d294d37cc99622b2b37e95",
+    "swimmer": {
+      "first_name": "עלי סעיד סואן",
+      "last_name": "",
+      "full_name": "עלי סעיד סואן"
+    },
+    "gender": "בנים",
+    "birth_year": "2016",
+    "club": {
+      "name_he": "הפועל לב הגליל סחנין"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:34.76",
+    "points": 130,
+    "position": "46",
+    "heat": "4",
+    "lane": "2",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "70ed30efe7bd672755c14a6308496ff32025801e",
+    "swimmer_id": "75b4c64a7d1e12ee0c91e9afaf85c05e103a89ee",
+    "swimmer": {
+      "first_name": "ארז עלאא אבו ריא",
+      "last_name": "",
+      "full_name": "ארז עלאא אבו ריא"
+    },
+    "gender": "בנים",
+    "birth_year": "2017",
+    "club": {
+      "name_he": "הפועל לב הגליל סחנין"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:37.16",
+    "points": 126,
+    "position": "47",
+    "heat": "1",
+    "lane": "2",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "9da85f8cf1362799b01f35a84f11bca37b71e2dc",
+    "swimmer_id": "4096a6a3f0d4390adbbf3f8e310c7f706937c8cc",
+    "swimmer": {
+      "first_name": "רוני משר",
+      "last_name": "",
+      "full_name": "רוני משר"
+    },
+    "gender": "בנים",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:38.16",
+    "points": 124,
+    "position": "48",
+    "heat": "2",
+    "lane": "3",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "a5cf5753c85415a1c2d6e8a739e56c2d7ca020cb",
+    "swimmer_id": "791f322ce50404fddddd076dce7d8bdb4b759ad1",
+    "swimmer": {
+      "first_name": "ארז יהודה סנדלר",
+      "last_name": "",
+      "full_name": "ארז יהודה סנדלר"
+    },
+    "gender": "בנים",
+    "birth_year": "2017",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:53.25",
+    "points": 101,
+    "position": "49",
+    "heat": "1",
+    "lane": "3",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "e362414323b47f4293a534443c8c0c5634ee273b",
+    "swimmer_id": "3660731d74fbbae19215cc77a77c6b98729e0c51",
+    "swimmer": {
+      "first_name": "גבריאל ליטבין",
+      "last_name": "",
+      "full_name": "גבריאל ליטבין"
+    },
+    "gender": "בנים",
+    "birth_year": "2016",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "04:01.68",
+    "points": 91,
+    "position": "50",
+    "heat": "2",
+    "lane": "8",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87344?isModal=True"
+  },
+  {
+    "result_id": "cadb939f277b23e811eeec64fff44bb72ad2b6ba",
+    "swimmer_id": "7c5bbcc71c703dd4747d253c146061ef9642b231",
+    "swimmer": {
+      "first_name": "מיאר נאזם זבידה",
+      "last_name": "",
+      "full_name": "מיאר נאזם זבידה"
+    },
+    "gender": "בנות",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "הפועל לב הגליל סחנין"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "02:57.24",
+    "points": 305,
+    "position": "1",
+    "heat": "2",
+    "lane": "6",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87339?isModal=True"
+  },
+  {
+    "result_id": "2fa96ae9dd71fafbb6992cb01b52fce8ed1452a9",
+    "swimmer_id": "fe259bd9f43799bdb8aae813774a18d97deca14f",
+    "swimmer": {
+      "first_name": "עזיזה מוחמטזיאנוב",
+      "last_name": "",
+      "full_name": "עזיזה מוחמטזיאנוב"
+    },
+    "gender": "בנות",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:02.00",
+    "points": 281,
+    "position": "2",
+    "heat": "2",
+    "lane": "2",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87339?isModal=True"
+  },
+  {
+    "result_id": "7b1c62d7ae172cd017a14da84eef5c2ad689fd40",
+    "swimmer_id": "9f75df58c6b2a82a1f10b9275cce0952da8a1844",
+    "swimmer": {
+      "first_name": "אמה דקל",
+      "last_name": "",
+      "full_name": "אמה דקל"
+    },
+    "gender": "בנות",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:02.53",
+    "points": 279,
+    "position": "3",
+    "heat": "2",
+    "lane": "4",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87339?isModal=True"
+  },
+  {
+    "result_id": "fb71db3786994f5791a52e7f90f50c7ffd2079c3",
+    "swimmer_id": "82159a87d71a94c64dd4118546aa69145784ec75",
+    "swimmer": {
+      "first_name": "נעמי זסלבסקי",
+      "last_name": "",
+      "full_name": "נעמי זסלבסקי"
+    },
+    "gender": "בנות",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:06.16",
+    "points": 263,
+    "position": "4",
+    "heat": "1",
+    "lane": "3",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87339?isModal=True"
+  },
+  {
+    "result_id": "64d727c597c6077d37478184bd89989c951b716d",
+    "swimmer_id": "fc2fbcceb933f3b6501d47a09271dbdb1311bda3",
+    "swimmer": {
+      "first_name": "עמית גלסברג",
+      "last_name": "",
+      "full_name": "עמית גלסברג"
+    },
+    "gender": "בנות",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:09.05",
+    "points": 251,
+    "position": "5",
+    "heat": "2",
+    "lane": "7",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87339?isModal=True"
+  },
+  {
+    "result_id": "fb8469a7df6661965b279014feafdf10fb2ba8f6",
+    "swimmer_id": "bd867a40ce60fad0c1a0e590e3a6dbc4337c8a67",
+    "swimmer": {
+      "first_name": "עדן מפלח חלאילה",
+      "last_name": "",
+      "full_name": "עדן מפלח חלאילה"
+    },
+    "gender": "בנות",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "הפועל לב הגליל סחנין"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:10.09",
+    "points": 247,
+    "position": "6",
+    "heat": "2",
+    "lane": "5",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87339?isModal=True"
+  },
+  {
+    "result_id": "588008492676120d6064569487b0f62e9ae6b1c3",
+    "swimmer_id": "dc91ff13cf65c5400a68033752b87e938126749b",
+    "swimmer": {
+      "first_name": "מינה סאמר זבידאת",
+      "last_name": "",
+      "full_name": "מינה סאמר זבידאת"
+    },
+    "gender": "בנות",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "הפועל לב הגליל סחנין"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:12.10",
+    "points": 239,
+    "position": "7",
+    "heat": "1",
+    "lane": "2",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87339?isModal=True"
+  },
+  {
+    "result_id": "0ff15ceb5fc1cb49d44e06cad21f631e43426e81",
+    "swimmer_id": "f150a34ea0543a9b02b27ee75432c3368fd82fdd",
+    "swimmer": {
+      "first_name": "טלי קליינר",
+      "last_name": "",
+      "full_name": "טלי קליינר"
+    },
+    "gender": "בנות",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:21.27",
+    "points": 208,
+    "position": "9",
+    "heat": "2",
+    "lane": "1",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87339?isModal=True"
+  },
+  {
+    "result_id": "0952ccb185bc6181d26677c88b82db9df181bd5c",
+    "swimmer_id": "37018ea10d5533b8cc229946e4d58134ef16a2b1",
+    "swimmer": {
+      "first_name": "שוהם סבן",
+      "last_name": "",
+      "full_name": "שוהם סבן"
+    },
+    "gender": "בנות",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:24.43",
+    "points": 198,
+    "position": "10",
+    "heat": "2",
+    "lane": "8",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87339?isModal=True"
+  },
+  {
+    "result_id": "3f79a8cfb9e9c0c9ccf640a32b794b8045ae4224",
+    "swimmer_id": "c1940dc8e4203e7e465db7276dcaa31b972e6529",
+    "swimmer": {
+      "first_name": "איילה קרמר",
+      "last_name": "",
+      "full_name": "איילה קרמר"
+    },
+    "gender": "בנות",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:27.22",
+    "points": 190,
+    "position": "11",
+    "heat": "1",
+    "lane": "7",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87339?isModal=True"
+  },
+  {
+    "result_id": "fcff06f6b98b1a93e6571cd47f92dad0fadb2dbd",
+    "swimmer_id": "3d356e7bc0cadec0de2b1f9896375d0b8b3280de",
+    "swimmer": {
+      "first_name": "מאיה כרמון",
+      "last_name": "",
+      "full_name": "מאיה כרמון"
+    },
+    "gender": "בנות",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:30.06",
+    "points": 183,
+    "position": "12",
+    "heat": "2",
+    "lane": "3",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87339?isModal=True"
+  },
+  {
+    "result_id": "afc25d3039556c770bd17596ad5a6ddbde1d1a5e",
+    "swimmer_id": "458f8c8b96f0860695aafbc375ae4f7a930b971d",
+    "swimmer": {
+      "first_name": "עלמא רוד לופז",
+      "last_name": "",
+      "full_name": "עלמא רוד לופז"
+    },
+    "gender": "בנות",
+    "birth_year": "2016",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:31.43",
+    "points": 179,
+    "position": "13",
+    "heat": "1",
+    "lane": "1",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87339?isModal=True"
+  },
+  {
+    "result_id": "4cb5eb972966b76fe6515799db9534751c8329dd",
+    "swimmer_id": "6323cd78fdd000044e864c5b0ff1503660cf6e27",
+    "swimmer": {
+      "first_name": "אליה סברדלוב",
+      "last_name": "",
+      "full_name": "אליה סברדלוב"
+    },
+    "gender": "בנות",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנות 10-13",
+    "pool_length": "25",
+    "time": "03:53.55",
+    "points": 133,
+    "position": "14",
+    "heat": "1",
+    "lane": "6",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87339?isModal=True"
+  },
+  {
+    "result_id": "2329a801cc4c8e25e3b8faa9d00206e1a7b90f02",
+    "swimmer_id": "71578cca57ab8823fb20b3e72f41668e4d35cb3a",
+    "swimmer": {
+      "first_name": "יליסיי פופרוגין",
+      "last_name": "",
+      "full_name": "יליסיי פופרוגין"
+    },
+    "gender": "בנים",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "02:40.69",
+    "points": 294,
+    "position": "1",
+    "heat": "3",
+    "lane": "4",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87345?isModal=True"
+  },
+  {
+    "result_id": "8af49fa6f5829c6740c8e24c32aef1e5e9e0065d",
+    "swimmer_id": "648f1968fa90cbb017d75c67f797e981340e6114",
+    "swimmer": {
+      "first_name": "קוזי סטרצ'נקו",
+      "last_name": "",
+      "full_name": "קוזי סטרצ'נקו"
+    },
+    "gender": "בנים",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "02:49.59",
+    "points": 250,
+    "position": "2",
+    "heat": "2",
+    "lane": "2",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87345?isModal=True"
+  },
+  {
+    "result_id": "041726529ab7276d20543259f3ad0db113cbec6f",
+    "swimmer_id": "ce7eea03037e81ca50a7c51ecc2971e960d0f7bb",
+    "swimmer": {
+      "first_name": "לידור מישלוב",
+      "last_name": "",
+      "full_name": "לידור מישלוב"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "02:50.06",
+    "points": 248,
+    "position": "3",
+    "heat": "2",
+    "lane": "5",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87345?isModal=True"
+  },
+  {
+    "result_id": "cd735cc37083774eff3124c8a54aefb1723718a7",
+    "swimmer_id": "2b20f40623decf57b550f8a97a7e05e3f50590a1",
+    "swimmer": {
+      "first_name": "גיא גרינבלט",
+      "last_name": "",
+      "full_name": "גיא גרינבלט"
+    },
+    "gender": "בנים",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "02:50.58",
+    "points": 245,
+    "position": "4",
+    "heat": "3",
+    "lane": "5",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87345?isModal=True"
+  },
+  {
+    "result_id": "881ddb0389d062b1f5e7616fcdec2a608aa41941",
+    "swimmer_id": "dad52c7f01b386bc876f219708ad32699a329544",
+    "swimmer": {
+      "first_name": "מחמוד רזק אבו יונס",
+      "last_name": "",
+      "full_name": "מחמוד רזק אבו יונס"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "הפועל לב הגליל סחנין"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "02:59.99",
+    "points": 209,
+    "position": "5",
+    "heat": "2",
+    "lane": "8",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87345?isModal=True"
+  },
+  {
+    "result_id": "baed50d96f03e9666048c60bd7db065469d042b2",
+    "swimmer_id": "8cb68dd1937feed5522986e04945302f1c4cfe85",
+    "swimmer": {
+      "first_name": "דוד שידלוביץ",
+      "last_name": "",
+      "full_name": "דוד שידלוביץ"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:01.02",
+    "points": 205,
+    "position": "6",
+    "heat": "3",
+    "lane": "7",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87345?isModal=True"
+  },
+  {
+    "result_id": "df315a5ef6b19a30fa093d3a21c9c1c292f06365",
+    "swimmer_id": "1eba187c9d512298bcccbeb1d9ff0c7a114506d5",
+    "swimmer": {
+      "first_name": "סטפן חרקוב",
+      "last_name": "",
+      "full_name": "סטפן חרקוב"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:01.49",
+    "points": 204,
+    "position": "7",
+    "heat": "3",
+    "lane": "6",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87345?isModal=True"
+  },
+  {
+    "result_id": "5ec7c93416471222368913f4065d75c58ea1e13a",
+    "swimmer_id": "e4dfc6da95008435e956585fe4a1cc000995e37b",
+    "swimmer": {
+      "first_name": "נתן קרימר",
+      "last_name": "",
+      "full_name": "נתן קרימר"
+    },
+    "gender": "בנים",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:03.34",
+    "points": 197,
+    "position": "8",
+    "heat": "3",
+    "lane": "2",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87345?isModal=True"
+  },
+  {
+    "result_id": "f78b3da319a87daa9c6bb81bcf482990aed9f475",
+    "swimmer_id": "2acab3d5c81a9cd8355a6e2cff252c55e4615d74",
+    "swimmer": {
+      "first_name": "נעם אביב",
+      "last_name": "",
+      "full_name": "נעם אביב"
+    },
+    "gender": "בנים",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:03.88",
+    "points": 196,
+    "position": "9",
+    "heat": "3",
+    "lane": "8",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87345?isModal=True"
+  },
+  {
+    "result_id": "3bf86ba3d5718bd2ef77d745d9eb628056f8d193",
+    "swimmer_id": "a9c54ee0c982e0d50dec8660b87b9947b62d15a8",
+    "swimmer": {
+      "first_name": "אסף אופיר",
+      "last_name": "",
+      "full_name": "אסף אופיר"
+    },
+    "gender": "בנים",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "הפועל קרית אתא"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:05.97",
+    "points": 189,
+    "position": "10",
+    "heat": "1",
+    "lane": "7",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87345?isModal=True"
+  },
+  {
+    "result_id": "4cdf31b66352427198959d32b74708c6b4254ad5",
+    "swimmer_id": "e90f384eb09d746811e4e4f72c0c35241789f666",
+    "swimmer": {
+      "first_name": "מיכאל חליסטוב",
+      "last_name": "",
+      "full_name": "מיכאל חליסטוב"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:08.00",
+    "points": 183,
+    "position": "11",
+    "heat": "3",
+    "lane": "1",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87345?isModal=True"
+  },
+  {
+    "result_id": "7f15445fd9bcdf3026795723260e6aa684face69",
+    "swimmer_id": "bcf394b666f6ec914a32a7ef1be1eb7e0984cae9",
+    "swimmer": {
+      "first_name": "רותם עין גל",
+      "last_name": "",
+      "full_name": "רותם עין גל"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי נהריה"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:09.78",
+    "points": 178,
+    "position": "12",
+    "heat": "3",
+    "lane": "3",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87345?isModal=True"
+  },
+  {
+    "result_id": "c47e066130ac8b3ea0ac2c1b49962c448d4dc4c6",
+    "swimmer_id": "72ece27df299ffbdaf863caddb06ebf0426c81f4",
+    "swimmer": {
+      "first_name": "עדו אייכל",
+      "last_name": "",
+      "full_name": "עדו אייכל"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:10.13",
+    "points": 177,
+    "position": "13",
+    "heat": "2",
+    "lane": "1",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87345?isModal=True"
+  },
+  {
+    "result_id": "c899ad912136d242a2692f71bfed6b627e9a906c",
+    "swimmer_id": "e5e8095e5ce3099b0cd919cd6a48de652384e0fa",
+    "swimmer": {
+      "first_name": "עתי ארנזון",
+      "last_name": "",
+      "full_name": "עתי ארנזון"
+    },
+    "gender": "בנים",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:10.82",
+    "points": 175,
+    "position": "14",
+    "heat": "2",
+    "lane": "3",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87345?isModal=True"
+  },
+  {
+    "result_id": "70dc6cd7e32d644f340ea5b199669bcf215241e9",
+    "swimmer_id": "bc07300199ff8066a5bad14e2bbea1ff2ee92a59",
+    "swimmer": {
+      "first_name": "ליאור איבניר",
+      "last_name": "",
+      "full_name": "ליאור איבניר"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:11.07",
+    "points": 174,
+    "position": "15",
+    "heat": "2",
+    "lane": "4",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87345?isModal=True"
+  },
+  {
+    "result_id": "3b58d3e2e503d53fffc1f76468984ab8e387e04b",
+    "swimmer_id": "95d2a167d84fc5b93dfc49680b0eef3c65341eda",
+    "swimmer": {
+      "first_name": "יואב ארקה",
+      "last_name": "",
+      "full_name": "יואב ארקה"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:11.77",
+    "points": 172,
+    "position": "16",
+    "heat": "1",
+    "lane": "5",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87345?isModal=True"
+  },
+  {
+    "result_id": "fbc267269e95cb504bdc4e8dcddcd69c6f930348",
+    "swimmer_id": "9539486208a73fa3ef47a21aeb2d84ef1840eabb",
+    "swimmer": {
+      "first_name": "חמדאן עכריה",
+      "last_name": "",
+      "full_name": "חמדאן עכריה"
+    },
+    "gender": "בנים",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:18.01",
+    "points": 157,
+    "position": "17",
+    "heat": "2",
+    "lane": "7",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87345?isModal=True"
+  },
+  {
+    "result_id": "7bd4a9013a6b7cc607b7a52a526bfcfdcc44b5fd",
+    "swimmer_id": "4454bdc08dbfaa52c0a058bba731a101b259c0a4",
+    "swimmer": {
+      "first_name": "סטיבן ליובומסקי",
+      "last_name": "",
+      "full_name": "סטיבן ליובומסקי"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:19.58",
+    "points": 153,
+    "position": "18",
+    "heat": "1",
+    "lane": "4",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87345?isModal=True"
+  },
+  {
+    "result_id": "711923515e300cec3bcaa7dbff7544b9eb418b27",
+    "swimmer_id": "27f60227c139ca2c5ce940e38e7a7f25c3f52d76",
+    "swimmer": {
+      "first_name": "גלעד שיינר",
+      "last_name": "",
+      "full_name": "גלעד שיינר"
+    },
+    "gender": "בנים",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:23.42",
+    "points": 144,
+    "position": "19",
+    "heat": "2",
+    "lane": "6",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87345?isModal=True"
+  },
+  {
+    "result_id": "a77f52bfcd4d8ce050aba70d89ab2362f8b67f30",
+    "swimmer_id": "a8865bd17f1132c50e5a95f6bb2684806921ef92",
+    "swimmer": {
+      "first_name": "אביתר פריד",
+      "last_name": "",
+      "full_name": "אביתר פריד"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:24.44",
+    "points": 142,
+    "position": "20",
+    "heat": "1",
+    "lane": "3",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87345?isModal=True"
+  },
+  {
+    "result_id": "db7b49865628ae4ca187d8af728d195c4ffd4457",
+    "swimmer_id": "4dff09fbc10086e293b3fb1d563dc6761d4c4565",
+    "swimmer": {
+      "first_name": "יאן אניקייב",
+      "last_name": "",
+      "full_name": "יאן אניקייב"
+    },
+    "gender": "בנים",
+    "birth_year": "2015",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 פרפר",
+    "category": "בנים 10-14",
+    "pool_length": "25",
+    "time": "03:33.79",
+    "points": 124,
+    "position": "21",
+    "heat": "1",
+    "lane": "6",
+    "competition": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
+    "competition_date": "2026-11-21",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/87345?isModal=True"
   }
 ]
