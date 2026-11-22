@@ -2,6 +2,7 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
 
+// המרת זמן למספר שניות לצורך מיון
 function timeToSeconds(timeStr) {
   if (!timeStr || timeStr === '-' || timeStr === '00:00.00') {
     return 999999;
@@ -24,6 +25,7 @@ function timeToSeconds(timeStr) {
   return parts[0] || 999999;
 }
 
+// חילוץ תאריך מתוך שם התחרות
 function extractIsoDate(compStr) {
   if (!compStr) return '';
 
@@ -53,7 +55,7 @@ function getDisciplineOrder(disc) {
   return 9999;
 }
 
-// זיהוי סוג הבריכה לצורך השוואת תוצאות
+// זיהוי סוג הבריכה
 function getPoolKey(item) {
   if (item.pool_length) {
     return String(item.pool_length);
@@ -64,7 +66,7 @@ function getPoolKey(item) {
   return competition.includes('50') ? '50' : '25';
 }
 
-// זיהוי השחיין לפי מזהה ייחודי, עם גיבוי לשם ולפרטים נוספים
+// זיהוי שחיין לפי מזהה ייחודי
 function getSwimmerKey(item) {
   if (item.swimmer_id) {
     return String(item.swimmer_id);
@@ -91,23 +93,38 @@ function App() {
   const [selectedDiscipline, setSelectedDiscipline] = useState('הכל');
   const [selectedGender, setSelectedGender] = useState('הכל');
   const [selectedPool, setSelectedPool] = useState('הכל');
+
   const [yearFrom, setYearFrom] = useState('הכל');
   const [yearTo, setYearTo] = useState('הכל');
+
   const [dateFrom, setDateFrom] = useState('');
   const [dateTo, setDateTo] = useState('');
 
   const [searchTerm, setSearchTerm] = useState('');
   const [appliedSearch, setAppliedSearch] = useState('');
+
   const [showBestResults, setShowBestResults] = useState(false);
 
+  // טעינת מאגר השחייה מ-GitHub
   useEffect(() => {
-    fetch('/master_swimming_database.json')
-      .then((res) => res.json())
-      .then((data) => {
+    const DATA_URL = '/master_swimming_database.json';
+    const loadData = async () => {
+      try {
+        const response = await fetch(`${DATA_URL}?t=${Date.now()}`, {
+          cache: 'no-store'
+        });
+
+        if (!response.ok) {
+          throw new Error(`HTTP error: ${response.status}`);
+        }
+
+        const data = await response.json();
+
+        // הסרת קטגוריות שאינן משחים אישיים
         const cleanData = data.filter(item => {
           const disc = item.discipline || '';
 
-          const isInvalid = (
+          return !(
             disc.includes('שליחים') ||
             disc.includes('משחה כללי') ||
             disc.includes('גברים') ||
@@ -116,26 +133,36 @@ function App() {
             disc.includes('בנות') ||
             disc.length > 25
           );
-
-          return !isInvalid;
         });
 
+        // מניעת כפילויות לפי מזהה תוצאה
         const uniqueData = cleanData.filter((item, index, self) =>
-          index === self.findIndex((t) => (
-            t.swimmer?.first_name === item.swimmer?.first_name &&
-            t.time === item.time &&
-            t.competition === item.competition &&
-            t.discipline === item.discipline
-          ))
+          index === self.findIndex(t =>
+            t.result_id === item.result_id
+          )
         );
 
         setSwimmers(uniqueData);
+
+        console.log(
+          'מאגר השחייה עודכן בהצלחה:',
+          uniqueData.length,
+          'תוצאות'
+        );
+
+      } catch (err) {
+        console.error('שגיאה בטעינת הנתונים:', err);
+      } finally {
         setLoading(false);
-      })
-      .catch((err) => {
-        console.error("שגיאה בטעינת הנתונים:", err);
-        setLoading(false);
-      });
+      }
+    };
+
+    loadData();
+
+    // בדיקת עדכונים חדשים כל חמש דקות
+    const interval = setInterval(loadData, 5 * 60 * 1000);
+
+    return () => clearInterval(interval);
   }, []);
 
   // רשימת המשחים במסנן
@@ -158,14 +185,15 @@ function App() {
       .sort((a, b) => getDisciplineOrder(a) - getDisciplineOrder(b))
   ];
 
+  // רשימת שנות הלידה
   const years = [
     'הכל',
     ...Array.from({ length: 18 }, (_, i) => String(2003 + i))
   ];
 
-  // שלב ראשון: סינון התוצאות לפי בחירות המשתמש
+  // סינון התוצאות
   const filteredSwimmers = swimmers
-    .filter((item) => {
+    .filter(item => {
       const disciplineMatch =
         selectedDiscipline === 'הכל' ||
         item.discipline === selectedDiscipline;
@@ -179,11 +207,13 @@ function App() {
           const text = `${item.discipline || ''} ${item.competition || ''}`;
 
           if (selectedGender === 'בנים') {
-            genderMatch = text.includes('בנים') || text.includes('גברים');
+            genderMatch =
+              text.includes('בנים') || text.includes('גברים');
           }
 
           if (selectedGender === 'בנות') {
-            genderMatch = text.includes('בנות') || text.includes('נשים');
+            genderMatch =
+              text.includes('בנות') || text.includes('נשים');
           }
         }
       }
@@ -212,7 +242,7 @@ function App() {
         yearTo === 'הכל' ||
         (!isNaN(birthYear) && birthYear <= parseInt(yearTo));
 
-      // חיפוש לפי שם מלא, שם פרטי או שם משפחה
+      // חיפוש לפי שם מלא, פרטי או משפחה
       const swimmerName = [
         item.swimmer?.full_name,
         item.swimmer?.first_name,
@@ -227,7 +257,7 @@ function App() {
         !appliedSearch ||
         swimmerName.includes(appliedSearch.toLowerCase());
 
-      // העדפת התאריך שמופיע בשם התחרות
+      // סינון לפי תאריך
       const compDate =
         extractIsoDate(item.competition) ||
         item.competition_date ||
@@ -261,7 +291,7 @@ function App() {
       return timeToSeconds(a.time) - timeToSeconds(b.time);
     });
 
-  // שלב שני: בחירת התוצאה המהירה ביותר לכל שחיין, משחה ובריכה
+  // בחירת התוצאה המהירה ביותר לכל שחיין, משחה ובריכה
   const displayedSwimmers = showBestResults
     ? Array.from(
         filteredSwimmers.reduce((bestResults, item) => {
@@ -294,106 +324,87 @@ function App() {
       })
     : filteredSwimmers;
 
-  // ספירת שחיינים ייחודיים בתוצאות המוצגות
+  // מספר שחיינים ייחודיים בתוצאות המוצגות
   const uniqueSwimmerCount = new Set(
     displayedSwimmers.map(item => getSwimmerKey(item))
   ).size;
 
-  return (
-    <div style={{
-      direction: 'rtl',
-      padding: '20px',
-      fontFamily: 'Arial, sans-serif',
-      maxWidth: '1300px',
-      margin: '0 auto',
-      backgroundColor: '#f4f6f9',
-      minHeight: '100vh'
-    }}>
+  // ניקוי החיפוש
+  const clearSearch = () => {
+    setSearchTerm('');
+    setAppliedSearch('');
+  };
 
-      <header style={{
-        textAlign: 'center',
-        marginBottom: '25px'
-      }}>
-        <h1 style={{
-          color: '#0056b3',
-          margin: '0 0 5px 0'
-        }}>
-          מאגר דירוג שחייה - ישראל
-        </h1>
+  // הצגת שם שחיין
+  const getSwimmerName = row => {
+    const possibleNames = [
+      row.swimmer?.full_name,
+      row.swimmer?.first_name,
+      row.name
+    ];
+
+    const invalidNames = [
+      'חופשי',
+      'גב',
+      'חזה',
+      'פרפר',
+      'מעורב'
+    ];
+
+    return (
+      possibleNames.find(name => {
+        const cleanName = String(name || '').trim();
+
+        return (
+          cleanName !== '' &&
+          !invalidNames.includes(cleanName) &&
+          !/^\d/.test(cleanName)
+        );
+      }) || 'שחיין לא ידוע'
+    );
+  };
+
+  return (
+    <div className="app-container">
+
+      {/* כותרת האתר */}
+      <header className="app-header">
+        <h1>דירוג זמנים מובילים </h1>
+        <p>מאגר תוצאות שחייה תחרותית בישראל</p>
       </header>
 
-      {/* פנל סינונים עליון */}
-      <div style={{
-        backgroundColor: '#fff',
-        padding: '20px',
-        borderRadius: '12px',
-        boxShadow: '0 2px 8px rgba(0,0,0,0.06)',
-        marginBottom: '30px'
-      }}>
+      {/* אזור המסננים */}
+      <section className="filters-panel">
 
-        <div style={{
-          display: 'grid',
-          gridTemplateColumns: '1fr 1fr 1fr',
-          gap: '15px',
-          marginBottom: '20px'
-        }}>
+        <div className="filters-grid">
 
-          <div>
-            <label style={{
-              display: 'block',
-              fontSize: '13px',
-              fontWeight: 'bold',
-              color: '#555',
-              marginBottom: '5px'
-            }}>
-              סגנון
-            </label>
+          {/* סגנון */}
+          <div className="filter-group">
+            <label>סגנון ומשחה</label>
 
             <select
               value={selectedDiscipline}
-              onChange={(e) => setSelectedDiscipline(e.target.value)}
-              style={{
-                width: '100%',
-                padding: '10px',
-                borderRadius: '6px',
-                border: '1px solid #ccc',
-                fontSize: '14px',
-                backgroundColor: '#fff'
-              }}
+              onChange={e => setSelectedDiscipline(e.target.value)}
             >
               {disciplines.map((disc, idx) => (
-                <option key={idx} value={disc}>{disc}</option>
+                <option key={idx} value={disc}>
+                  {disc}
+                </option>
               ))}
             </select>
           </div>
 
-          <div>
-            <label style={{
-              display: 'block',
-              fontSize: '13px',
-              fontWeight: 'bold',
-              color: '#555',
-              marginBottom: '5px'
-            }}>
-              מגדר
-            </label>
+          {/* מגדר */}
+          <div className="filter-group">
+            <label>מגדר</label>
 
-            <div style={{ display: 'flex', gap: '5px' }}>
-              {['הכל', 'בנים', 'בנות'].map((gender) => (
+            <div className="filter-buttons">
+              {['הכל', 'בנים', 'בנות'].map(gender => (
                 <button
+                  type="button"
                   key={gender}
+                  className={selectedGender === gender ? 'active' : ''}
                   onClick={() => setSelectedGender(gender)}
-                  style={{
-                    flex: 1,
-                    padding: '9px',
-                    borderRadius: '6px',
-                    border: '1px solid #ccc',
-                    backgroundColor: selectedGender === gender ? '#0056b3' : '#f8f9fa',
-                    color: selectedGender === gender ? '#fff' : '#333',
-                    cursor: 'pointer',
-                    fontWeight: '500',
-                    fontSize: '13px'
-                  }}
                 >
                   {gender}
                 </button>
@@ -401,39 +412,23 @@ function App() {
             </div>
           </div>
 
-          <div>
-            <label style={{
-              display: 'block',
-              fontSize: '13px',
-              fontWeight: 'bold',
-              color: '#555',
-              marginBottom: '5px'
-            }}>
-              בריכה
-            </label>
+          {/* בריכה */}
+          <div className="filter-group">
+            <label>אורך בריכה</label>
 
-            <div style={{ display: 'flex', gap: '5px' }}>
-              {['הכל', '50 מטר', '25 מטר'].map((pool) => {
+            <div className="filter-buttons">
+              {['הכל', '50 מטר', '25 מטר'].map(pool => {
                 const val =
                   pool === 'הכל'
                     ? 'הכל'
-                    : (pool.includes('50') ? '50' : '25');
+                    : pool.includes('50') ? '50' : '25';
 
                 return (
                   <button
+                    type="button"
                     key={pool}
+                    className={selectedPool === val ? 'active' : ''}
                     onClick={() => setSelectedPool(val)}
-                    style={{
-                      flex: 1,
-                      padding: '9px',
-                      borderRadius: '6px',
-                      border: '1px solid #ccc',
-                      backgroundColor: selectedPool === val ? '#0056b3' : '#f8f9fa',
-                      color: selectedPool === val ? '#fff' : '#333',
-                      cursor: 'pointer',
-                      fontWeight: '500',
-                      fontSize: '13px'
-                    }}
                   >
                     {pool}
                   </button>
@@ -444,45 +439,20 @@ function App() {
 
         </div>
 
-        <div style={{
-          display: 'grid',
-          gridTemplateColumns: '1fr 1.2fr',
-          gap: '15px',
-          marginBottom: '20px',
-          alignItems: 'flex-end'
-        }}>
+        {/* שנות לידה ותאריכים */}
+        <div className="filter-row">
 
-          <div>
-            <label style={{
-              display: 'block',
-              fontSize: '13px',
-              fontWeight: 'bold',
-              color: '#555',
-              marginBottom: '5px'
-            }}>
-              שנת לידה
-            </label>
+          <div className="filter-group">
+            <label>שנת לידה</label>
 
-            <div style={{
-              display: 'flex',
-              gap: '6px',
-              alignItems: 'center'
-            }}>
+            <div className="year-inputs">
               <select
                 value={yearFrom}
-                onChange={(e) => setYearFrom(e.target.value)}
-                style={{
-                  width: '100%',
-                  padding: '9px',
-                  borderRadius: '6px',
-                  border: '1px solid #ccc',
-                  fontSize: '14px',
-                  backgroundColor: '#fff'
-                }}
+                onChange={e => setYearFrom(e.target.value)}
               >
-                {years.map((y, idx) => (
-                  <option key={idx} value={y}>
-                    {y === 'הכל' ? 'מ-שנה' : y}
+                {years.map((year, idx) => (
+                  <option key={idx} value={year}>
+                    {year === 'הכל' ? 'משנה' : year}
                   </option>
                 ))}
               </select>
@@ -491,52 +461,25 @@ function App() {
 
               <select
                 value={yearTo}
-                onChange={(e) => setYearTo(e.target.value)}
-                style={{
-                  width: '100%',
-                  padding: '9px',
-                  borderRadius: '6px',
-                  border: '1px solid #ccc',
-                  fontSize: '14px',
-                  backgroundColor: '#fff'
-                }}
+                onChange={e => setYearTo(e.target.value)}
               >
-                {years.map((y, idx) => (
-                  <option key={idx} value={y}>
-                    {y === 'הכל' ? 'עד-שנה' : y}
+                {years.map((year, idx) => (
+                  <option key={idx} value={year}>
+                    {year === 'הכל' ? 'עד שנה' : year}
                   </option>
                 ))}
               </select>
             </div>
           </div>
 
-          <div>
-            <label style={{
-              display: 'block',
-              fontSize: '13px',
-              fontWeight: 'bold',
-              color: '#555',
-              marginBottom: '5px'
-            }}>
-              תקופה (תאריכים)
-            </label>
+          <div className="filter-group">
+            <label>תקופה (תאריכים)</label>
 
-            <div style={{
-              display: 'flex',
-              gap: '6px',
-              alignItems: 'center'
-            }}>
+            <div className="date-inputs">
               <input
                 type="date"
                 value={dateFrom}
-                onChange={(e) => setDateFrom(e.target.value)}
-                style={{
-                  width: '100%',
-                  padding: '8px',
-                  borderRadius: '6px',
-                  border: '1px solid #ccc',
-                  fontSize: '13px'
-                }}
+                onChange={e => setDateFrom(e.target.value)}
               />
 
               <span>עד</span>
@@ -544,327 +487,202 @@ function App() {
               <input
                 type="date"
                 value={dateTo}
-                onChange={(e) => setDateTo(e.target.value)}
-                style={{
-                  width: '100%',
-                  padding: '8px',
-                  borderRadius: '6px',
-                  border: '1px solid #ccc',
-                  fontSize: '13px'
-                }}
+                onChange={e => setDateTo(e.target.value)}
               />
             </div>
           </div>
 
         </div>
 
-        <div style={{
-          display: 'flex',
-          gap: '10px',
-          alignItems: 'flex-end',
-          borderTop: '1px solid #eee',
-          paddingTop: '15px'
-        }}>
+        {/* חיפוש שחיין */}
+        <div className="search-row">
 
-          <div style={{ flex: 1 }}>
-            <label style={{
-              display: 'block',
-              fontSize: '13px',
-              fontWeight: 'bold',
-              color: '#555',
-              marginBottom: '5px'
-            }}>
-              חיפוש שחיין/ית
-            </label>
+          <div className="filter-group">
+            <label>חיפוש שחיין/ית</label>
 
-            <input
-              type="text"
-              placeholder="הקלידו שם פרטי ומשפחה..."
-              value={searchTerm}
-              onChange={(e) => setSearchTerm(e.target.value)}
-              onKeyDown={(e) => {
-                if (e.key === 'Enter') setAppliedSearch(searchTerm);
-              }}
-              style={{
-                width: '100%',
-                padding: '10px',
-                borderRadius: '6px',
-                border: '1px solid #ccc',
-                fontSize: '14px',
-                boxSizing: 'border-box'
-              }}
-            />
+            <div className="search-wrapper">
+              <input
+                type="text"
+                placeholder="הקלידו שם פרטי ומשפחה..."
+                value={searchTerm}
+                onChange={e => setSearchTerm(e.target.value)}
+                onKeyDown={e => {
+                  if (e.key === 'Enter') {
+                    setAppliedSearch(searchTerm);
+                  }
+                }}
+              />
+
+              {searchTerm && (
+                <button
+                  type="button"
+                  className="clear-search"
+                  onClick={clearSearch}
+                  title="ניקוי החיפוש"
+                  aria-label="ניקוי החיפוש"
+                >
+                  ×
+                </button>
+              )}
+            </div>
           </div>
 
-          <div>
-            <button
-              onClick={() => setAppliedSearch(searchTerm)}
-              style={{
-                padding: '10px 25px',
-                backgroundColor: '#d9534f',
-                color: '#fff',
-                border: 'none',
-                borderRadius: '6px',
-                fontWeight: 'bold',
-                fontSize: '15px',
-                cursor: 'pointer',
-                boxShadow: '0 2px 4px rgba(0,0,0,0.1)'
-              }}
-            >
-              חפש
-            </button>
-          </div>
+          <button
+            type="button"
+            className="search-button"
+            onClick={() => setAppliedSearch(searchTerm)}
+          >
+            חפש
+          </button>
 
         </div>
 
-        {/* תיבת סימון וספירת שחיינים באותה שורה */}
-        <div style={{
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'space-between',
-          marginTop: '12px',
-          marginBottom: '8px'
-        }}>
-          <div style={{
-            display: 'flex',
-            alignItems: 'center',
-            gap: '8px'
-          }}>
+        {/* תוצאה הטובה ביותר וספירת שחיינים */}
+        <div className="filters-footer">
+
+          <label className="best-results-option">
             <input
-              id="showBestResults"
               type="checkbox"
               checked={showBestResults}
-              onChange={(e) => setShowBestResults(e.target.checked)}
+              onChange={e => setShowBestResults(e.target.checked)}
             />
 
-            <label
-              htmlFor="showBestResults"
-              style={{
-                fontSize: '13px',
-                color: '#555',
-                cursor: 'pointer'
-              }}
-            >
-              הצג תוצאה הטובה ביותר לשחיין/ית
-            </label>
+            הצג תוצאה הטובה ביותר לשחיין/ית
+          </label>
+
+          <div className="results-count">
+            נמצאו {uniqueSwimmerCount} שחיינים
           </div>
 
-          <div style={{
-            fontSize: '13px',
-            color: '#555'
-          }}>
-            נמצאו: {uniqueSwimmerCount} תוצאות
-          </div>
         </div>
 
-      </div>
+      </section>
 
-      {/* טבלת תוצאות */}
+      {/* אזור התוצאות */}
       {loading ? (
-        <p style={{
-          textAlign: 'center',
-          fontSize: '18px'
-        }}>
-          טוען נתונים...
-        </p>
-      ) : (
-        <div>
 
-          <div style={{
-            backgroundColor: '#0056b3',
-            color: '#fff',
-            borderRadius: '10px 10px 0 0',
-            overflow: 'hidden'
-          }}>
-            <table style={{
-              width: '100%',
-              borderCollapse: 'collapse',
-              textAlign: 'right'
-            }}>
-              <thead>
-                <tr style={{ fontSize: '14px' }}>
-                  <th style={{ padding: '15px', width: '80px' }}>מיקום</th>
-                  <th style={{ padding: '15px' }}>שחיין/ית / אגודה</th>
-                  <th style={{ padding: '15px', width: '90px' }}>שנת לידה</th>
-                  <th style={{ padding: '15px' }}>תחרות</th>
-                  <th style={{
-                    padding: '15px',
-                    textAlign: 'left',
-                    width: '150px'
-                  }}>
-                    תוצאה
-                  </th>
-                </tr>
-              </thead>
-            </table>
+        <div className="results-section">
+          <div className="loading-message">
+            טוען נתוני שחייה...
           </div>
-
-          <div style={{
-            backgroundColor: '#fff',
-            borderRadius: '0 0 10px 10px',
-            boxShadow: '0 4px 10px rgba(0,0,0,0.05)',
-            overflow: 'hidden'
-          }}>
-            {displayedSwimmers.length > 0 ? (
-              displayedSwimmers.slice(0, 100).map((row, index) => {
-
-                const invalidNames = [
-                  'חופשי',
-                  'גב',
-                  'חזה',
-                  'פרפר',
-                  'מעורב'
-                ];
-
-                const isValidSwimmerName = (name) => {
-                  const cleanName = String(name || '').trim();
-
-                  return (
-                    cleanName !== '' &&
-                    !invalidNames.includes(cleanName) &&
-                    !/^\d/.test(cleanName)
-                  );
-                };
-
-                const possibleNames = [
-                  row.swimmer?.full_name,
-                  row.swimmer?.first_name,
-                  row.name
-                ];
-
-                const fullName =
-                  possibleNames.find(isValidSwimmerName) || 'שחיין לא ידוע';
-
-                const clubName = row.club?.name_he || 'אגודה';
-                const birthYear = row.birth_year || '-';
-                const competitionInfo = row.competition || 'תחרות שחייה';
-
-                const competitionDate =
-                  extractIsoDate(competitionInfo) ||
-                  row.competition_date ||
-                  '';
-
-                return (
-                  <div
-                    key={`${getSwimmerKey(row)}-${row.discipline}-${getPoolKey(row)}-${index}`}
-                    style={{
-                      display: 'flex',
-                      alignItems: 'center',
-                      padding: '12px 15px',
-                      borderBottom: '1px solid #eee',
-                      backgroundColor: index % 2 === 0 ? '#fff' : '#fcfdff'
-                    }}
-                  >
-                    <div style={{
-                      width: '80px',
-                      display: 'flex',
-                      alignItems: 'center'
-                    }}>
-                      <span style={{
-                        display: 'inline-flex',
-                        justifyContent: 'center',
-                        alignItems: 'center',
-                        width: '32px',
-                        height: '32px',
-                        borderRadius: '6px',
-                        backgroundColor:
-                          index === 0 ? '#d9534f' :
-                          index === 1 ? '#f0ad4e' :
-                          index === 2 ? '#5bc0de' : '#e9ecef',
-                        color: index < 3 ? '#fff' : '#333',
-                        fontWeight: 'bold',
-                        fontSize: '14px'
-                      }}>
-                        {index + 1}
-                      </span>
-                    </div>
-
-                    <div style={{
-                      flex: 2,
-                      paddingRight: '10px'
-                    }}>
-                      <div style={{
-                        fontWeight: 'bold',
-                        color: '#222',
-                        fontSize: '15px'
-                      }}>
-                        {fullName}
-                      </div>
-
-                      <div style={{
-                        fontSize: '13px',
-                        color: '#777',
-                        marginTop: '2px'
-                      }}>
-                        {clubName}
-                      </div>
-                    </div>
-
-                    <div style={{
-                      width: '90px',
-                      fontSize: '14px',
-                      color: '#444',
-                      fontWeight: '500'
-                    }}>
-                      {birthYear}
-                    </div>
-
-                    <div style={{
-                      flex: 2,
-                      fontSize: '13px',
-                      color: '#566'
-                    }}>
-                      {competitionInfo}
-
-                      {competitionDate && !extractIsoDate(competitionInfo) && (
-                        <div style={{
-                          fontSize: '12px',
-                          color: '#777',
-                          marginTop: '4px'
-                        }}>
-                          {competitionDate.split('-').reverse().join('/')}
-                        </div>
-                      )}
-                    </div>
-
-                    <div style={{
-                      width: '150px',
-                      textAlign: 'left'
-                    }}>
-                      <div style={{
-                        fontFamily: 'monospace',
-                        fontWeight: 'bold',
-                        fontSize: '16px',
-                        color: '#0056b3'
-                      }}>
-                        {row.time || '-'}
-                      </div>
-
-                      <div style={{
-                        fontSize: '11px',
-                        color: '#2b7a78',
-                        fontWeight: 'bold',
-                        marginTop: '2px'
-                      }}>
-                        {row.points !== '-' ? `FINA ${row.points}` : ''}
-                      </div>
-                    </div>
-                  </div>
-                );
-              })
-            ) : (
-              <p style={{
-                textAlign: 'center',
-                padding: '30px',
-                color: '#777'
-              }}>
-                לא נמצאו תוצאות התואמות את הסינונים הנבחרים.
-              </p>
-            )}
-          </div>
-
         </div>
+
+      ) : (
+
+        <section className="results-section">
+
+          <div className="results-heading">
+             <h2>תוצאות דירוג</h2>
+          </div>
+
+          <div className="table-scroll">
+
+           
+
+
+<table className="results-table">
+  <thead>
+    <tr>
+      <th>מיקום</th>
+      <th>שחיין/ית</th>
+      <th className="mobile-portrait-hide">שנת לידה</th>
+      <th className="mobile-portrait-hide">משחה</th>
+      <th>תחרות</th>
+      <th>זמן</th>
+      <th className="mobile-portrait-hide">ניקוד AQUA</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    {displayedSwimmers.length > 0 ? (
+      displayedSwimmers.slice(0, 100).map((row, index) => {
+        const fullName = getSwimmerName(row);
+        const clubName = row.club?.name_he || 'אגודה';
+        const birthYear = row.birth_year || '-';
+        if (row.birth_year == null || row.birth_year === '') {
+          console.log('בדיקת שנת לידה:', JSON.stringify(row, null, 2));   
+         }
+        const competitionInfo = row.competition || 'תחרות שחייה';
+
+        const competitionDate =
+          extractIsoDate(competitionInfo) ||
+          row.competition_date ||
+          '';
+
+        const points =
+          row.points != null && row.points !== '-'
+            ? row.points
+            : '-';
+
+        const rankClass =
+          index === 0 ? 'first' :
+          index === 1 ? 'second' :
+          index === 2 ? 'third' : '';
+
+        return (
+          <tr
+            key={
+              row.result_id ||
+              `${getSwimmerKey(row)}-${row.discipline}-${getPoolKey(row)}-${index}`
+            }
+          >
+            <td>
+              <span className={`rank-number ${rankClass}`}>
+                {index + 1}
+              </span>
+            </td>
+
+            <td className="swimmer-info-cell">
+              <div className="swimmer-name">{fullName}</div>
+              <div className="swimmer-club">{clubName}</div>
+            </td>
+
+            <td className="mobile-portrait-hide">
+              {birthYear}
+            </td>
+
+            <td className="discipline-cell mobile-portrait-hide">
+              {row.discipline || '-'}
+            </td>
+
+            <td className="competition-cell">
+              <div>{competitionInfo}</div>
+              {competitionDate &&
+                !extractIsoDate(competitionInfo) && (
+                  <div className="swimmer-club">
+                    {competitionDate.split('-').reverse().join('/')}
+                  </div>
+                )}
+            </td>
+
+            <td className="time-cell">
+              {row.time || '-'}
+            </td>
+
+            <td className="points-cell mobile-portrait-hide">
+              {points}
+            </td>
+          </tr>
+        );
+      })
+    ) : (
+      <tr>
+        <td colSpan="7">
+          <div className="empty-message">
+            לא נמצאו תוצאות התואמות את הסינונים הנבחרים.
+          </div>
+        </td>
+      </tr>
+    )}
+  </tbody>
+</table>
+
+          </div>
+
+        </section>
+
       )}
+
     </div>
   );
 }

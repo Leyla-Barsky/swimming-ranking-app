@@ -55,11 +55,11 @@ body {
 }
 
 #root {
-  width: 1126px;
-  max-width: 100%;
+  width: 90%;
+  max-width: none;
   margin: 0 auto;
-  text-align: center;
-  border-inline: 1px solid var(--border);
+  text-align: right;
+  border: none;
   min-height: 100svh;
   display: flex;
   flex-direction: column;
