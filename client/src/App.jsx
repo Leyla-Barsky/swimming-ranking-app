@@ -1,29 +1,11 @@
 
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import './App.css';
-
-// המרת זמן למספר שניות לצורך מיון
-function timeToSeconds(timeStr) {
-  if (!timeStr || timeStr === '-' || timeStr === '00:00.00') {
-    return 999999;
-  }
-
-  const parts = String(timeStr).split(':').map(Number);
-
-  if (parts.some(part => Number.isNaN(part))) {
-    return 999999;
-  }
-
-  if (parts.length === 3) {
-    return parts[0] * 3600 + parts[1] * 60 + parts[2];
-  }
-
-  if (parts.length === 2) {
-    return parts[0] * 60 + parts[1];
-  }
-
-  return parts[0] || 999999;
-}
+import {
+  timeToSeconds,
+  getBirthYears,
+  matchesBirthYear
+} from './swimmingUtils.js';
 
 // חילוץ תאריך מתוך שם התחרות
 function extractIsoDate(compStr) {
@@ -62,7 +44,6 @@ function getPoolKey(item) {
   }
 
   const competition = item.competition || '';
-
   return competition.includes('50') ? '50' : '25';
 }
 
@@ -105,9 +86,10 @@ function App() {
 
   const [showBestResults, setShowBestResults] = useState(false);
 
-  // טעינת מאגר השחייה מ-GitHub
+  // טעינת מאגר השחייה
   useEffect(() => {
     const DATA_URL = '/master_swimming_database.json';
+
     const loadData = async () => {
       try {
         const response = await fetch(`${DATA_URL}?t=${Date.now()}`, {
@@ -185,17 +167,8 @@ function App() {
       .sort((a, b) => getDisciplineOrder(a) - getDisciplineOrder(b))
   ];
 
-
-// רשימת שנות הלידה מתוך מסד הנתונים
-const years = [
-  'הכל',
-  ...[...new Set(
-    swimmers
-      .map(item => String(item.birth_year || '').trim())
-      .filter(year => Number(year) >= 1998 && Number(year) <= 2019)
-  )].sort((a, b) => Number(a) - Number(b))
-];
-
+  // רשימת שנות הלידה מתוך מסד הנתונים
+  const years = getBirthYears(swimmers);
 
   // סינון התוצאות
   const filteredSwimmers = swimmers
@@ -238,15 +211,12 @@ const years = [
         }
       }
 
-      const birthYear = parseInt(item.birth_year);
-
-      const yearFromMatch =
-        yearFrom === 'הכל' ||
-        (!isNaN(birthYear) && birthYear >= parseInt(yearFrom));
-
-      const yearToMatch =
-        yearTo === 'הכל' ||
-        (!isNaN(birthYear) && birthYear <= parseInt(yearTo));
+      // סינון לפי שנת לידה
+      const birthYearMatch = matchesBirthYear(
+        item,
+        yearFrom,
+        yearTo
+      );
 
       // חיפוש לפי שם מלא, פרטי או משפחה
       const swimmerName = [
@@ -279,8 +249,7 @@ const years = [
         disciplineMatch &&
         genderMatch &&
         poolMatch &&
-        yearFromMatch &&
-        yearToMatch &&
+        birthYearMatch &&
         dateFromMatch &&
         dateToMatch &&
         searchMatch
@@ -375,7 +344,7 @@ const years = [
 
       {/* כותרת האתר */}
       <header className="app-header">
-        <h1>דירוג זמנים מובילים </h1>
+        <h1>דירוג זמנים מובילים</h1>
         <p>מאגר תוצאות שחייה תחרותית בישראל</p>
       </header>
 
@@ -578,110 +547,104 @@ const years = [
         <section className="results-section">
 
           <div className="results-heading">
-             <h2>תוצאות דירוג</h2>
+            <h2>תוצאות דירוג</h2>
           </div>
 
           <div className="table-scroll">
 
-           
+            <table className="results-table">
+              <thead>
+                <tr>
+                  <th>מיקום</th>
+                  <th>שחיין/ית</th>
+                  <th className="mobile-portrait-hide">שנת לידה</th>
+                  <th className="mobile-portrait-hide">משחה</th>
+                  <th>תחרות</th>
+                  <th>זמן</th>
+                  <th className="mobile-portrait-hide">ניקוד AQUA</th>
+                </tr>
+              </thead>
 
+              <tbody>
+                {displayedSwimmers.length > 0 ? (
+                  displayedSwimmers.slice(0, 100).map((row, index) => {
+                    const fullName = getSwimmerName(row);
+                    const clubName = row.club?.name_he || 'אגודה';
+                    const birthYear = row.birth_year || '-';
+                    const competitionInfo = row.competition || 'תחרות שחייה';
 
-<table className="results-table">
-  <thead>
-    <tr>
-      <th>מיקום</th>
-      <th>שחיין/ית</th>
-      <th className="mobile-portrait-hide">שנת לידה</th>
-      <th className="mobile-portrait-hide">משחה</th>
-      <th>תחרות</th>
-      <th>זמן</th>
-      <th className="mobile-portrait-hide">ניקוד AQUA</th>
-    </tr>
-  </thead>
+                    const competitionDate =
+                      extractIsoDate(competitionInfo) ||
+                      row.competition_date ||
+                      '';
 
-  <tbody>
-    {displayedSwimmers.length > 0 ? (
-      displayedSwimmers.slice(0, 100).map((row, index) => {
-        const fullName = getSwimmerName(row);
-        const clubName = row.club?.name_he || 'אגודה';
-        const birthYear = row.birth_year || '-';
-        if (row.birth_year == null || row.birth_year === '') {
-          console.log('בדיקת שנת לידה:', JSON.stringify(row, null, 2));   
-         }
-        const competitionInfo = row.competition || 'תחרות שחייה';
+                    const points =
+                      row.points != null && row.points !== '-'
+                        ? row.points
+                        : '-';
 
-        const competitionDate =
-          extractIsoDate(competitionInfo) ||
-          row.competition_date ||
-          '';
+                    const rankClass =
+                      index === 0 ? 'first' :
+                      index === 1 ? 'second' :
+                      index === 2 ? 'third' : '';
 
-        const points =
-          row.points != null && row.points !== '-'
-            ? row.points
-            : '-';
+                    return (
+                      <tr
+                        key={
+                          row.result_id ||
+                          `${getSwimmerKey(row)}-${row.discipline}-${getPoolKey(row)}-${index}`
+                        }
+                      >
+                        <td>
+                          <span className={`rank-number ${rankClass}`}>
+                            {index + 1}
+                          </span>
+                        </td>
 
-        const rankClass =
-          index === 0 ? 'first' :
-          index === 1 ? 'second' :
-          index === 2 ? 'third' : '';
+                        <td className="swimmer-info-cell">
+                          <div className="swimmer-name">{fullName}</div>
+                          <div className="swimmer-club">{clubName}</div>
+                        </td>
 
-        return (
-          <tr
-            key={
-              row.result_id ||
-              `${getSwimmerKey(row)}-${row.discipline}-${getPoolKey(row)}-${index}`
-            }
-          >
-            <td>
-              <span className={`rank-number ${rankClass}`}>
-                {index + 1}
-              </span>
-            </td>
+                        <td className="mobile-portrait-hide">
+                          {birthYear}
+                        </td>
 
-            <td className="swimmer-info-cell">
-              <div className="swimmer-name">{fullName}</div>
-              <div className="swimmer-club">{clubName}</div>
-            </td>
+                        <td className="discipline-cell mobile-portrait-hide">
+                          {row.discipline || '-'}
+                        </td>
 
-            <td className="mobile-portrait-hide">
-              {birthYear}
-            </td>
+                        <td className="competition-cell">
+                          <div>{competitionInfo}</div>
+                          {competitionDate &&
+                            !extractIsoDate(competitionInfo) && (
+                              <div className="swimmer-club">
+                                {competitionDate.split('-').reverse().join('/')}
+                              </div>
+                            )}
+                        </td>
 
-            <td className="discipline-cell mobile-portrait-hide">
-              {row.discipline || '-'}
-            </td>
+                        <td className="time-cell">
+                          {row.time || '-'}
+                        </td>
 
-            <td className="competition-cell">
-              <div>{competitionInfo}</div>
-              {competitionDate &&
-                !extractIsoDate(competitionInfo) && (
-                  <div className="swimmer-club">
-                    {competitionDate.split('-').reverse().join('/')}
-                  </div>
+                        <td className="points-cell mobile-portrait-hide">
+                          {points}
+                        </td>
+                      </tr>
+                    );
+                  })
+                ) : (
+                  <tr>
+                    <td colSpan="7">
+                      <div className="empty-message">
+                        לא נמצאו תוצאות התואמות את הסינונים הנבחרים.
+                      </div>
+                    </td>
+                  </tr>
                 )}
-            </td>
-
-            <td className="time-cell">
-              {row.time || '-'}
-            </td>
-
-            <td className="points-cell mobile-portrait-hide">
-              {points}
-            </td>
-          </tr>
-        );
-      })
-    ) : (
-      <tr>
-        <td colSpan="7">
-          <div className="empty-message">
-            לא נמצאו תוצאות התואמות את הסינונים הנבחרים.
-          </div>
-        </td>
-      </tr>
-    )}
-  </tbody>
-</table>
+              </tbody>
+            </table>
 
           </div>
 

@@ -10,16 +10,13 @@ const crypto = require('crypto');
 // --------------------------------------------------
 
 const COMPETITIONS_PATH = './loglig_competitions.json';
-
 const RESULTS_PATH = './client/public/loglig_results.json';
-
 const METADATA_PATH = './client/public/loglig_competition_metadata.json';
 
 // --------------------------------------------------
 // פונקציות תאריך
 // --------------------------------------------------
 
-// המרת תאריך DD/MM/YYYY לפורמט YYYY-MM-DD
 function convertDate(dateText) {
     if (!dateText) return null;
 
@@ -30,7 +27,6 @@ function convertDate(dateText) {
     return `${match[3]}-${match[2]}-${match[1]}`;
 }
 
-// חילוץ תאריך מתוך טקסט
 function extractDateText(text) {
     if (!text) return null;
 
@@ -45,7 +41,6 @@ function extractDateText(text) {
     return null;
 }
 
-// זיהוי החודש מתוך תאריך
 function getMonthFromDate(dateText) {
     if (!dateText) return null;
 
@@ -88,10 +83,7 @@ function detectPoolLength(text) {
     const has25 = is25Meters || isShortPool;
     const has50 = is50Meters || isLongPool;
 
-    // אם נמצאו שני סוגי הבריכות, לא מנחשים.
-    if (has25 && has50) {
-        return null;
-    }
+    if (has25 && has50) return null;
 
     if (has25) return '25';
     if (has50) return '50';
@@ -99,14 +91,12 @@ function detectPoolLength(text) {
     return null;
 }
 
-// קביעת אורך הבריכה
 function getPoolLengthFromRules({
     regulationText,
     competitionTitle,
     competitionPageText,
     dateText
 }) {
-    // עדיפות ראשונה: מידע מפורש בתקנון
     const regulationPoolLength = detectPoolLength(regulationText);
 
     if (regulationPoolLength) {
@@ -123,10 +113,8 @@ function getPoolLengthFromRules({
     ].join(' ');
 
     const isWingate = allCompetitionText.includes('וינגייט');
-
     const month = getMonthFromDate(dateText);
 
-    // וינגייט בין מרץ לאוגוסט: בריכה של 50 מטר
     if (isWingate && month !== null && month >= 3 && month <= 8) {
         return {
             poolLength: '50',
@@ -134,7 +122,6 @@ function getPoolLengthFromRules({
         };
     }
 
-    // כל שאר המקרים: בריכה של 25 מטר
     return {
         poolLength: '25',
         reason: 'ברירת מחדל לפי כללי הבריכות'
@@ -145,7 +132,6 @@ function getPoolLengthFromRules({
 // פונקציות תקנון
 // --------------------------------------------------
 
-// זיהוי קישור לתקנון PDF
 function isRegulationUrl(url) {
     if (!url) return false;
 
@@ -155,7 +141,6 @@ function isRegulationUrl(url) {
     );
 }
 
-// הורדת תקנון PDF וחילוץ הטקסט
 async function readRegulationPdf(pdfUrl, request) {
     if (!pdfUrl) return '';
 
@@ -234,7 +219,7 @@ function createSwimmerId(name, birthYear) {
 function createResultId(eventUrl, name, birthYear, time) {
     return crypto
         .createHash('sha1')
-        .update(`${eventUrl}|${name}|${birthYear || ''}|${time}`)
+        .update(`${eventUrl}|${name}|${time}`)
         .digest('hex');
 }
 
@@ -269,7 +254,36 @@ function loadExistingResults() {
         );
     }
 }
+function safeWriteJson(filePath, data) {
+    const tempPath = `${filePath}.tmp`;
 
+    try {
+        fs.writeFileSync(
+            tempPath,
+            JSON.stringify(data, null, 2),
+            'utf-8'
+        );
+
+        const verifiedData = JSON.parse(
+            fs.readFileSync(tempPath, 'utf-8')
+        );
+
+        if (!Array.isArray(verifiedData)) {
+            throw new Error('קובץ זמני אינו מערך תקין');
+        }
+
+        fs.renameSync(tempPath, filePath);
+
+        console.log(`הקובץ נשמר בהצלחה: ${filePath}`);
+
+    } catch (error) {
+        if (fs.existsSync(tempPath)) {
+            fs.unlinkSync(tempPath);
+        }
+
+        throw error;
+    }
+}
 // --------------------------------------------------
 // הסורק הראשי
 // --------------------------------------------------
@@ -287,18 +301,42 @@ async function scrapeLogligResults() {
             fs.readFileSync(COMPETITIONS_PATH, 'utf-8')
         );
 
-        // טעינת התוצאות שכבר קיימות כדי לא למחוק אותן
         const existingResults = loadExistingResults();
 
-        // מפה למניעת כפילויות
-        const resultsMap = new Map();
+const resultsMap = new Map();
 
-        existingResults.forEach((result, index) => {
-            const key = result.result_id || `existing_${index}`;
-            resultsMap.set(key, result);
-        });
+existingResults.forEach((result, index) => {
+    const name =
+        result.swimmer?.full_name ||
+        result.swimmer?.first_name ||
+        '';
+
+    const key = result.event_url && name && result.time
+        ? createResultId(
+            result.event_url,
+            name,
+            result.birth_year,
+            result.time
+        )
+        : result.result_id || `existing_${index}`;
+
+    const previous = resultsMap.get(key);
+
+    const mergedResult = {
+        ...(previous || {}),
+        ...result,
+        result_id: key,
+        birth_year:
+            result.birth_year ||
+            previous?.birth_year ||
+            null
+    };
+
+    resultsMap.set(key, mergedResult);
+});
 
         const competitionMetadata = [];
+        let scanHadErrors = false;
 
         browser = await chromium.launch({
             headless: true
@@ -316,16 +354,11 @@ async function scrapeLogligResults() {
             );
 
             try {
-                // ------------------------------------------
                 // שלב א': זיהוי קישורי התחרות והתקנון
-                // ------------------------------------------
 
                 let logligUrl = comp.logligUrl || null;
-
                 let regulationUrl = comp.regulationUrl || null;
 
-                // הגנה מפני קובץ ישן שבו קישור PDF נשמר
-                // בטעות בתור logligUrl
                 if (isRegulationUrl(logligUrl)) {
                     if (!regulationUrl) {
                         regulationUrl = logligUrl;
@@ -337,9 +370,7 @@ async function scrapeLogligResults() {
                 let competitionPageText = '';
                 let regulationText = '';
 
-                // ------------------------------------------
                 // שלב ב': קריאת התקנון
-                // ------------------------------------------
 
                 if (regulationUrl) {
                     console.log('  נמצא קישור לתקנון בקובץ התחרויות.');
@@ -350,9 +381,7 @@ async function scrapeLogligResults() {
                     );
                 }
 
-                // ------------------------------------------
                 // שלב ג': פתיחת עמוד התחרות
-                // ------------------------------------------
 
                 let events = [];
 
@@ -368,8 +397,6 @@ async function scrapeLogligResults() {
                             .innerText()
                             .catch(() => '');
 
-                        // אם לא נמצא תקנון בקובץ,
-                        // מנסים למצוא אותו בעמוד התחרות
                         if (!regulationText) {
                             const regulationLinks = await page
                                 .locator('a[href*="ShowLeagueDoc"]')
@@ -391,9 +418,7 @@ async function scrapeLogligResults() {
                             }
                         }
 
-                        // ----------------------------------
                         // שלב ד': איתור המשחים
-                        // ----------------------------------
 
                         events = await page.evaluate(() => {
                             const links = Array.from(
@@ -429,6 +454,8 @@ async function scrapeLogligResults() {
                         });
 
                     } catch (pageError) {
+                        scanHadErrors = true;
+
                         console.log(
                             `  לא ניתן לפתוח את עמוד התחרות: ${pageError.message}`
                         );
@@ -440,9 +467,7 @@ async function scrapeLogligResults() {
                     );
                 }
 
-                // ------------------------------------------
                 // שלב ה': שמירת מידע על התחרות
-                // ------------------------------------------
 
                 const competitionDateText =
                     extractDateText(compTitle) ||
@@ -482,13 +507,10 @@ async function scrapeLogligResults() {
                         null,
 
                     pool_length: competitionPoolInfo.poolLength,
-
                     pool_length_reason: competitionPoolInfo.reason,
 
                     status: competitionStatus,
-
                     events_found: events.length,
-
                     last_checked: new Date().toISOString()
                 });
 
@@ -506,9 +528,7 @@ async function scrapeLogligResults() {
 
                 console.log(`  נמצאו ${events.length} משחים.`);
 
-                // ------------------------------------------
                 // שלב ו': מעבר על כל המשחים
-                // ------------------------------------------
 
                 for (const event of events) {
                     if (
@@ -545,11 +565,9 @@ async function scrapeLogligResults() {
                             timeout: 30000
                         });
 
-                        // ----------------------------------
                         // שלב ז': חילוץ השחיינים
-                        // ----------------------------------
 
-                        const swimmers = await page.evaluate(() => {
+                        const scrapeData = await page.evaluate(() => {
                             const tables = Array.from(
                                 document.querySelectorAll('table')
                             );
@@ -566,7 +584,13 @@ async function scrapeLogligResults() {
                                 );
                             });
 
-                            if (!resultsTable) return [];
+                            if (!resultsTable) {
+                                return {
+                                    results: [],
+                                    debugBirthYear: null,
+                                    tableMissing: true
+                                };
+                            }
 
                             const headers = Array.from(
                                 resultsTable.querySelectorAll('th')
@@ -601,7 +625,6 @@ async function scrapeLogligResults() {
                                         ? (cells[index] || '')
                                         : '';
                                 };
-
                                 const position = getValue('position');
                                 const fullName = getValue('name');
                                 const birthYear = getValue('birthYear');
@@ -622,10 +645,9 @@ async function scrapeLogligResults() {
 
                                 results.push({
                                     position,
-
                                     fullName,
 
-                                    birthYear: /^20\d{2}$/.test(birthYear)
+                                    birthYear: /^(19|20)\d{2}$/.test(birthYear)
                                         ? birthYear
                                         : null,
 
@@ -640,12 +662,21 @@ async function scrapeLogligResults() {
                                 });
                             }
 
-                            return results;
+                           return {
+                              results,
+                              tableMissing: false
+                           };
                         });
 
-                        // ----------------------------------
+                        // קבלת התוצאות והצגת נתוני האבחון ב-Terminal
+                        const swimmers = scrapeData.results;
+
+                        if (scrapeData.tableMissing) {
+                            console.log('  לא נמצאה טבלת תוצאות. מדלג על המשחה וממשיך.');
+                            continue;
+                        }
+
                         // שלב ח': שמירת התוצאות
-                        // ----------------------------------
 
                         for (const swimmer of swimmers) {
                             const swimmerId = createSwimmerId(
@@ -701,9 +732,16 @@ async function scrapeLogligResults() {
                                 event_url: eventUrl
                             };
 
-                            // אם התוצאה כבר קיימת, היא תתעדכן.
-                            // אם היא חדשה, היא תתווסף.
-                            resultsMap.set(resultId, resultObject);
+                            const existingResult = resultsMap.get(resultId);
+
+resultsMap.set(resultId, {
+    ...(existingResult || {}),
+    ...resultObject,
+    birth_year:
+        resultObject.birth_year ||
+        existingResult?.birth_year ||
+        null
+});
                         }
 
                         console.log(
@@ -719,37 +757,32 @@ async function scrapeLogligResults() {
                 }
 
             } catch (competitionError) {
+                scanHadErrors = true;
                 console.log(
                     `שגיאה בתחרות ${compTitle}: ${competitionError.message}`
                 );
             }
         }
 
-        // ----------------------------------------------
         // שלב ט': שמירת התוצאות המעודכנות
-        // ----------------------------------------------
 
         const allResults = Array.from(resultsMap.values());
+
+        if (scanHadErrors) {
+            throw new Error(
+             'הסריקה נכשלה בחלק מהמשחים. הקבצים הקיימים לא יעודכנו.'
+            );
+        }
 
         fs.mkdirSync(path.dirname(RESULTS_PATH), {
             recursive: true
         });
 
-        fs.writeFileSync(
-            RESULTS_PATH,
-            JSON.stringify(allResults, null, 2),
-            'utf-8'
-        );
+        safeWriteJson(RESULTS_PATH, allResults);
 
-        // ----------------------------------------------
         // שלב י': שמירת מידע על כל התחרויות
-        // ----------------------------------------------
 
-        fs.writeFileSync(
-            METADATA_PATH,
-            JSON.stringify(competitionMetadata, null, 2),
-            'utf-8'
-        );
+        safeWriteJson(METADATA_PATH, competitionMetadata);
 
         console.log('\n================================');
         console.log('הסריקה הסתיימה!');
@@ -779,6 +812,7 @@ async function scrapeLogligResults() {
 
     } catch (error) {
         console.error('שגיאה כללית:', error.message);
+        process.exitCode = 1;
 
     } finally {
         if (browser) {
