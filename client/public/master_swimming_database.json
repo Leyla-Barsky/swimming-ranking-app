@@ -367534,5 +367534,6479 @@
     "competition_date": "2026-11-20",
     "source": "Loglig",
     "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86264?isModal=True"
+  },
+  {
+    "result_id": "4df5d906cb06daa8f7e16ef41da6874ae603f2c4",
+    "swimmer_id": "2969757ff3f4e7c468c7a9e9c0ed71d584eaa4f4",
+    "swimmer": {
+      "first_name": "מיקה ארד",
+      "last_name": "",
+      "full_name": "מיקה ארד"
+    },
+    "gender": "בנות",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "אלומה עירוני הוד השרון"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "04:31.59",
+    "points": 609,
+    "position": "1",
+    "heat": "4",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86347?isModal=True"
+  },
+  {
+    "result_id": "921308533ef780abe87439ee2f190e8288a70211",
+    "swimmer_id": "9812a8aaca19c4eae287809c898599a54d0917bc",
+    "swimmer": {
+      "first_name": "אנג'לה זאבורוייב",
+      "last_name": "",
+      "full_name": "אנג'לה זאבורוייב"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "בני הרצליה"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "04:35.76",
+    "points": 582,
+    "position": "2",
+    "heat": "4",
+    "lane": "8",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86347?isModal=True"
+  },
+  {
+    "result_id": "d300953268ec6b93ce106b1fe54b8adb475f20d6",
+    "swimmer_id": "61eca467dac30a57b3a8c211350402d70321e0dd",
+    "swimmer": {
+      "first_name": "יובל שרף",
+      "last_name": "",
+      "full_name": "יובל שרף"
+    },
+    "gender": "בנות",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי פ.מ. רעות"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "04:37.17",
+    "points": 573,
+    "position": "3",
+    "heat": "4",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86347?isModal=True"
+  },
+  {
+    "result_id": "ad2955580babde3d4079e9d441db82ca90197ec1",
+    "swimmer_id": "fb098ae1b1dcdfd2e6b5b5d182420ad4a2603118",
+    "swimmer": {
+      "first_name": "גלי קאניוק",
+      "last_name": "",
+      "full_name": "גלי קאניוק"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "04:37.67",
+    "points": 570,
+    "position": "4",
+    "heat": "3",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86347?isModal=True"
+  },
+  {
+    "result_id": "c26b269690c10315922d0b8abcdaea08459de5a4",
+    "swimmer_id": "2b68180c5f854b9d3745acc69d5485cd5507079f",
+    "swimmer": {
+      "first_name": "מרי פלייטמן",
+      "last_name": "",
+      "full_name": "מרי פלייטמן"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "הפועל אולימפ נתניה"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "04:38.78",
+    "points": 563,
+    "position": "5",
+    "heat": "4",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86347?isModal=True"
+  },
+  {
+    "result_id": "d2731c693283eefc3c258d4e8228b12fa7ad59fe",
+    "swimmer_id": "31cb558cb4eda638276adb5e463485c1a29a3a17",
+    "swimmer": {
+      "first_name": "ליה סקולניק",
+      "last_name": "",
+      "full_name": "ליה סקולניק"
+    },
+    "gender": "בנות",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי פ.מ. רעות"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "04:40.25",
+    "points": 554,
+    "position": "6",
+    "heat": "4",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86347?isModal=True"
+  },
+  {
+    "result_id": "62c2677d57572673005ab992b0b39bd8b4145fea",
+    "swimmer_id": "d3b6bedbbfa2eefc9d159f482caff5e6177d65b7",
+    "swimmer": {
+      "first_name": "אנה גורבנקו",
+      "last_name": "",
+      "full_name": "אנה גורבנקו"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "04:40.73",
+    "points": 551,
+    "position": "7",
+    "heat": "3",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86347?isModal=True"
+  },
+  {
+    "result_id": "1e0e34048aa28cf3f888befb61a3b788491451c7",
+    "swimmer_id": "ed6c0d87619ebf6800ec398305236c489ab94de7",
+    "swimmer": {
+      "first_name": "ספיר קאושינסקי",
+      "last_name": "",
+      "full_name": "ספיר קאושינסקי"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי וייסגל רחובות"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "04:41.90",
+    "points": 544,
+    "position": "8",
+    "heat": "4",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86347?isModal=True"
+  },
+  {
+    "result_id": "e2f45cb30607132315b508b9cc1f95c41ddf117f",
+    "swimmer_id": "9c6607cdb2953808cbe1f663fad032999662cd07",
+    "swimmer": {
+      "first_name": "מאיה קריסטל",
+      "last_name": "",
+      "full_name": "מאיה קריסטל"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי תל אביב"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "04:42.67",
+    "points": 540,
+    "position": "9",
+    "heat": "4",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86347?isModal=True"
+  },
+  {
+    "result_id": "01ab8d83cc3f3183f8dce0372c3ba2a6f5b04dd1",
+    "swimmer_id": "994b02136f86fc8cdae83a6cbdd86f737972c881",
+    "swimmer": {
+      "first_name": "מיכל מלכה",
+      "last_name": "",
+      "full_name": "מיכל מלכה"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "04:46.63",
+    "points": 518,
+    "position": "10",
+    "heat": "2",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86347?isModal=True"
+  },
+  {
+    "result_id": "5e3a1efa5d363476c4d0444e6d77ee488d594262",
+    "swimmer_id": "d2cfc3fc78925fa0fa19e7ca65d6136e17e7b9e1",
+    "swimmer": {
+      "first_name": "תיאה קולודנר",
+      "last_name": "",
+      "full_name": "תיאה קולודנר"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי פ.מ. רעות"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "04:46.91",
+    "points": 516,
+    "position": "11",
+    "heat": "4",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86347?isModal=True"
+  },
+  {
+    "result_id": "c58454e44e2debcebb59754fde85c0bf3067aff5",
+    "swimmer_id": "c95355156399dbcd94330bd7611caa7477a57780",
+    "swimmer": {
+      "first_name": "אנאבלה עטאללה",
+      "last_name": "",
+      "full_name": "אנאבלה עטאללה"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "04:47.40",
+    "points": 514,
+    "position": "12",
+    "heat": "2",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86347?isModal=True"
+  },
+  {
+    "result_id": "6f9d308671668eff86fb5f052de971ca1d899572",
+    "swimmer_id": "2f61e3d8e930aa7550f8d7227549af37fd390472",
+    "swimmer": {
+      "first_name": "רוני בן חיים",
+      "last_name": "",
+      "full_name": "רוני בן חיים"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "אלומה עירוני הוד השרון"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "04:49.79",
+    "points": 501,
+    "position": "13",
+    "heat": "3",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86347?isModal=True"
+  },
+  {
+    "result_id": "47bda4d5b65ddb55b47cb30d387bb461dd30f2a6",
+    "swimmer_id": "41e8b0fb6664f4f493399b03d0b32b1ec22916bc",
+    "swimmer": {
+      "first_name": "שירה אביגדורי",
+      "last_name": "",
+      "full_name": "שירה אביגדורי"
+    },
+    "gender": "בנות",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "TLV SWIM"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "04:50.67",
+    "points": 497,
+    "position": "14",
+    "heat": "3",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86347?isModal=True"
+  },
+  {
+    "result_id": "b528beaea28acbade3be733f998f338f8b94a4c0",
+    "swimmer_id": "d9615f7d7cfd04b234f4e981dcfb59d222063aea",
+    "swimmer": {
+      "first_name": "קארין מרגוליס",
+      "last_name": "",
+      "full_name": "קארין מרגוליס"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי וייסגל רחובות"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "04:50.73",
+    "points": 496,
+    "position": "15",
+    "heat": "3",
+    "lane": "8",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86347?isModal=True"
+  },
+  {
+    "result_id": "e51a382f2781c246bfea8a1775902e96bcce1da3",
+    "swimmer_id": "0142d652d364bf8f9fbed0aef735dc001981ad0d",
+    "swimmer": {
+      "first_name": "נעמה קוויט",
+      "last_name": "",
+      "full_name": "נעמה קוויט"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "בני הרצליה"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "04:51.82",
+    "points": 491,
+    "position": "16",
+    "heat": "3",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86347?isModal=True"
+  },
+  {
+    "result_id": "23da2870e4479faab3774b8bfe3d6e61723ab553",
+    "swimmer_id": "9e858d41749ad39fe7a97970aecc8a13d516fd7b",
+    "swimmer": {
+      "first_name": "דניאלה זיידמן",
+      "last_name": "",
+      "full_name": "דניאלה זיידמן"
+    },
+    "gender": "בנות",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי תל אביב"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "04:52.24",
+    "points": 489,
+    "position": "17",
+    "heat": "2",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86347?isModal=True"
+  },
+  {
+    "result_id": "1418922da98a2fe0ddc5e133f7919d76e4f0da47",
+    "swimmer_id": "19ac8c8b5afdb57513eebaa10f3baad6731f9726",
+    "swimmer": {
+      "first_name": "אלכסנדרה גרישצ'וק",
+      "last_name": "",
+      "full_name": "אלכסנדרה גרישצ'וק"
+    },
+    "gender": "בנות",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "בני הרצליה"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "04:53.05",
+    "points": 485,
+    "position": "18",
+    "heat": "2",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86347?isModal=True"
+  },
+  {
+    "result_id": "ea3b69f4c4f4b8f1189be4681de1b773e1960c23",
+    "swimmer_id": "cf602c8904eb15ded7b34d6c0222000fb6a276f3",
+    "swimmer": {
+      "first_name": "כליל שריד",
+      "last_name": "",
+      "full_name": "כליל שריד"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי שוהם"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "04:55.05",
+    "points": 475,
+    "position": "19",
+    "heat": "2",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86347?isModal=True"
+  },
+  {
+    "result_id": "3c396a541b6c40f0ac775ab6daaae4dc7096d7e4",
+    "swimmer_id": "b36e5d825b1d7a938cb00519f855920daaa9c243",
+    "swimmer": {
+      "first_name": "מילנה יודולוביץ",
+      "last_name": "",
+      "full_name": "מילנה יודולוביץ"
+    },
+    "gender": "בנות",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "הפועל דולפין נתניה"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "04:55.38",
+    "points": 473,
+    "position": "20",
+    "heat": "3",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86347?isModal=True"
+  },
+  {
+    "result_id": "5f14f62de7ebdd066dfe6cb27d02d28f251b4840",
+    "swimmer_id": "186f59bdc51b4625bf1da4d3764b37aa06cd730a",
+    "swimmer": {
+      "first_name": "אליה גורי",
+      "last_name": "",
+      "full_name": "אליה גורי"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי תל אביב"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "04:55.50",
+    "points": 473,
+    "position": "21",
+    "heat": "3",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86347?isModal=True"
+  },
+  {
+    "result_id": "aa9406cb1bad4c192a0dd3650dd8270856548b22",
+    "swimmer_id": "600a2cb7d74a90ba9848f9427e0c1c913869c43d",
+    "swimmer": {
+      "first_name": "זוהר קופליאנסקי",
+      "last_name": "",
+      "full_name": "זוהר קופליאנסקי"
+    },
+    "gender": "בנות",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "בני הרצליה"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "04:57.76",
+    "points": 462,
+    "position": "22",
+    "heat": "1",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86347?isModal=True"
+  },
+  {
+    "result_id": "d3ee482dbebc9114bd42c494e27c076671d1ebf7",
+    "swimmer_id": "4a94b421e32e259babdcb8bbb0fa432afcc37118",
+    "swimmer": {
+      "first_name": "רומי בליאק",
+      "last_name": "",
+      "full_name": "רומי בליאק"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי פ.מ. רעות"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "04:58.67",
+    "points": 458,
+    "position": "23",
+    "heat": "1",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86347?isModal=True"
+  },
+  {
+    "result_id": "5946e357cd3c9749e619f6f132cf9799c93e8beb",
+    "swimmer_id": "93515ab36b5acfba98b8e03c5c51347d6ef809f0",
+    "swimmer": {
+      "first_name": "אלינור קרבאייב",
+      "last_name": "",
+      "full_name": "אלינור קרבאייב"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "04:59.33",
+    "points": 455,
+    "position": "24",
+    "heat": "2",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86347?isModal=True"
+  },
+  {
+    "result_id": "364653242b966eec44d6d99d4a32273d2f2566e4",
+    "swimmer_id": "b60e4857641595c3bea9bb0a9946a0f2f5dd6351",
+    "swimmer": {
+      "first_name": "אריאל שטראובר",
+      "last_name": "",
+      "full_name": "אריאל שטראובר"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "בני הרצליה"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "04:17.10",
+    "points": 562,
+    "position": "1",
+    "heat": "2",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86348?isModal=True"
+  },
+  {
+    "result_id": "bcb5250b05a7ce68ee2edddce52a19392d311d65",
+    "swimmer_id": "3dbffc94988e6b0470077314bd84418b8379eefd",
+    "swimmer": {
+      "first_name": "איתן אוזן",
+      "last_name": "",
+      "full_name": "איתן אוזן"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "בני הרצליה"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "04:17.17",
+    "points": 562,
+    "position": "2",
+    "heat": "2",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86348?isModal=True"
+  },
+  {
+    "result_id": "6fa996bc51ece717db0b1b9b2ac48eb70b1f003a",
+    "swimmer_id": "54b37292af203ee8390b08992ce502c66c745185",
+    "swimmer": {
+      "first_name": "יהונתן קלוגר",
+      "last_name": "",
+      "full_name": "יהונתן קלוגר"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "04:17.36",
+    "points": 560,
+    "position": "3",
+    "heat": "2",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86348?isModal=True"
+  },
+  {
+    "result_id": "0a5cb6726d5bc09d490c52fae51b363a1d043af2",
+    "swimmer_id": "1e05908534abf9d8f6dd65fff884cf62a62c0f21",
+    "swimmer": {
+      "first_name": "זיו רפאל כהן פרימיס",
+      "last_name": "",
+      "full_name": "זיו רפאל כהן פרימיס"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי פ.מ. רעות"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "04:18.64",
+    "points": 552,
+    "position": "4",
+    "heat": "2",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86348?isModal=True"
+  },
+  {
+    "result_id": "63a4ed2a613cbfe66963d3963e2df6b676c03bc5",
+    "swimmer_id": "5ea6cd1e22385051e5819b2b886714e1188796fe",
+    "swimmer": {
+      "first_name": "עומר סניור",
+      "last_name": "",
+      "full_name": "עומר סניור"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי שוהם"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "04:19.68",
+    "points": 546,
+    "position": "5",
+    "heat": "2",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86348?isModal=True"
+  },
+  {
+    "result_id": "d525dfb51b25a46281cb22fd8d782b08233040b8",
+    "swimmer_id": "dd7dca8138fb1e7a3ceffe4cecb6563c9ee6c211",
+    "swimmer": {
+      "first_name": "ניר קוגן",
+      "last_name": "",
+      "full_name": "ניר קוגן"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "400 חופשי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "04:24.93",
+    "points": 514,
+    "position": "6",
+    "heat": "2",
+    "lane": "8",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86348?isModal=True"
+  },
+  {
+    "result_id": "a36eabb72c43c5c901a4bf1484a017f5784ee2e2",
+    "swimmer_id": "aed3cdc3f277f4e777f03c6c42c86826b3fdbb40",
+    "swimmer": {
+      "first_name": "קיילה רייטר",
+      "last_name": "",
+      "full_name": "קיילה רייטר"
+    },
+    "gender": "בנות",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "מכבי א.ס. רמת השרון"
+    },
+    "discipline": "400 חופשי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "04:25.78",
+    "points": 650,
+    "position": "1",
+    "heat": "4",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86350?isModal=True"
+  },
+  {
+    "result_id": "94d946da916be1376f6fb00757180802ad1aec3f",
+    "swimmer_id": "a2e42c7fd3ad996104eb8d06210691c6ca8c3760",
+    "swimmer": {
+      "first_name": "רויטל ברנוט",
+      "last_name": "",
+      "full_name": "רויטל ברנוט"
+    },
+    "gender": "בנות",
+    "birth_year": "2009",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "400 חופשי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "04:26.34",
+    "points": 646,
+    "position": "2",
+    "heat": "4",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86350?isModal=True"
+  },
+  {
+    "result_id": "de89635b8a18470a02c5b6ad0f470d7789036a00",
+    "swimmer_id": "fd392e55e9b3ca95f1bb406089d2f4249ceacfbb",
+    "swimmer": {
+      "first_name": "עדן פרוצנקו",
+      "last_name": "",
+      "full_name": "עדן פרוצנקו"
+    },
+    "gender": "בנות",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "אלומה עירוני הוד השרון"
+    },
+    "discipline": "400 חופשי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "04:27.93",
+    "points": 634,
+    "position": "3",
+    "heat": "4",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86350?isModal=True"
+  },
+  {
+    "result_id": "d5c59ffd466a6a059fcbdb55377ac33bd5f7df43",
+    "swimmer_id": "e22095dd5f74fe7a62106870c7b18ea60ebd4d5c",
+    "swimmer": {
+      "first_name": "תמר ארואטי",
+      "last_name": "",
+      "full_name": "תמר ארואטי"
+    },
+    "gender": "בנות",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "מכבי וייסגל רחובות"
+    },
+    "discipline": "400 חופשי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "04:30.49",
+    "points": 616,
+    "position": "4",
+    "heat": "3",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86350?isModal=True"
+  },
+  {
+    "result_id": "f9cc0a77a80edb68e727f64d99166004b5c9e43f",
+    "swimmer_id": "8f6130f340d4241d6fe5484bc8a8c21c1eae811d",
+    "swimmer": {
+      "first_name": "גיל הירש",
+      "last_name": "",
+      "full_name": "גיל הירש"
+    },
+    "gender": "בנות",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "בני הרצליה"
+    },
+    "discipline": "400 חופשי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "04:30.90",
+    "points": 614,
+    "position": "5",
+    "heat": "4",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86350?isModal=True"
+  },
+  {
+    "result_id": "1b3c52021b32992f456d565b1ded9bfe084183e8",
+    "swimmer_id": "f75f47591b1fe70137bb5707bbc6b72ff6ec4577",
+    "swimmer": {
+      "first_name": "גלי בן משה",
+      "last_name": "",
+      "full_name": "גלי בן משה"
+    },
+    "gender": "בנות",
+    "birth_year": "2009",
+    "club": {
+      "name_he": "מכבי א.ס. רמת השרון"
+    },
+    "discipline": "400 חופשי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "04:32.61",
+    "points": 602,
+    "position": "6",
+    "heat": "4",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86350?isModal=True"
+  },
+  {
+    "result_id": "896847c4a7c8b79af9f946622d6551c4995d2e6a",
+    "swimmer_id": "5d45cb159fcbf1e370dbf5c7d00796b0d9ca877a",
+    "swimmer": {
+      "first_name": "אילנית דימשיץ",
+      "last_name": "",
+      "full_name": "אילנית דימשיץ"
+    },
+    "gender": "בנות",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "400 חופשי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "04:32.84",
+    "points": 601,
+    "position": "7",
+    "heat": "4",
+    "lane": "8",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86350?isModal=True"
+  },
+  {
+    "result_id": "7d203410d4df90c5e61766c4b47318596d639d30",
+    "swimmer_id": "2415483409977d38980ab3f20695fb1bd9eaa9d1",
+    "swimmer": {
+      "first_name": "אמילי חנוכייב",
+      "last_name": "",
+      "full_name": "אמילי חנוכייב"
+    },
+    "gender": "בנות",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "מכבי פ.מ. רעות"
+    },
+    "discipline": "400 חופשי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "04:32.92",
+    "points": 600,
+    "position": "8",
+    "heat": "3",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86350?isModal=True"
+  },
+  {
+    "result_id": "063d081d0021244e4d7347367aac009173c0c803",
+    "swimmer_id": "0934cf32124d61851b6455e5d8ca12b58fabe43b",
+    "swimmer": {
+      "first_name": "אורי כהן",
+      "last_name": "",
+      "full_name": "אורי כהן"
+    },
+    "gender": "בנות",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "מכבי פ.מ. רעות"
+    },
+    "discipline": "400 חופשי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "04:33.16",
+    "points": 598,
+    "position": "9",
+    "heat": "3",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86350?isModal=True"
+  },
+  {
+    "result_id": "5f96c17bd1cca3ab09cb6caaebaf91b16f8aae6d",
+    "swimmer_id": "6ae9a88c7aa66f423c0b02fa81fb4a3b2984f9a9",
+    "swimmer": {
+      "first_name": "נורית מקליס",
+      "last_name": "",
+      "full_name": "נורית מקליס"
+    },
+    "gender": "בנות",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "מכבי א.ס. רמת השרון"
+    },
+    "discipline": "400 חופשי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "04:37.55",
+    "points": 570,
+    "position": "10",
+    "heat": "4",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86350?isModal=True"
+  },
+  {
+    "result_id": "32bab958c0c6e8b291d58262326d4b1f8825a6e6",
+    "swimmer_id": "255070ab58f3061da9b119c220fa1e26db4b60a4",
+    "swimmer": {
+      "first_name": "איילה לוי",
+      "last_name": "",
+      "full_name": "איילה לוי"
+    },
+    "gender": "בנות",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "400 חופשי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "04:38.20",
+    "points": 566,
+    "position": "11",
+    "heat": "4",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86350?isModal=True"
+  },
+  {
+    "result_id": "6b2c0337f5413f3244520b8158cf8caba4fa2fcf",
+    "swimmer_id": "b6aa63987270ea98d309969b918245094d1f48ed",
+    "swimmer": {
+      "first_name": "מאיה חן-לוי",
+      "last_name": "",
+      "full_name": "מאיה חן-לוי"
+    },
+    "gender": "בנות",
+    "birth_year": "2008",
+    "club": {
+      "name_he": "מכבי וייסגל רחובות"
+    },
+    "discipline": "400 חופשי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "04:41.77",
+    "points": 545,
+    "position": "12",
+    "heat": "3",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86350?isModal=True"
+  },
+  {
+    "result_id": "7537c8e2ba7b0c730e535929488f6e19558a9405",
+    "swimmer_id": "276c446c6ff16c93d26f0b396abb5ce515201805",
+    "swimmer": {
+      "first_name": "עדי בן חיים",
+      "last_name": "",
+      "full_name": "עדי בן חיים"
+    },
+    "gender": "בנות",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "הפועל אולימפ נתניה"
+    },
+    "discipline": "400 חופשי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "04:42.28",
+    "points": 542,
+    "position": "13",
+    "heat": "3",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86350?isModal=True"
+  },
+  {
+    "result_id": "115edb796b3d2b1e9600798f3c7014d38ea76d2f",
+    "swimmer_id": "9bb8f557de603fa22ef4491fc1bf4f9f02d333f5",
+    "swimmer": {
+      "first_name": "תהל רוט",
+      "last_name": "",
+      "full_name": "תהל רוט"
+    },
+    "gender": "בנות",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "400 חופשי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "04:42.74",
+    "points": 540,
+    "position": "14",
+    "heat": "2",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86350?isModal=True"
+  },
+  {
+    "result_id": "15f9dfa5195f5084e237082bc57eee4a3a619a09",
+    "swimmer_id": "c0d34715671c95d05b0198f3b0ea08dfa1838324",
+    "swimmer": {
+      "first_name": "בר סטחי",
+      "last_name": "",
+      "full_name": "בר סטחי"
+    },
+    "gender": "בנות",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "מכבי וייסגל רחובות"
+    },
+    "discipline": "400 חופשי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "04:42.88",
+    "points": 539,
+    "position": "15",
+    "heat": "3",
+    "lane": "8",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86350?isModal=True"
+  },
+  {
+    "result_id": "5a158cc3644d647a22663eba210e1934e021866b",
+    "swimmer_id": "a6b0aceebbbfe1abc612a75f084255b6bf72c1d3",
+    "swimmer": {
+      "first_name": "תמר אהרון",
+      "last_name": "",
+      "full_name": "תמר אהרון"
+    },
+    "gender": "בנות",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "מכבי תל אביב"
+    },
+    "discipline": "400 חופשי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "04:44.23",
+    "points": 531,
+    "position": "16",
+    "heat": "2",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86350?isModal=True"
+  },
+  {
+    "result_id": "cd45b327446aaab7af8fc1db4aafc12b3e295996",
+    "swimmer_id": "2d684f62a39da1832cfcdeb5b7d2bd532a1dc293",
+    "swimmer": {
+      "first_name": "הללי פרנס",
+      "last_name": "",
+      "full_name": "הללי פרנס"
+    },
+    "gender": "בנות",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "מכבי ירושלים"
+    },
+    "discipline": "400 חופשי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "04:44.25",
+    "points": 531,
+    "position": "17",
+    "heat": "3",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86350?isModal=True"
+  },
+  {
+    "result_id": "4f9bb00b2d726bb2d94c961141a5c419b7835d04",
+    "swimmer_id": "4c0401b2fe328dcca680ef917b4a91c785a09ad1",
+    "swimmer": {
+      "first_name": "שירי הוכמן",
+      "last_name": "",
+      "full_name": "שירי הוכמן"
+    },
+    "gender": "בנות",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "הפועל אולימפ נתניה"
+    },
+    "discipline": "400 חופשי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "04:44.98",
+    "points": 527,
+    "position": "18",
+    "heat": "2",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86350?isModal=True"
+  },
+  {
+    "result_id": "e5a0db6c0f47a42d355a6cf07e931789bc999a9e",
+    "swimmer_id": "f8c0d5a27a995f15bf0da0652fb984f7271bff90",
+    "swimmer": {
+      "first_name": "מייה סיטי",
+      "last_name": "",
+      "full_name": "מייה סיטי"
+    },
+    "gender": "בנות",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "מכבי וייסגל רחובות"
+    },
+    "discipline": "400 חופשי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "04:45.55",
+    "points": 524,
+    "position": "19",
+    "heat": "3",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86350?isModal=True"
+  },
+  {
+    "result_id": "3531b0202d4ac47204052cab4d5acdb7590bd822",
+    "swimmer_id": "22c99ff99760f0787d0c579a2a6426a30c24abca",
+    "swimmer": {
+      "first_name": "שי לי פרנזיני",
+      "last_name": "",
+      "full_name": "שי לי פרנזיני"
+    },
+    "gender": "בנות",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "בני הרצליה"
+    },
+    "discipline": "400 חופשי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "04:46.85",
+    "points": 517,
+    "position": "20",
+    "heat": "2",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86350?isModal=True"
+  },
+  {
+    "result_id": "7644ce2fa146e5838a98a03a1ca826715b1fefff",
+    "swimmer_id": "c16194c1d9f0b8d317dcc916d7ae5c30bbfed9a5",
+    "swimmer": {
+      "first_name": "ויקטוריה דולינין",
+      "last_name": "",
+      "full_name": "ויקטוריה דולינין"
+    },
+    "gender": "בנות",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "מכבי א.ס. רמת השרון"
+    },
+    "discipline": "400 חופשי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "04:48.18",
+    "points": 510,
+    "position": "21",
+    "heat": "2",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86350?isModal=True"
+  },
+  {
+    "result_id": "ae67c512827b476123f5808876fd2a40b1f0fcd9",
+    "swimmer_id": "050b2d48b58fb51b3199179450e4d1b223f311b8",
+    "swimmer": {
+      "first_name": "נועה היבל",
+      "last_name": "",
+      "full_name": "נועה היבל"
+    },
+    "gender": "בנות",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "מכבי א.ס. רמת השרון"
+    },
+    "discipline": "400 חופשי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "04:48.60",
+    "points": 507,
+    "position": "22",
+    "heat": "2",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86350?isModal=True"
+  },
+  {
+    "result_id": "2259163a612db9f26c11a8b7e8026e832b59b792",
+    "swimmer_id": "cb1a5477137158b014dc23a386ad7732b0cc04be",
+    "swimmer": {
+      "first_name": "אריאל מזרחי",
+      "last_name": "",
+      "full_name": "אריאל מזרחי"
+    },
+    "gender": "בנות",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "מכבי וייסגל רחובות"
+    },
+    "discipline": "400 חופשי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "04:52.36",
+    "points": 488,
+    "position": "23",
+    "heat": "2",
+    "lane": "8",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86350?isModal=True"
+  },
+  {
+    "result_id": "e352a757bb4804d014ffb74e3fefc8ce325395d6",
+    "swimmer_id": "67b2054b76a964779f07acac16946e034a5e7c42",
+    "swimmer": {
+      "first_name": "יובל אורי",
+      "last_name": "",
+      "full_name": "יובל אורי"
+    },
+    "gender": "בנות",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "מכבי וייסגל רחובות"
+    },
+    "discipline": "400 חופשי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "04:58.50",
+    "points": 458,
+    "position": "24",
+    "heat": "1",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86350?isModal=True"
+  },
+  {
+    "result_id": "eba8c413274699d3afeeff46f2a4eebe94e094e5",
+    "swimmer_id": "a216267f174970e5ead3dca314412d90657d3dc9",
+    "swimmer": {
+      "first_name": "מיכאל פובר",
+      "last_name": "",
+      "full_name": "מיכאל פובר"
+    },
+    "gender": "בנים",
+    "birth_year": "2005",
+    "club": {
+      "name_he": "מתנ\"ס רמת הנגב"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "03:52.28",
+    "points": 762,
+    "position": "1",
+    "heat": "7",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "a15944fbfa1c8f184a4053ea8f7e5a004980f9fb",
+    "swimmer_id": "6f51f71aeb0a859dd7179b91479d95460b5690a3",
+    "swimmer": {
+      "first_name": "יוחאי פרסמן",
+      "last_name": "",
+      "full_name": "יוחאי פרסמן"
+    },
+    "gender": "בנים",
+    "birth_year": "2007",
+    "club": {
+      "name_he": "הפועל בת ים"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "03:54.65",
+    "points": 740,
+    "position": "2",
+    "heat": "7",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "ff7df7df76473cfb7a93db1efe97085f2880831d",
+    "swimmer_id": "2143718520cd18a0b6b52274373787323fca8913",
+    "swimmer": {
+      "first_name": "שון וורונקוב",
+      "last_name": "",
+      "full_name": "שון וורונקוב"
+    },
+    "gender": "בנים",
+    "birth_year": "2009",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "03:55.31",
+    "points": 733,
+    "position": "3",
+    "heat": "6",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "d258bf29d18b7baed60b68b06e8460dfe6f3723e",
+    "swimmer_id": "998d6b90195190945da99e1c5ce02822b2eba502",
+    "swimmer": {
+      "first_name": "אריאל אלון",
+      "last_name": "",
+      "full_name": "אריאל אלון"
+    },
+    "gender": "בנים",
+    "birth_year": "2009",
+    "club": {
+      "name_he": "מכבי וייסגל רחובות"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "03:56.83",
+    "points": 719,
+    "position": "4",
+    "heat": "7",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "8d279428cd769c89934f19217ae0c6a6a4dd745b",
+    "swimmer_id": "6c687fb7805e986d25f5dfbb4bf62f4626338cf1",
+    "swimmer": {
+      "first_name": "דניאל קיסלוק",
+      "last_name": "",
+      "full_name": "דניאל קיסלוק"
+    },
+    "gender": "בנים",
+    "birth_year": "2009",
+    "club": {
+      "name_he": "הפועל אולימפ נתניה"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "03:57.59",
+    "points": 712,
+    "position": "5",
+    "heat": "7",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "bd5f5b1ea2b04afc062c3658557250174a9481c8",
+    "swimmer_id": "1e1d7179c49c042de007f9829a3e87cedda2129d",
+    "swimmer": {
+      "first_name": "רום קינן",
+      "last_name": "",
+      "full_name": "רום קינן"
+    },
+    "gender": "בנים",
+    "birth_year": "2008",
+    "club": {
+      "name_he": "אלומה עירוני הוד השרון"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "03:57.62",
+    "points": 712,
+    "position": "6",
+    "heat": "7",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "0b98a95b0376edb5ef44df084567b37c5cf05ad5",
+    "swimmer_id": "162bbdeb75229a894a66a5c1a4e6058710f869f0",
+    "swimmer": {
+      "first_name": "ייגור קוסטין",
+      "last_name": "",
+      "full_name": "ייגור קוסטין"
+    },
+    "gender": "בנים",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "הפועל אילת"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "03:59.11",
+    "points": 699,
+    "position": "7",
+    "heat": "7",
+    "lane": "8",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "d5687cb132d0b5f4ea9e5cd4e946e3e68abbae5f",
+    "swimmer_id": "ef06663b766f3bb27fe6ba223ef45301f6c1b965",
+    "swimmer": {
+      "first_name": "ענבר רפאל יוסקוביץ -לב ארי",
+      "last_name": "",
+      "full_name": "ענבר רפאל יוסקוביץ -לב ארי"
+    },
+    "gender": "בנים",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "מכבי א.ס. רמת השרון"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:01.17",
+    "points": 681,
+    "position": "8",
+    "heat": "6",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "a91a7bb51bb39afac6d34bbbc401948d5d39e3e9",
+    "swimmer_id": "81c36106637955cdafb62761053d39e634132a05",
+    "swimmer": {
+      "first_name": "אשכול מזור",
+      "last_name": "",
+      "full_name": "אשכול מזור"
+    },
+    "gender": "בנים",
+    "birth_year": "2007",
+    "club": {
+      "name_he": "בני הרצליה"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:02.16",
+    "points": 673,
+    "position": "9",
+    "heat": "7",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "9d8e1799abbde4353fac6f7b2d46d39daeefb7f4",
+    "swimmer_id": "5058a2fadc08302d1b7fb6a441d28127c0e88f2b",
+    "swimmer": {
+      "first_name": "מוחמד לידאוי",
+      "last_name": "",
+      "full_name": "מוחמד לידאוי"
+    },
+    "gender": "בנים",
+    "birth_year": "2009",
+    "club": {
+      "name_he": "אלומה עירוני הוד השרון"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:02.37",
+    "points": 671,
+    "position": "10",
+    "heat": "6",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "442a04f99110731671f33b21d0803487e7a8860f",
+    "swimmer_id": "22dbce70a62a6bf6dd18b6159ab6a20a81fbeb92",
+    "swimmer": {
+      "first_name": "נעם קינסברונר",
+      "last_name": "",
+      "full_name": "נעם קינסברונר"
+    },
+    "gender": "בנים",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "מכבי א.ס. רמת השרון"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:03.68",
+    "points": 660,
+    "position": "11",
+    "heat": "6",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "fecaf689b8a2c25eaa6cea98622a280c0696f466",
+    "swimmer_id": "03592181ab07c9c158fae2fd5496da47b506595d",
+    "swimmer": {
+      "first_name": "מורן ארז",
+      "last_name": "",
+      "full_name": "מורן ארז"
+    },
+    "gender": "בנים",
+    "birth_year": "2007",
+    "club": {
+      "name_he": "אלומה עירוני הוד השרון"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:05.92",
+    "points": 642,
+    "position": "12",
+    "heat": "6",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "3f47b7871e8a3b6995a36250a84355c7c8fcc72b",
+    "swimmer_id": "a5dba453e15649cee1a1a50ccc36ab4395444f85",
+    "swimmer": {
+      "first_name": "יהונתן שילר",
+      "last_name": "",
+      "full_name": "יהונתן שילר"
+    },
+    "gender": "בנים",
+    "birth_year": "2007",
+    "club": {
+      "name_he": "אלומה עירוני הוד השרון"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:05.92",
+    "points": 642,
+    "position": "12",
+    "heat": "6",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "089eb89606391c902ec90c63d4ed01c1f4a73136",
+    "swimmer_id": "052fe2e16a07cabdd18748141e74611915f94ea3",
+    "swimmer": {
+      "first_name": "אריאל קינן",
+      "last_name": "",
+      "full_name": "אריאל קינן"
+    },
+    "gender": "בנים",
+    "birth_year": "2009",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:06.32",
+    "points": 639,
+    "position": "14",
+    "heat": "5",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "782510f6a2a400c9bf9ba29dae9ec3baf18e63be",
+    "swimmer_id": "959d7c6ce526910f1f02e8a57f48dac318eb481d",
+    "swimmer": {
+      "first_name": "רון זילברברג",
+      "last_name": "",
+      "full_name": "רון זילברברג"
+    },
+    "gender": "בנים",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "מכבי פ.מ. רעות"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:06.96",
+    "points": 634,
+    "position": "15",
+    "heat": "7",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "6dc69ce2e0b22fcac68a6f07468db98341ebf4a1",
+    "swimmer_id": "65147ea7bd5835a04b9ca94f9006196d119849a2",
+    "swimmer": {
+      "first_name": "אלן טרייבוך",
+      "last_name": "",
+      "full_name": "אלן טרייבוך"
+    },
+    "gender": "בנים",
+    "birth_year": "2007",
+    "club": {
+      "name_he": "מכבי וייסגל רחובות"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:07.66",
+    "points": 629,
+    "position": "16",
+    "heat": "6",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "e7ffe49ab9eeceb90ca3412af7c978a12cfcfd11",
+    "swimmer_id": "29f853b469ba9a2256f20854bba1e00bd1b84de6",
+    "swimmer": {
+      "first_name": "עידן סלבסקי",
+      "last_name": "",
+      "full_name": "עידן סלבסקי"
+    },
+    "gender": "בנים",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "הפועל אולימפ נתניה"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:09.24",
+    "points": 617,
+    "position": "17",
+    "heat": "5",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "c55574e697ea75babe5b6e155f86fae3de9bbf0c",
+    "swimmer_id": "229a62520bdbca1d59a9d3ca70a121e6fed65f01",
+    "swimmer": {
+      "first_name": "רן סלע",
+      "last_name": "",
+      "full_name": "רן סלע"
+    },
+    "gender": "בנים",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "מכבי א.ס. רמת השרון"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:10.27",
+    "points": 609,
+    "position": "18",
+    "heat": "6",
+    "lane": "8",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "910df793f3640134bda6cff487c5104c2f3a58b6",
+    "swimmer_id": "cda83083d5bca28936bf656914edcab62171f59b",
+    "swimmer": {
+      "first_name": "לביא גפן משיח",
+      "last_name": "",
+      "full_name": "לביא גפן משיח"
+    },
+    "gender": "בנים",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "מכבי פ.מ. רעות"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:10.65",
+    "points": 607,
+    "position": "19",
+    "heat": "5",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "30d1c9195384ca0f9ed8c57f691332f1b0610517",
+    "swimmer_id": "566aabeec4e3ab6e58a2fb47ecb46897d0447ed8",
+    "swimmer": {
+      "first_name": "שון ברסקי",
+      "last_name": "",
+      "full_name": "שון ברסקי"
+    },
+    "gender": "בנים",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:13.40",
+    "points": 587,
+    "position": "20",
+    "heat": "4",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "9a76cef826eeea5f98b60c930ec084a60b565927",
+    "swimmer_id": "74ef35685b9f7a2c05a6fd0bb168b67436aa884d",
+    "swimmer": {
+      "first_name": "גלעד שושן",
+      "last_name": "",
+      "full_name": "גלעד שושן"
+    },
+    "gender": "בנים",
+    "birth_year": "2009",
+    "club": {
+      "name_he": "מכבי וייסגל רחובות"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:13.51",
+    "points": 586,
+    "position": "21",
+    "heat": "4",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "59d3ed2cdc125961581aa17538c279577f49e42c",
+    "swimmer_id": "cc61f3cb36db56389202b14ad12551096fb38fc9",
+    "swimmer": {
+      "first_name": "דרור חסידי",
+      "last_name": "",
+      "full_name": "דרור חסידי"
+    },
+    "gender": "בנים",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "מכבי וייסגל רחובות"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:13.56",
+    "points": 586,
+    "position": "22",
+    "heat": "3",
+    "lane": "8",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "278b409d7f2ee6ff8b2f1c54f28c3fadd87ed416",
+    "swimmer_id": "0c793fe82f13e56fac892e1d81918fba56526175",
+    "swimmer": {
+      "first_name": "עידו דהן",
+      "last_name": "",
+      "full_name": "עידו דהן"
+    },
+    "gender": "בנים",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "הפועל דולפין נתניה"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:16.42",
+    "points": 567,
+    "position": "23",
+    "heat": "5",
+    "lane": "8",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "f3f9df49dbed5da18c2e3b5f7ecdd0b7ed13f6b1",
+    "swimmer_id": "6cfd9edf8bbb992befb3e03e1e0e59faf3ff1883",
+    "swimmer": {
+      "first_name": "מישל אגרונוב",
+      "last_name": "",
+      "full_name": "מישל אגרונוב"
+    },
+    "gender": "בנים",
+    "birth_year": "2009",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:16.61",
+    "points": 565,
+    "position": "24",
+    "heat": "4",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "f506e13ea21620772f9ba72787422764a441730c",
+    "swimmer_id": "fc71f9dc7c18e212f2961958a6c14b14db7f3cd2",
+    "swimmer": {
+      "first_name": "ניק מירושניקוב",
+      "last_name": "",
+      "full_name": "ניק מירושניקוב"
+    },
+    "gender": "בנים",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "הפועל עמק חפר"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:17.30",
+    "points": 561,
+    "position": "25",
+    "heat": "5",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "1dc65eec814461b2b498aa56738cd7a83a57841c",
+    "swimmer_id": "13185f7d165c3d597cc5eb5212f2bdab78ebc11b",
+    "swimmer": {
+      "first_name": "אריאל וקסלר",
+      "last_name": "",
+      "full_name": "אריאל וקסלר"
+    },
+    "gender": "בנים",
+    "birth_year": "2009",
+    "club": {
+      "name_he": "הפועל דולפין נתניה"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:18.41",
+    "points": 554,
+    "position": "26",
+    "heat": "5",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "7674c51c331859f9d0d4c8d6f4566619fd61a594",
+    "swimmer_id": "b99c6bbe29f9738de99cb348c299f6c60247c4ab",
+    "swimmer": {
+      "first_name": "איתי ארד",
+      "last_name": "",
+      "full_name": "איתי ארד"
+    },
+    "gender": "בנים",
+    "birth_year": "2008",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:19.09",
+    "points": 549,
+    "position": "27",
+    "heat": "5",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "11eb5881169528f357c1339937ccba575b444aa3",
+    "swimmer_id": "9ba1939d2f151cc4ee413208496c325c694de2c2",
+    "swimmer": {
+      "first_name": "מיכאל צ'רניאבסקי",
+      "last_name": "",
+      "full_name": "מיכאל צ'רניאבסקי"
+    },
+    "gender": "בנים",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "בני הרצליה"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:19.11",
+    "points": 549,
+    "position": "28",
+    "heat": "3",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "b707d2a05cf13fd2d13325dc0d7291e1d1ffe2a8",
+    "swimmer_id": "267aa2fd85abd19af34d4b24b06b03653d882743",
+    "swimmer": {
+      "first_name": "נועם אביטל",
+      "last_name": "",
+      "full_name": "נועם אביטל"
+    },
+    "gender": "בנים",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:19.17",
+    "points": 549,
+    "position": "29",
+    "heat": "1",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "06fbe6ba7549f28685421d424f287d55e64948d9",
+    "swimmer_id": "86c603abf9bb7acad5b4897b4912d187ee67f132",
+    "swimmer": {
+      "first_name": "השאם זיד",
+      "last_name": "",
+      "full_name": "השאם זיד"
+    },
+    "gender": "בנים",
+    "birth_year": "2009",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:19.70",
+    "points": 545,
+    "position": "30",
+    "heat": "5",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "0ad080ba534d5a1f70857f856f963b56fda20fc0",
+    "swimmer_id": "ecce9f8a22575be76d42f99894eb36de8000fced",
+    "swimmer": {
+      "first_name": "ינאי קרן",
+      "last_name": "",
+      "full_name": "ינאי קרן"
+    },
+    "gender": "בנים",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "בני הרצליה"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:20.45",
+    "points": 541,
+    "position": "31",
+    "heat": "2",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "e0686de1e72e5a700f56bcc5df9bc942d66bf4de",
+    "swimmer_id": "15f78d3b90edf23a55e6953699a38437dcc31fad",
+    "swimmer": {
+      "first_name": "יובל בן-בסט",
+      "last_name": "",
+      "full_name": "יובל בן-בסט"
+    },
+    "gender": "בנים",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "מכבי פ.מ. רעות"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:20.57",
+    "points": 540,
+    "position": "32",
+    "heat": "4",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "2d58f83328bcfbbba735c1ee3369a985575a2bac",
+    "swimmer_id": "946fb33433301c0dd167d6882078afa0f33ac855",
+    "swimmer": {
+      "first_name": "ניסון חיזגילוב",
+      "last_name": "",
+      "full_name": "ניסון חיזגילוב"
+    },
+    "gender": "בנים",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:21.27",
+    "points": 536,
+    "position": "33",
+    "heat": "4",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "3b69795bb96e0e62c00654b9cb824a38cfb13a01",
+    "swimmer_id": "46b75dc28fdd0f1ad2aa9958943850fb60fe2cf6",
+    "swimmer": {
+      "first_name": "עמית אזולאי",
+      "last_name": "",
+      "full_name": "עמית אזולאי"
+    },
+    "gender": "בנים",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "אלומה עירוני הוד השרון"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:21.36",
+    "points": 535,
+    "position": "34",
+    "heat": "2",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "c50116cfecdc3976331ea94f002f9402bf75e48a",
+    "swimmer_id": "2d41b55702ba42721878310704f7bc8a31eb6a40",
+    "swimmer": {
+      "first_name": "טומי גליקמן",
+      "last_name": "",
+      "full_name": "טומי גליקמן"
+    },
+    "gender": "בנים",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "אלומה עירוני הוד השרון"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:22.41",
+    "points": 529,
+    "position": "35",
+    "heat": "2",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "e654b1fcd6ff2d820732da34cbf3e83f36f7c816",
+    "swimmer_id": "b8c41aaf00bf134857472b97c779d1e46d53a0a1",
+    "swimmer": {
+      "first_name": "מארק וינוגרדסקי",
+      "last_name": "",
+      "full_name": "מארק וינוגרדסקי"
+    },
+    "gender": "בנים",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "הפועל דולפין נתניה"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:22.70",
+    "points": 527,
+    "position": "36",
+    "heat": "3",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "5a0b72a1de35497a10e23ca2b5827814e601718a",
+    "swimmer_id": "1821731bef8223435ce77adac3a44bee1d43fd6d",
+    "swimmer": {
+      "first_name": "נועם גוטנר-הוך",
+      "last_name": "",
+      "full_name": "נועם גוטנר-הוך"
+    },
+    "gender": "בנים",
+    "birth_year": "2009",
+    "club": {
+      "name_he": "אלומה עירוני הוד השרון"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:23.64",
+    "points": 521,
+    "position": "37",
+    "heat": "2",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "53e4027d01b00602bf40a8095465da77573dc8b0",
+    "swimmer_id": "a14914298787929b2a81d3b3b321b1988ede92e4",
+    "swimmer": {
+      "first_name": "אריאל איבניר",
+      "last_name": "",
+      "full_name": "אריאל איבניר"
+    },
+    "gender": "בנים",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:25.56",
+    "points": 510,
+    "position": "38",
+    "heat": "3",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "c56ef3d977516d452eb2d456b63ab4401e2d1df5",
+    "swimmer_id": "76cc0d730e30f78807c13f6a84d09719b0a8efcc",
+    "swimmer": {
+      "first_name": "רון עזרא",
+      "last_name": "",
+      "full_name": "רון עזרא"
+    },
+    "gender": "בנים",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "מכבי וייסגל רחובות"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:25.72",
+    "points": 509,
+    "position": "39",
+    "heat": "4",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "12fbd2c16e727a3412fc5e2eb3d27a106ccc2317",
+    "swimmer_id": "4559d55a04e2aee79d617f23b0f3d702607bee5b",
+    "swimmer": {
+      "first_name": "סרגיי זייצב",
+      "last_name": "",
+      "full_name": "סרגיי זייצב"
+    },
+    "gender": "בנים",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "אלומה עירוני הוד השרון"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:25.87",
+    "points": 508,
+    "position": "40",
+    "heat": "3",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "86b25346cbcd68f228852f462051accb67e5eb95",
+    "swimmer_id": "344085b48fa0b117bc340a5f5e7e9afcfc8b502c",
+    "swimmer": {
+      "first_name": "רוי שלמה בריינמן",
+      "last_name": "",
+      "full_name": "רוי שלמה בריינמן"
+    },
+    "gender": "בנים",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "מכבי א.ס. רמת השרון"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:25.93",
+    "points": 508,
+    "position": "41",
+    "heat": "3",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "94f06a3527e137a440f1b88bdcd5e1b5063870e1",
+    "swimmer_id": "f26eecae611f2b7e3ec7e0d109b9d71a2a7e59de",
+    "swimmer": {
+      "first_name": "ארי ווגל",
+      "last_name": "",
+      "full_name": "ארי ווגל"
+    },
+    "gender": "בנים",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "הפועל גליל עליון"
+    },
+    "discipline": "400 חופשי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "04:26.84",
+    "points": 503,
+    "position": "42",
+    "heat": "2",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86349?isModal=True"
+  },
+  {
+    "result_id": "a14e15ac0138c1be82df85adb776994f2600d13a",
+    "swimmer_id": "46ade216d5adcda04acfaca936169e48fcbb1756",
+    "swimmer": {
+      "first_name": "מעיין גראור",
+      "last_name": "",
+      "full_name": "מעיין גראור"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:18.31",
+    "points": 680,
+    "position": "2",
+    "heat": "7",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "b390d43fbef0f1b186dd9bad038071e6a11fe6e6",
+    "swimmer_id": "9071fbcc6ae7d1f1c0ebae32ca2a9adcd62bf1fd",
+    "swimmer": {
+      "first_name": "עומר שני",
+      "last_name": "",
+      "full_name": "עומר שני"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי וייסגל רחובות"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:26.90",
+    "points": 567,
+    "position": "3",
+    "heat": "7",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "c9afb9c4b206555ef644a54e2db2076d1e58be0b",
+    "swimmer_id": "bc64437da0ce82805df16b147a72fad508f10d72",
+    "swimmer": {
+      "first_name": "אילי בן סירא",
+      "last_name": "",
+      "full_name": "אילי בן סירא"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי תל אביב"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:29.35",
+    "points": 540,
+    "position": "4",
+    "heat": "7",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "9dd437b1ff781041a2da95659142ca5a16aae040",
+    "swimmer_id": "2969757ff3f4e7c468c7a9e9c0ed71d584eaa4f4",
+    "swimmer": {
+      "first_name": "מיקה ארד",
+      "last_name": "",
+      "full_name": "מיקה ארד"
+    },
+    "gender": "בנות",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "אלומה עירוני הוד השרון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:30.11",
+    "points": 531,
+    "position": "5",
+    "heat": "7",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "937de81e443117f06160ef709e32093b235fbb5d",
+    "swimmer_id": "38e7d5cd54b7edcb40a477f96a1a593b986e3ddc",
+    "swimmer": {
+      "first_name": "דניאל יהודיאן",
+      "last_name": "",
+      "full_name": "דניאל יהודיאן"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "הפועל אולימפ נתניה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:34.09",
+    "points": 491,
+    "position": "6",
+    "heat": "7",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "71f194b39d708a5af68e7d30e2d3bb27a8316bcb",
+    "swimmer_id": "4749bd46b27557deb1cf2f8a57974089a12f14fe",
+    "swimmer": {
+      "first_name": "ג'וליה דטנו",
+      "last_name": "",
+      "full_name": "ג'וליה דטנו"
+    },
+    "gender": "בנות",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "בני הרצליה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:35.50",
+    "points": 478,
+    "position": "7",
+    "heat": "7",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "fc6ae657c0ba625aba920d6d7ba66af3b80c92cb",
+    "swimmer_id": "5df1ddeede4fced9758276dd71cfca3861d1bb7c",
+    "swimmer": {
+      "first_name": "עומר לאה כשריאן",
+      "last_name": "",
+      "full_name": "עומר לאה כשריאן"
+    },
+    "gender": "בנות",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי א.ס. רמת השרון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:36.76",
+    "points": 467,
+    "position": "8",
+    "heat": "7",
+    "lane": "8",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "80c2c376d051d09b9755556cd1a5f1348cd8d6f7",
+    "swimmer_id": "ed098fbe9a19e481b9bf5af224c1ee8a8c5803d0",
+    "swimmer": {
+      "first_name": "איילה אבן דנן",
+      "last_name": "",
+      "full_name": "איילה אבן דנן"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "הפועל גליל עליון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:37.26",
+    "points": 462,
+    "position": "9",
+    "heat": "6",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "9e80aaeb1bd7d031c6465c2137de0d315143498b",
+    "swimmer_id": "ac2d8741cc55c1eba45814d80f7322de29c73357",
+    "swimmer": {
+      "first_name": "תמרה גיסלה",
+      "last_name": "",
+      "full_name": "תמרה גיסלה"
+    },
+    "gender": "בנות",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "בני הרצליה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:37.36",
+    "points": 461,
+    "position": "10",
+    "heat": "6",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "33984ba300bbb3cf5ac85b66b7652abcad150303",
+    "swimmer_id": "1149684a9076f1143eb221d9dce87412c17d1228",
+    "swimmer": {
+      "first_name": "אמה ברנשטיין",
+      "last_name": "",
+      "full_name": "אמה ברנשטיין"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:37.55",
+    "points": 460,
+    "position": "11",
+    "heat": "4",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "2ada89d5937533c8625b3ae8000e8bb6077c6a8d",
+    "swimmer_id": "eef5da04a5b8b3eef5cb5c00f843af6a10aedef9",
+    "swimmer": {
+      "first_name": "הדס פז פרידמן",
+      "last_name": "",
+      "full_name": "הדס פז פרידמן"
+    },
+    "gender": "בנות",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:37.74",
+    "points": 458,
+    "position": "12",
+    "heat": "5",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "61ab4aac9796d18efcd409f9d4789e30e3aaa8a0",
+    "swimmer_id": "48187c07a5321058633e18432243c28a04deeaf2",
+    "swimmer": {
+      "first_name": "עדן שץ",
+      "last_name": "",
+      "full_name": "עדן שץ"
+    },
+    "gender": "בנות",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "הפועל אולימפ נתניה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:38.34",
+    "points": 453,
+    "position": "13",
+    "heat": "6",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "f8f6a57faac73cbdf3ca2968fe83bfc9fbc0625f",
+    "swimmer_id": "07eb63fc09dc83391ae596b56634b9929d38fbdc",
+    "swimmer": {
+      "first_name": "ליה רזניק",
+      "last_name": "",
+      "full_name": "ליה רזניק"
+    },
+    "gender": "בנות",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "הפועל קרית טבעון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:38.86",
+    "points": 448,
+    "position": "14",
+    "heat": "4",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "d89785e0c8618c59c7e283804bfbac797e6d52ac",
+    "swimmer_id": "2f61e3d8e930aa7550f8d7227549af37fd390472",
+    "swimmer": {
+      "first_name": "רוני בן חיים",
+      "last_name": "",
+      "full_name": "רוני בן חיים"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "אלומה עירוני הוד השרון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:39.55",
+    "points": 443,
+    "position": "15",
+    "heat": "2",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "0cf2b8080dbcc2d4b51bc246e5ec59cb953116ff",
+    "swimmer_id": "cf602c8904eb15ded7b34d6c0222000fb6a276f3",
+    "swimmer": {
+      "first_name": "כליל שריד",
+      "last_name": "",
+      "full_name": "כליל שריד"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי שוהם"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:41.02",
+    "points": 431,
+    "position": "16",
+    "heat": "6",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "7087c551a3e9718b346ca08af359f85c5ce4ae78",
+    "swimmer_id": "4b4ae2c971039a13560d3e7545d62327cba7be85",
+    "swimmer": {
+      "first_name": "עלמה פלדמן",
+      "last_name": "",
+      "full_name": "עלמה פלדמן"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "הפועל דולפין נתניה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:41.09",
+    "points": 430,
+    "position": "17",
+    "heat": "5",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "c7afd23e1b2f22d60da5a2bbe552025b1dccd534",
+    "swimmer_id": "7b568511ad8db2356fdab66c32f6dec9d19e29ed",
+    "swimmer": {
+      "first_name": "נעמי שרעבי",
+      "last_name": "",
+      "full_name": "נעמי שרעבי"
+    },
+    "gender": "בנות",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי וייסגל רחובות"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:41.65",
+    "points": 425,
+    "position": "18",
+    "heat": "6",
+    "lane": "8",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "65324102655fba80113a47714abacb2ea609d8dc",
+    "swimmer_id": "a9b830228aea7524fda5567aaa433ecfce2572f1",
+    "swimmer": {
+      "first_name": "גילי ליבנה",
+      "last_name": "",
+      "full_name": "גילי ליבנה"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "הפועל קרית טבעון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:41.65",
+    "points": 425,
+    "position": "18",
+    "heat": "7",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "30b97b7b75244af022527ec96f2328442cdcd9dc",
+    "swimmer_id": "6b03759af12fdcff0bf11e579b0d73008cb7c4d2",
+    "swimmer": {
+      "first_name": "מאיה גולר",
+      "last_name": "",
+      "full_name": "מאיה גולר"
+    },
+    "gender": "בנות",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי פ.מ. רעות"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:42.22",
+    "points": 421,
+    "position": "20",
+    "heat": "6",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "909b8c6fc4b364be466854f15c8829b9f42d7685",
+    "swimmer_id": "bf85927eefe258d55de20ab2f73b5a717bd8dbca",
+    "swimmer": {
+      "first_name": "ניקול בשארה",
+      "last_name": "",
+      "full_name": "ניקול בשארה"
+    },
+    "gender": "בנות",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:42.52",
+    "points": 419,
+    "position": "21",
+    "heat": "1",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "bb5f8adfe847d5b9624e93bb66f76ee861094b2d",
+    "swimmer_id": "84cfbfb1bac51eab028dc90b909319f67706e607",
+    "swimmer": {
+      "first_name": "יובל אנטמן",
+      "last_name": "",
+      "full_name": "יובל אנטמן"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי א.ס. רמת השרון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:42.77",
+    "points": 417,
+    "position": "22",
+    "heat": "4",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "2a5c1007c778d2291407a543bda9de85554b3bb7",
+    "swimmer_id": "41c903a1e21259c4c6254f9429c2792cbdd95f8f",
+    "swimmer": {
+      "first_name": "לי חן עובדיה",
+      "last_name": "",
+      "full_name": "לי חן עובדיה"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי וייסגל רחובות"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:43.01",
+    "points": 415,
+    "position": "23",
+    "heat": "6",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "e0a41538710cfdb80a86d0fea39199940fc2f5b7",
+    "swimmer_id": "2441d365fc39af987937b702118b8cc1c68f706f",
+    "swimmer": {
+      "first_name": "אודליה לרנר אלכסנדרוב",
+      "last_name": "",
+      "full_name": "אודליה לרנר אלכסנדרוב"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי פ.מ. רעות"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:43.35",
+    "points": 412,
+    "position": "24",
+    "heat": "5",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "2a50af47fedf5fcc6196d5a964a1b17c7572f99e",
+    "swimmer_id": "64430e4150a4b4e7de04926cd4cc11ebe38a2923",
+    "swimmer": {
+      "first_name": "גילי רפאלין",
+      "last_name": "",
+      "full_name": "גילי רפאלין"
+    },
+    "gender": "בנות",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "בני הרצליה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:43.78",
+    "points": 409,
+    "position": "25",
+    "heat": "5",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "503231f316c4f84fd9072f401a9ced610cbffc1a",
+    "swimmer_id": "4b021e7533d62a40248290eee61d9503f515144e",
+    "swimmer": {
+      "first_name": "לורן מל",
+      "last_name": "",
+      "full_name": "לורן מל"
+    },
+    "gender": "בנות",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי תל אביב"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:44.15",
+    "points": 406,
+    "position": "26",
+    "heat": "4",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "74a3a743eb53be9bdff1317c2d36c64802160bef",
+    "swimmer_id": "6530ca2fbe5692bdd1221fa6b8801b14dc131a66",
+    "swimmer": {
+      "first_name": "סופי נחמין",
+      "last_name": "",
+      "full_name": "סופי נחמין"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "הפועל אולימפ נתניה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:44.60",
+    "points": 403,
+    "position": "27",
+    "heat": "4",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "896371207a3713561b4369f7be15b9f70241fd80",
+    "swimmer_id": "9a30f81314c0198a62e60fe312ee02bc8ef86954",
+    "swimmer": {
+      "first_name": "רונה אדיסון",
+      "last_name": "",
+      "full_name": "רונה אדיסון"
+    },
+    "gender": "בנות",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מועדון שחייה כפר תבור"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:45.44",
+    "points": 397,
+    "position": "28",
+    "heat": "3",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "0c2e9f9e99dd7f9ceb416ed7c6b44a1fe298189d",
+    "swimmer_id": "6a83d63ffed876c7ba01cc05d01c0e7c7f9d8941",
+    "swimmer": {
+      "first_name": "שיינא סמארה",
+      "last_name": "",
+      "full_name": "שיינא סמארה"
+    },
+    "gender": "בנות",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "מכבי א.ס. רמת השרון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:45.60",
+    "points": 396,
+    "position": "29",
+    "heat": "5",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "c66fe0061c69416954e535490d4f6d843bd88efd",
+    "swimmer_id": "ae360a5c959df0e757fef83a54257e0ac4f758c9",
+    "swimmer": {
+      "first_name": "אמה סופיר",
+      "last_name": "",
+      "full_name": "אמה סופיר"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "בני הרצליה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:46.08",
+    "points": 392,
+    "position": "30",
+    "heat": "5",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "4c787aa9f6df4da9e72b5d67f7695c15148155f1",
+    "swimmer_id": "1b077dc110bcb335115539ff7d3147cb31503860",
+    "swimmer": {
+      "first_name": "עמית לב",
+      "last_name": "",
+      "full_name": "עמית לב"
+    },
+    "gender": "בנות",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "בני הרצליה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:46.43",
+    "points": 390,
+    "position": "31",
+    "heat": "4",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "0c860a641afeddc4e9e2b60a1188057e09e86f0c",
+    "swimmer_id": "c2a98a129dccecdbdbb5ff0201c74241ffa4f011",
+    "swimmer": {
+      "first_name": "נינה בר ניר",
+      "last_name": "",
+      "full_name": "נינה בר ניר"
+    },
+    "gender": "בנות",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:46.54",
+    "points": 389,
+    "position": "32",
+    "heat": "3",
+    "lane": "8",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "292c81c3e3a11b2e8d5ee9a93cc7b2c453fd6497",
+    "swimmer_id": "5a8853f02325c91410fcb79c1e9dcb9abd7b01d6",
+    "swimmer": {
+      "first_name": "מריה גברילוב",
+      "last_name": "",
+      "full_name": "מריה גברילוב"
+    },
+    "gender": "בנות",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "הפועל עמק חפר"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:47.52",
+    "points": 382,
+    "position": "33",
+    "heat": "3",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "695056372b0abf66187b1f794dead8a0227d52be",
+    "swimmer_id": "99c79a1dc7f2eb1b277e876429c2d58768d4e333",
+    "swimmer": {
+      "first_name": "יעל די קסטרו",
+      "last_name": "",
+      "full_name": "יעל די קסטרו"
+    },
+    "gender": "בנות",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:48.75",
+    "points": 374,
+    "position": "34",
+    "heat": "4",
+    "lane": "8",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "2f16922490cac882fa600a322ff1de2632944a70",
+    "swimmer_id": "7c5bbcc71c703dd4747d253c146061ef9642b231",
+    "swimmer": {
+      "first_name": "מיאר נאזם זבידה",
+      "last_name": "",
+      "full_name": "מיאר נאזם זבידה"
+    },
+    "gender": "בנות",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "הפועל לב הגליל סחנין"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:48.94",
+    "points": 373,
+    "position": "35",
+    "heat": "5",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "e5f744ded42fac7c1bd8a582517ed1e00c7e1f9f",
+    "swimmer_id": "5fe01467d2f2e12f49c33c4f58b6d39cd378a81e",
+    "swimmer": {
+      "first_name": "ערבה מקליס",
+      "last_name": "",
+      "full_name": "ערבה מקליס"
+    },
+    "gender": "בנות",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי א.ס. רמת השרון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "02:50.42",
+    "points": 363,
+    "position": "36",
+    "heat": "4",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86351?isModal=True"
+  },
+  {
+    "result_id": "81cd5461364f332dbbeeeb1c776a8fdff15c5c5e",
+    "swimmer_id": "f62f7a89ebb96794b4474f9b4ed353410efe1550",
+    "swimmer": {
+      "first_name": "ולדי פיסחוב",
+      "last_name": "",
+      "full_name": "ולדי פיסחוב"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "הפועל אולימפ נתניה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:12.58",
+    "points": 553,
+    "position": "1",
+    "heat": "6",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "c924cb5dd20b2bb0b1f9b28a32c46b6ac990de8c",
+    "swimmer_id": "4abb9c9b6774e383584b47d0a783ba815de8c878",
+    "swimmer": {
+      "first_name": "תומר איזבקוב",
+      "last_name": "",
+      "full_name": "תומר איזבקוב"
+    },
+    "gender": "בנים",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "הפועל דולפין נתניה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:14.72",
+    "points": 527,
+    "position": "2",
+    "heat": "6",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "fbd22241a6599be875d61e5708c676347bcb0706",
+    "swimmer_id": "fe5106139f127b190f24c8334295dcbcfb46df7f",
+    "swimmer": {
+      "first_name": "ליאם ברסקי",
+      "last_name": "",
+      "full_name": "ליאם ברסקי"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:15.38",
+    "points": 520,
+    "position": "3",
+    "heat": "5",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "72f2b45176ef9279673d2eb2bbf6462c11d14490",
+    "swimmer_id": "3dbffc94988e6b0470077314bd84418b8379eefd",
+    "swimmer": {
+      "first_name": "איתן אוזן",
+      "last_name": "",
+      "full_name": "איתן אוזן"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "בני הרצליה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:15.72",
+    "points": 516,
+    "position": "4",
+    "heat": "6",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "52081d24a39373f82ab29d6442b081a4b3253e5e",
+    "swimmer_id": "213c6fa99df257680d59840a893cfab6a10f03a7",
+    "swimmer": {
+      "first_name": "רום זאנה",
+      "last_name": "",
+      "full_name": "רום זאנה"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי א.ס. רמת השרון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:17.00",
+    "points": 501,
+    "position": "5",
+    "heat": "3",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "1fc613f61708a382a283200cdcffd0915c5ef778",
+    "swimmer_id": "7b75e6f845a84dac185dba4e6833596797bd5e9a",
+    "swimmer": {
+      "first_name": "אלון הר-שלג",
+      "last_name": "",
+      "full_name": "אלון הר-שלג"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:17.44",
+    "points": 497,
+    "position": "6",
+    "heat": "3",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "dba542603bfabf6b0fb01a2831cb799c75c8204f",
+    "swimmer_id": "d5b4e4204ba3c09d2f2383b9fcda82f02daaac6e",
+    "swimmer": {
+      "first_name": "איתן שץ",
+      "last_name": "",
+      "full_name": "איתן שץ"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "הפועל אולימפ נתניה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:18.15",
+    "points": 489,
+    "position": "7",
+    "heat": "6",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "c778c49e6e057be0d330ea40d59389ee3ea76119",
+    "swimmer_id": "b60e4857641595c3bea9bb0a9946a0f2f5dd6351",
+    "swimmer": {
+      "first_name": "אריאל שטראובר",
+      "last_name": "",
+      "full_name": "אריאל שטראובר"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "בני הרצליה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:19.07",
+    "points": 479,
+    "position": "8",
+    "heat": "6",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "80292f0a0acc49a7f2e0439b0a3d0516aea37e80",
+    "swimmer_id": "885daee5b38a980209b3acfbc3cf2dc71b9e4163",
+    "swimmer": {
+      "first_name": "נדב עמיהוד",
+      "last_name": "",
+      "full_name": "נדב עמיהוד"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "הפועל דולפין נתניה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:21.08",
+    "points": 459,
+    "position": "9",
+    "heat": "5",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "b9eee339363d3b5ab1908b82cb41b1dd438c8fb6",
+    "swimmer_id": "96d13083e84d2bf7b6ab2cafab7cf85ca0cf498b",
+    "swimmer": {
+      "first_name": "עילאי חוג'ה",
+      "last_name": "",
+      "full_name": "עילאי חוג'ה"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי ירושלים"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:21.08",
+    "points": 459,
+    "position": "9",
+    "heat": "6",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "aa1ffe6a09ac7c44694ad3d46f140b63feef3bfe",
+    "swimmer_id": "fda476ae5dd8a9bd1db47c1d2ee9d9c2c525e61f",
+    "swimmer": {
+      "first_name": "אליאם מדבדב",
+      "last_name": "",
+      "full_name": "אליאם מדבדב"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "הפועל אולימפ נתניה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:24.04",
+    "points": 431,
+    "position": "11",
+    "heat": "4",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "2024a67be460ed8d0e168d3c3d0c3fa82fadbe8c",
+    "swimmer_id": "0d01ebb37ad7ac32778c0e79c753fbc49be094b3",
+    "swimmer": {
+      "first_name": "נועם סוק",
+      "last_name": "",
+      "full_name": "נועם סוק"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "הפועל גליל עליון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:24.98",
+    "points": 423,
+    "position": "12",
+    "heat": "3",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "d4f6e914e86f4bbb642c774752e7249d5d4458cb",
+    "swimmer_id": "90d1ca3d56fee6e902ca673b2af4331fcad5893e",
+    "swimmer": {
+      "first_name": "ריף קדרניל",
+      "last_name": "",
+      "full_name": "ריף קדרניל"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:25.11",
+    "points": 422,
+    "position": "13",
+    "heat": "3",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "848333196d258053fef496527b6c8d55d855019e",
+    "swimmer_id": "5e52685e114b83259c8d2a2bb148c11664289c28",
+    "swimmer": {
+      "first_name": "עידן אלקלעי",
+      "last_name": "",
+      "full_name": "עידן אלקלעי"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מועדון שחייה כפר תבור"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:25.26",
+    "points": 421,
+    "position": "14",
+    "heat": "5",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "3f7fa7b88fbe3ec3ca3ea37234026e4587cbf996",
+    "swimmer_id": "e50add992a469badab7f50f7ee8b8d7ef5736016",
+    "swimmer": {
+      "first_name": "מיכאל גליקין",
+      "last_name": "",
+      "full_name": "מיכאל גליקין"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "הפועל מ.א משגב"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:25.38",
+    "points": 420,
+    "position": "15",
+    "heat": "5",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "3827f9e6134a00a2d35528fe5a50a5f5c433f889",
+    "swimmer_id": "33d5dad9d0e7997e96189ece0514545ce284928b",
+    "swimmer": {
+      "first_name": "לירוי בורוליה",
+      "last_name": "",
+      "full_name": "לירוי בורוליה"
+    },
+    "gender": "בנים",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:26.89",
+    "points": 407,
+    "position": "16",
+    "heat": "2",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "0566c6313d1dfa1a74d8f46459b624748f0535e1",
+    "swimmer_id": "71578cca57ab8823fb20b3e72f41668e4d35cb3a",
+    "swimmer": {
+      "first_name": "יליסיי פופרוגין",
+      "last_name": "",
+      "full_name": "יליסיי פופרוגין"
+    },
+    "gender": "בנים",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:27.60",
+    "points": 401,
+    "position": "17",
+    "heat": "5",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "d03b494354d5076b8e46740451b7a571f3e55bb5",
+    "swimmer_id": "6426a87edfd229bdd75adc0c538b5836526cff8c",
+    "swimmer": {
+      "first_name": "ניתאי בן יוסף",
+      "last_name": "",
+      "full_name": "ניתאי בן יוסף"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי וייסגל רחובות"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:27.96",
+    "points": 398,
+    "position": "18",
+    "heat": "6",
+    "lane": "8",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "2367eaa72604e915c7d3a319d4724ca25ef15675",
+    "swimmer_id": "360790469034d5706111444bd5dda78dcafe25d6",
+    "swimmer": {
+      "first_name": "אביב פרידמן",
+      "last_name": "",
+      "full_name": "אביב פרידמן"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "הפועל אולימפ נתניה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:28.64",
+    "points": 393,
+    "position": "19",
+    "heat": "5",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "73f273f9c39717495c57c440e6db1953251b41b2",
+    "swimmer_id": "de3217e1132800b5c7d44d71d2d0c624e2eebbc7",
+    "swimmer": {
+      "first_name": "יהלי איפרגן",
+      "last_name": "",
+      "full_name": "יהלי איפרגן"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי ירושלים"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:28.65",
+    "points": 392,
+    "position": "20",
+    "heat": "4",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "00c7eac8233f80dcccd531221db33bcf089c9fb4",
+    "swimmer_id": "a031d556bc4a56c4645e0b31be939127fc24f62a",
+    "swimmer": {
+      "first_name": "אשל סטרול",
+      "last_name": "",
+      "full_name": "אשל סטרול"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "הפועל מ.א משגב"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:28.99",
+    "points": 390,
+    "position": "21",
+    "heat": "2",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "d7c11fcbba18eb1ba6fb9b0f59ed19b4836cdce8",
+    "swimmer_id": "e5e025a7b062399a5c4265cae5688f31ecd4cc2c",
+    "swimmer": {
+      "first_name": "איתי ניקסון",
+      "last_name": "",
+      "full_name": "איתי ניקסון"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:29.55",
+    "points": 385,
+    "position": "22",
+    "heat": "2",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "ed720d1db8f25649fb61bce7be446d7705918d82",
+    "swimmer_id": "2eb5ff6675dc22f8f048d0f8cc174793ca224d1d",
+    "swimmer": {
+      "first_name": "גל שרעבי",
+      "last_name": "",
+      "full_name": "גל שרעבי"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:29.56",
+    "points": 385,
+    "position": "23",
+    "heat": "4",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "9de4e5c0ddacd9d9484267fd30052475e4bbee22",
+    "swimmer_id": "1e546f08f824036d61fddc81f497cd9c350a73f8",
+    "swimmer": {
+      "first_name": "יאיר אריאל",
+      "last_name": "",
+      "full_name": "יאיר אריאל"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:30.30",
+    "points": 380,
+    "position": "24",
+    "heat": "3",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "037563feab40efde50092fbbe1674cb675cdc3cc",
+    "swimmer_id": "81bb63a9342eadf05b92256dc3e67fc9c12c1e25",
+    "swimmer": {
+      "first_name": "ירדן גלוזברג",
+      "last_name": "",
+      "full_name": "ירדן גלוזברג"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "בני הרצליה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:30.50",
+    "points": 378,
+    "position": "25",
+    "heat": "4",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "a2c6285b857eaa7ecf5c10dc5a34ea47ddd93ab9",
+    "swimmer_id": "6cd1161d1411f0143d52eecd3e595ec6c781f7e8",
+    "swimmer": {
+      "first_name": "גרמן ברברש",
+      "last_name": "",
+      "full_name": "גרמן ברברש"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:31.33",
+    "points": 372,
+    "position": "26",
+    "heat": "3",
+    "lane": "8",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "af831aa17d8917e177a353a1fab0ad268beddcf4",
+    "swimmer_id": "60b1a273e1586b2d5776e5bdc43606d15d0e6ff3",
+    "swimmer": {
+      "first_name": "איתן צור מוסברג",
+      "last_name": "",
+      "full_name": "איתן צור מוסברג"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:31.66",
+    "points": 370,
+    "position": "27",
+    "heat": "1",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "57500908e4c42739f2450bbaaa9044bfd5183661",
+    "swimmer_id": "13db9dd9caf0dfb3f785012c10e1de476e61e07a",
+    "swimmer": {
+      "first_name": "איתי משה פישמן",
+      "last_name": "",
+      "full_name": "איתי משה פישמן"
+    },
+    "gender": "בנים",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי ירושלים"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:31.74",
+    "points": 369,
+    "position": "28",
+    "heat": "5",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "a500b0d2bb7e98883efa2d0faba6a16e810f45d6",
+    "swimmer_id": "a39e22953544ea345831c0d2891f5d3cdca02941",
+    "swimmer": {
+      "first_name": "עידו בר זיו",
+      "last_name": "",
+      "full_name": "עידו בר זיו"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "הפועל דולפין נתניה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:31.79",
+    "points": 369,
+    "position": "29",
+    "heat": "1",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "70110698865be7a1f93c3da543d959036d0cfdce",
+    "swimmer_id": "cb5037618790aa1e4c8af99f9ad179ccc22ab422",
+    "swimmer": {
+      "first_name": "משה שפייזער",
+      "last_name": "",
+      "full_name": "משה שפייזער"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "מתנ\"ס רמת הנגב"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:32.54",
+    "points": 363,
+    "position": "30",
+    "heat": "4",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "a57e817302daf4c1d1f84e518255d262172debb6",
+    "swimmer_id": "d0e100567329ce19694438e2900368c9fc1ef53e",
+    "swimmer": {
+      "first_name": "דניאל שטרן",
+      "last_name": "",
+      "full_name": "דניאל שטרן"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "בני הרצליה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:33.57",
+    "points": 356,
+    "position": "31",
+    "heat": "4",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "3914b86f8f7d77759d3e0d548cc599c19942df7a",
+    "swimmer_id": "80a266a5f6b5044369bc9c6925ba3d84863a718f",
+    "swimmer": {
+      "first_name": "גיא בן ישראל",
+      "last_name": "",
+      "full_name": "גיא בן ישראל"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "בני הרצליה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:35.12",
+    "points": 345,
+    "position": "32",
+    "heat": "2",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "657a231a43cc9d8d4f32161a6842f491baa3ac47",
+    "swimmer_id": "be18f95f66b98a3703474acfa0099968a5eca328",
+    "swimmer": {
+      "first_name": "בארי זיידמן",
+      "last_name": "",
+      "full_name": "בארי זיידמן"
+    },
+    "gender": "בנים",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "הפועל מ.א משגב"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:36.56",
+    "points": 336,
+    "position": "33",
+    "heat": "2",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "cbd22ed0bb0097149a5998e557b4349b52c9430f",
+    "swimmer_id": "648f1968fa90cbb017d75c67f797e981340e6114",
+    "swimmer": {
+      "first_name": "קוזי סטרצ'נקו",
+      "last_name": "",
+      "full_name": "קוזי סטרצ'נקו"
+    },
+    "gender": "בנים",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:37.61",
+    "points": 329,
+    "position": "34",
+    "heat": "4",
+    "lane": "8",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "3c00005024a676c155d5576d1a35b81ee6409ab2",
+    "swimmer_id": "c59f89817e2d6225d5a3170177fd955ea05cc9b5",
+    "swimmer": {
+      "first_name": "עילאי איובי",
+      "last_name": "",
+      "full_name": "עילאי איובי"
+    },
+    "gender": "בנים",
+    "birth_year": "2012",
+    "club": {
+      "name_he": "הפועל באר טוביה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "בנים 12-15",
+    "pool_length": "50",
+    "time": "02:38.99",
+    "points": 321,
+    "position": "35",
+    "heat": "3",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86352?isModal=True"
+  },
+  {
+    "result_id": "94c27726ad9bbda8971beb464edcff078eb37a52",
+    "swimmer_id": "3f161d65214809a019dd79bbe75e8f9fa49102ba",
+    "swimmer": {
+      "first_name": "אופיר שמחה",
+      "last_name": "",
+      "full_name": "אופיר שמחה"
+    },
+    "gender": "בנות",
+    "birth_year": "2009",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:16.53",
+    "points": 707,
+    "position": "1",
+    "heat": "5",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "c3eda630464b45372c91556495738c242604c4d8",
+    "swimmer_id": "4dfd6b270cc827694fa00fe3a08dc4571980ca72",
+    "swimmer": {
+      "first_name": "אלמה גלסמן",
+      "last_name": "",
+      "full_name": "אלמה גלסמן"
+    },
+    "gender": "בנות",
+    "birth_year": "2007",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:18.87",
+    "points": 671,
+    "position": "2",
+    "heat": "5",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "60f48a511649bca04d0a5c482c1faa4ee7f2fe88",
+    "swimmer_id": "7b6a87fb2911fc4adefea330698880aafb0b1633",
+    "swimmer": {
+      "first_name": "מיטל פליקשטיין",
+      "last_name": "",
+      "full_name": "מיטל פליקשטיין"
+    },
+    "gender": "בנות",
+    "birth_year": "2007",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:24.01",
+    "points": 602,
+    "position": "3",
+    "heat": "5",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "c7b87d079c32d210b9fd8f7eb40e5bc8669e005c",
+    "swimmer_id": "6be043026cd704341e74a85481066874f7c4eeaa",
+    "swimmer": {
+      "first_name": "מיקה שטיפט",
+      "last_name": "",
+      "full_name": "מיקה שטיפט"
+    },
+    "gender": "בנות",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:24.49",
+    "points": 596,
+    "position": "4",
+    "heat": "4",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "5adf7ec5333ac8c1c232cfecac044e7ab7f418f0",
+    "swimmer_id": "ed4d81f2df94a112dcf9b4391c39d6e131df5d77",
+    "swimmer": {
+      "first_name": "תהל אלבז",
+      "last_name": "",
+      "full_name": "תהל אלבז"
+    },
+    "gender": "בנות",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "מכבי וייסגל רחובות"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:24.75",
+    "points": 593,
+    "position": "5",
+    "heat": "5",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "5bf99b2b9b537973e7e222d5dd54791021f9481d",
+    "swimmer_id": "a097843f3e00c9ce693232f8bcfe0e66a325327b",
+    "swimmer": {
+      "first_name": "יליזבטה פרולוב",
+      "last_name": "",
+      "full_name": "יליזבטה פרולוב"
+    },
+    "gender": "בנות",
+    "birth_year": "2009",
+    "club": {
+      "name_he": "מ.ס. רמלה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:25.09",
+    "points": 589,
+    "position": "6",
+    "heat": "5",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "1a6a41321480a00f5e9a0de4828b2b5339a4243f",
+    "swimmer_id": "fd392e55e9b3ca95f1bb406089d2f4249ceacfbb",
+    "swimmer": {
+      "first_name": "עדן פרוצנקו",
+      "last_name": "",
+      "full_name": "עדן פרוצנקו"
+    },
+    "gender": "בנות",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "אלומה עירוני הוד השרון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:25.92",
+    "points": 579,
+    "position": "7",
+    "heat": "4",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "654a60eb1ee3d021e6181eb8a9bd10b747a8b4fd",
+    "swimmer_id": "1e0f2779124a2afe148dd75257aa153d24f9ab7a",
+    "swimmer": {
+      "first_name": "שחר רחל כשריאן",
+      "last_name": "",
+      "full_name": "שחר רחל כשריאן"
+    },
+    "gender": "בנות",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "מכבי א.ס. רמת השרון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:26.27",
+    "points": 574,
+    "position": "8",
+    "heat": "4",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "8af2ce5005ec2024ad8f23080dd04cfd85449bce",
+    "swimmer_id": "0e4398040529dfc71a225a0fa63bb86dd673a9bb",
+    "swimmer": {
+      "first_name": "רנה אילת",
+      "last_name": "",
+      "full_name": "רנה אילת"
+    },
+    "gender": "בנות",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:26.47",
+    "points": 572,
+    "position": "9",
+    "heat": "4",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "c95af9e886493c0f2d9669d1912d68f2516dd57d",
+    "swimmer_id": "d9816e8a3a0b5d0a294ab8f87d24a68f0ff65e34",
+    "swimmer": {
+      "first_name": "מאי דגן",
+      "last_name": "",
+      "full_name": "מאי דגן"
+    },
+    "gender": "בנות",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "הפועל קרית טבעון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:27.24",
+    "points": 563,
+    "position": "10",
+    "heat": "4",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "c86908b178f99c2806da228bec1ed7f62ab2416a",
+    "swimmer_id": "343c0e576a7f913724801d6604db34aad7a33b4a",
+    "swimmer": {
+      "first_name": "איה אברהם",
+      "last_name": "",
+      "full_name": "איה אברהם"
+    },
+    "gender": "בנות",
+    "birth_year": "2004",
+    "club": {
+      "name_he": "מכבי א.ס. רמת השרון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:27.54",
+    "points": 560,
+    "position": "11",
+    "heat": "5",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "c434e9f7311e6e4e3a0bec9476a3828417926a27",
+    "swimmer_id": "cf53d477fada06bc7a08ffd83aa2b9d4a7063e29",
+    "swimmer": {
+      "first_name": "עמנואל סטרוז",
+      "last_name": "",
+      "full_name": "עמנואל סטרוז"
+    },
+    "gender": "בנות",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "אלומה עירוני הוד השרון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:28.35",
+    "points": 551,
+    "position": "12",
+    "heat": "3",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "f695108d63e97b20aacbe729e7a21176c2710a13",
+    "swimmer_id": "2d684f62a39da1832cfcdeb5b7d2bd532a1dc293",
+    "swimmer": {
+      "first_name": "הללי פרנס",
+      "last_name": "",
+      "full_name": "הללי פרנס"
+    },
+    "gender": "בנות",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "מכבי ירושלים"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:28.43",
+    "points": 550,
+    "position": "13",
+    "heat": "1",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "69edf069bcf06e6e11627a6be3e7c241309f1e89",
+    "swimmer_id": "f61ea3f8268a326b00ded0434afe9f2e4489c252",
+    "swimmer": {
+      "first_name": "ניב הראל",
+      "last_name": "",
+      "full_name": "ניב הראל"
+    },
+    "gender": "בנות",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:28.45",
+    "points": 550,
+    "position": "14",
+    "heat": "5",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "522223bb3a7c406ae8c874013c5152a057cd3b7e",
+    "swimmer_id": "559e2c283cc85914f1e9048a26896d07da498153",
+    "swimmer": {
+      "first_name": "ליאם טלפינסקי",
+      "last_name": "",
+      "full_name": "ליאם טלפינסקי"
+    },
+    "gender": "בנות",
+    "birth_year": "2009",
+    "club": {
+      "name_he": "מכבי א.ס. רמת השרון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:28.74",
+    "points": 546,
+    "position": "15",
+    "heat": "3",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "2af7cc686b879ef4e0085cfb50af9686243409e9",
+    "swimmer_id": "e20317225a672dec6a69e4539a0179e2ddfb8031",
+    "swimmer": {
+      "first_name": "אנה אנטין",
+      "last_name": "",
+      "full_name": "אנה אנטין"
+    },
+    "gender": "בנות",
+    "birth_year": "2009",
+    "club": {
+      "name_he": "אלומה עירוני הוד השרון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:31.07",
+    "points": 521,
+    "position": "16",
+    "heat": "5",
+    "lane": "8",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "8d674fda07ab5d8a1fd6c7a25bf74b375cb4f470",
+    "swimmer_id": "410bf80a8bf6c3b0b85524c2607874a2b2f11750",
+    "swimmer": {
+      "first_name": "גל גולן",
+      "last_name": "",
+      "full_name": "גל גולן"
+    },
+    "gender": "בנות",
+    "birth_year": "2008",
+    "club": {
+      "name_he": "אלומה עירוני הוד השרון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:31.89",
+    "points": 513,
+    "position": "17",
+    "heat": "4",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "972cb0c4fcefd418ecfd9c6b5de623987cc8e6b3",
+    "swimmer_id": "85b354df80c93593eb7c78b9db21fbc0eca03460",
+    "swimmer": {
+      "first_name": "נגה רנדלר",
+      "last_name": "",
+      "full_name": "נגה רנדלר"
+    },
+    "gender": "בנות",
+    "birth_year": "2008",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:31.89",
+    "points": 513,
+    "position": "17",
+    "heat": "4",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "5e6226036f9dd61d63189ea635e79c3642e871b0",
+    "swimmer_id": "17cab4203e1d2090ce0413b180dbbe5bf6bbbc53",
+    "swimmer": {
+      "first_name": "הילה לרנר",
+      "last_name": "",
+      "full_name": "הילה לרנר"
+    },
+    "gender": "בנות",
+    "birth_year": "2009",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:32.85",
+    "points": 503,
+    "position": "19",
+    "heat": "3",
+    "lane": "8",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "30dd031412a7badcb12c193bf8002eb9424b980d",
+    "swimmer_id": "b9bd7539863e9bbcff92f318149067fd4b1ac230",
+    "swimmer": {
+      "first_name": "סיוון אדלר",
+      "last_name": "",
+      "full_name": "סיוון אדלר"
+    },
+    "gender": "בנות",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "מכבי פ.מ. רעות"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:33.19",
+    "points": 500,
+    "position": "20",
+    "heat": "4",
+    "lane": "8",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "e79b546cc39f94733469e75f10b205503601dfcc",
+    "swimmer_id": "579c1d755e90c6571ef3fb766270c792477aeabf",
+    "swimmer": {
+      "first_name": "נטע פרבר",
+      "last_name": "",
+      "full_name": "נטע פרבר"
+    },
+    "gender": "בנות",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "מכבי שוהם"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:34.84",
+    "points": 484,
+    "position": "21",
+    "heat": "2",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "e9ee14da31125f4880c78057f493c934d0abd086",
+    "swimmer_id": "3d997e5d8d1b4df8215cb7876d808c733bbce0d9",
+    "swimmer": {
+      "first_name": "מאיה רנדלר",
+      "last_name": "",
+      "full_name": "מאיה רנדלר"
+    },
+    "gender": "בנות",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:35.07",
+    "points": 482,
+    "position": "22",
+    "heat": "2",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "9c72506ef8166d4907a6bdbe2f9dd1859a6650e9",
+    "swimmer_id": "4c0401b2fe328dcca680ef917b4a91c785a09ad1",
+    "swimmer": {
+      "first_name": "שירי הוכמן",
+      "last_name": "",
+      "full_name": "שירי הוכמן"
+    },
+    "gender": "בנות",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "הפועל אולימפ נתניה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:35.77",
+    "points": 476,
+    "position": "23",
+    "heat": "2",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "76d463a153360ceaf5f1de773b64878a6662e663",
+    "swimmer_id": "1d1747c666f9e80509122d7e1e54a89b0ac91d1d",
+    "swimmer": {
+      "first_name": "אלה פרימור",
+      "last_name": "",
+      "full_name": "אלה פרימור"
+    },
+    "gender": "בנות",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "אלומה עירוני הוד השרון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:36.00",
+    "points": 473,
+    "position": "24",
+    "heat": "3",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "b45eb19a1fc9e73293caf9bd733c6aed9263b60e",
+    "swimmer_id": "5c601e6b575fd9df64a3825e160947162744b5c1",
+    "swimmer": {
+      "first_name": "ענבל מקליס",
+      "last_name": "",
+      "full_name": "ענבל מקליס"
+    },
+    "gender": "בנות",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "מכבי א.ס. רמת השרון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:36.15",
+    "points": 472,
+    "position": "25",
+    "heat": "2",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "1a019415ce726b9cf52d96b8a56b7eda820a4a4d",
+    "swimmer_id": "5536863294edd71bd82e253cf460ec693596447c",
+    "swimmer": {
+      "first_name": "ירין קינן",
+      "last_name": "",
+      "full_name": "ירין קינן"
+    },
+    "gender": "בנות",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "אלומה עירוני הוד השרון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:36.43",
+    "points": 470,
+    "position": "26",
+    "heat": "3",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "c75a2fc0780851d8fb19396a0b66a13ea62f3705",
+    "swimmer_id": "d161d774c476ac9cd4ae13a2a0c10d87c2f53e38",
+    "swimmer": {
+      "first_name": "ליהי לוי",
+      "last_name": "",
+      "full_name": "ליהי לוי"
+    },
+    "gender": "בנות",
+    "birth_year": "2009",
+    "club": {
+      "name_he": "מכבי תל אביב"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:37.15",
+    "points": 463,
+    "position": "27",
+    "heat": "3",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "da44dff64a6fad5116fa571a7f240d1367c48723",
+    "swimmer_id": "9929faca791a35fdcb8e95040459aa49694c2a6d",
+    "swimmer": {
+      "first_name": "נגה וינשל",
+      "last_name": "",
+      "full_name": "נגה וינשל"
+    },
+    "gender": "בנות",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "הפועל אולימפ נתניה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:38.24",
+    "points": 454,
+    "position": "28",
+    "heat": "2",
+    "lane": "8",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "efa19a3b6f218cc9d7582ecad0dfab1ed96d1a56",
+    "swimmer_id": "ff89b96d9641e87644d11f57fcdf4c035f000aca",
+    "swimmer": {
+      "first_name": "נעמה ליבנה",
+      "last_name": "",
+      "full_name": "נעמה ליבנה"
+    },
+    "gender": "בנות",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "מכבי שוהם"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:38.44",
+    "points": 452,
+    "position": "29",
+    "heat": "2",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "7dd14739b4746310c85f8229784aff5f0deeb942",
+    "swimmer_id": "1b86cd13286f911e6fbbacf3245932564e791c5a",
+    "swimmer": {
+      "first_name": "אילנה לואיזה קרלוס דה סילבה",
+      "last_name": "",
+      "full_name": "אילנה לואיזה קרלוס דה סילבה"
+    },
+    "gender": "בנות",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "הפועל דולפין נתניה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:39.65",
+    "points": 442,
+    "position": "30",
+    "heat": "1",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "cfa1f054ade53ab63458a9b16063fa5f51a1be7d",
+    "swimmer_id": "dcba6297fef868a7cc80a01b53bd117b090ac2eb",
+    "swimmer": {
+      "first_name": "אליסה גורודצקי",
+      "last_name": "",
+      "full_name": "אליסה גורודצקי"
+    },
+    "gender": "בנות",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "מכבי ירושלים"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:40.57",
+    "points": 434,
+    "position": "31",
+    "heat": "2",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "9590601bb4a0eff2953db2dcce9afe19a402ec67",
+    "swimmer_id": "62dd60f00d37f8ae32ccffca6ee1816c67bbb33f",
+    "swimmer": {
+      "first_name": "נועה שברין",
+      "last_name": "",
+      "full_name": "נועה שברין"
+    },
+    "gender": "בנות",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "הפועל אולימפ נתניה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:41.34",
+    "points": 428,
+    "position": "32",
+    "heat": "2",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "f9f1c3e695a1ac8eb9f4674a2e36d44af250eb44",
+    "swimmer_id": "276c446c6ff16c93d26f0b396abb5ce515201805",
+    "swimmer": {
+      "first_name": "עדי בן חיים",
+      "last_name": "",
+      "full_name": "עדי בן חיים"
+    },
+    "gender": "בנות",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "הפועל אולימפ נתניה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:41.65",
+    "points": 425,
+    "position": "33",
+    "heat": "1",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "dd6ec08250ac1d4d3ed87ab4407bd90c4c956e32",
+    "swimmer_id": "35702101531afbb64209ec482b5d2bc36fe005a9",
+    "swimmer": {
+      "first_name": "ליאור דפנה דוניץ",
+      "last_name": "",
+      "full_name": "ליאור דפנה דוניץ"
+    },
+    "gender": "בנות",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "מתנ\"ס רמת הנגב"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:41.96",
+    "points": 423,
+    "position": "34",
+    "heat": "1",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "e15413b96fc5eed335b908ff8780387cd057f767",
+    "swimmer_id": "4d1fc36b76a49e88afce72978ee515a050244945",
+    "swimmer": {
+      "first_name": "שירה לוי",
+      "last_name": "",
+      "full_name": "שירה לוי"
+    },
+    "gender": "בנות",
+    "birth_year": "2009",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:42.11",
+    "points": 422,
+    "position": "35",
+    "heat": "1",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "7fd73913522f9dd3e960a1be71663c69ecc07b15",
+    "swimmer_id": "25d7bfb33f3140ba32baba029a78161bb61f5805",
+    "swimmer": {
+      "first_name": "שחר אילנה חסון",
+      "last_name": "",
+      "full_name": "שחר אילנה חסון"
+    },
+    "gender": "בנות",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "מכבי ירושלים"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:43.16",
+    "points": 414,
+    "position": "36",
+    "heat": "3",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "2c039125bf61a05a2b2fdc19807cf519fff332ac",
+    "swimmer_id": "1cfab639d33ea487f236f3e2e1dac9953fe75eed",
+    "swimmer": {
+      "first_name": "ולריה טרנטייב",
+      "last_name": "",
+      "full_name": "ולריה טרנטייב"
+    },
+    "gender": "בנות",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:43.28",
+    "points": 413,
+    "position": "37",
+    "heat": "1",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "9cd92c661cbf3658af8720bd887dcb969059c5d3",
+    "swimmer_id": "24dfaa1eb50e4119afe665aae9cd98b8876ada4f",
+    "swimmer": {
+      "first_name": "אליענה גליץ'",
+      "last_name": "",
+      "full_name": "אליענה גליץ'"
+    },
+    "gender": "בנות",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "הפועל באר טוביה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "נשים 16-99",
+    "pool_length": "50",
+    "time": "02:45.62",
+    "points": 396,
+    "position": "38",
+    "heat": "1",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86354?isModal=True"
+  },
+  {
+    "result_id": "bf1cb39794f8fceeb4069955498f043393c26501",
+    "swimmer_id": "5ec4e453f81824a757bea10ba2aa31e2466d984f",
+    "swimmer": {
+      "first_name": "יוני דגן",
+      "last_name": "",
+      "full_name": "יוני דגן"
+    },
+    "gender": "בנים",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "הפועל קרית טבעון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:02.41",
+    "points": 703,
+    "position": "1",
+    "heat": "7",
+    "lane": "8",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "24632c3b3591555f11c6dac59b5e5385334bdf49",
+    "swimmer_id": "1a9482673f545f0e50edc6ba6af0f440e5967c31",
+    "swimmer": {
+      "first_name": "איליה פובר",
+      "last_name": "",
+      "full_name": "איליה פובר"
+    },
+    "gender": "בנים",
+    "birth_year": "2009",
+    "club": {
+      "name_he": "מתנ\"ס רמת הנגב"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:02.64",
+    "points": 699,
+    "position": "2",
+    "heat": "7",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "2c9a276ac9ac9b55ef80a3a04ea7fe3dded9fcd4",
+    "swimmer_id": "c1ae2cff2cf547b7279a1712f58ea97d0f725fcc",
+    "swimmer": {
+      "first_name": "איתי רוזנפלד",
+      "last_name": "",
+      "full_name": "איתי רוזנפלד"
+    },
+    "gender": "בנים",
+    "birth_year": "2006",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:03.62",
+    "points": 683,
+    "position": "3",
+    "heat": "7",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "c7f91c3c43b26d22096068e0b0856dcbf1a0c040",
+    "swimmer_id": "2fcd5f97fa1b25845d47e0bfb019dc0a771aea4d",
+    "swimmer": {
+      "first_name": "לב שטיינברג",
+      "last_name": "",
+      "full_name": "לב שטיינברג"
+    },
+    "gender": "בנים",
+    "birth_year": "2007",
+    "club": {
+      "name_he": "הפועל אילת"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:04.15",
+    "points": 674,
+    "position": "4",
+    "heat": "7",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "ec56ef8ee501a3cd3b7de930a87a11aa0f8a57f9",
+    "swimmer_id": "03592181ab07c9c158fae2fd5496da47b506595d",
+    "swimmer": {
+      "first_name": "מורן ארז",
+      "last_name": "",
+      "full_name": "מורן ארז"
+    },
+    "gender": "בנים",
+    "birth_year": "2007",
+    "club": {
+      "name_he": "אלומה עירוני הוד השרון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:04.17",
+    "points": 674,
+    "position": "5",
+    "heat": "7",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "4ade948d290ab3a9e42a08743961036f55228d39",
+    "swimmer_id": "1e1d7179c49c042de007f9829a3e87cedda2129d",
+    "swimmer": {
+      "first_name": "רום קינן",
+      "last_name": "",
+      "full_name": "רום קינן"
+    },
+    "gender": "בנים",
+    "birth_year": "2008",
+    "club": {
+      "name_he": "אלומה עירוני הוד השרון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:05.59",
+    "points": 651,
+    "position": "6",
+    "heat": "6",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "ec6a20969f757b54348128c4a6672987b669f0a8",
+    "swimmer_id": "809fd9eced3d730c5d46cdc350d0478734a19007",
+    "swimmer": {
+      "first_name": "יהונתן רבין",
+      "last_name": "",
+      "full_name": "יהונתן רבין"
+    },
+    "gender": "בנים",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "בני הרצליה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:05.93",
+    "points": 646,
+    "position": "7",
+    "heat": "6",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "8724512c7a5f4d2a01e8fd68b7d890470a95de12",
+    "swimmer_id": "9215badc253a48f83ebf679f00151b20ba2c22b9",
+    "swimmer": {
+      "first_name": "איתן גאוגזייב",
+      "last_name": "",
+      "full_name": "איתן גאוגזייב"
+    },
+    "gender": "בנים",
+    "birth_year": "2008",
+    "club": {
+      "name_he": "אלומה עירוני הוד השרון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:06.50",
+    "points": 637,
+    "position": "8",
+    "heat": "7",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "f0e19b6ccfcf8c4f96994cf3de39fbb8e05f4fd0",
+    "swimmer_id": "9889c9b55bc8c4a7f61d21f5a1be43e736edb3d7",
+    "swimmer": {
+      "first_name": "סאווה בליק",
+      "last_name": "",
+      "full_name": "סאווה בליק"
+    },
+    "gender": "בנים",
+    "birth_year": "2008",
+    "club": {
+      "name_he": "בני הרצליה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:06.94",
+    "points": 631,
+    "position": "9",
+    "heat": "6",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "b1629520cc7faafac8637d550adec7f17cd564a6",
+    "swimmer_id": "0ae5e5937fdb3355e935315294f592774da5acd5",
+    "swimmer": {
+      "first_name": "ג‘ואי לווי",
+      "last_name": "",
+      "full_name": "ג‘ואי לווי"
+    },
+    "gender": "בנים",
+    "birth_year": "2004",
+    "club": {
+      "name_he": "מכבי ראשון לציון SEALS"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:07.13",
+    "points": 628,
+    "position": "10",
+    "heat": "7",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "98800aed6fbbf79c9f35ec4c68ace33933ce6300",
+    "swimmer_id": "a5dba453e15649cee1a1a50ccc36ab4395444f85",
+    "swimmer": {
+      "first_name": "יהונתן שילר",
+      "last_name": "",
+      "full_name": "יהונתן שילר"
+    },
+    "gender": "בנים",
+    "birth_year": "2007",
+    "club": {
+      "name_he": "אלומה עירוני הוד השרון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:07.36",
+    "points": 624,
+    "position": "11",
+    "heat": "7",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "7b3b225e79c89c85828ce1a8662f085f4f5f8e77",
+    "swimmer_id": "3a3fab855c6da76bd75356ac7f797017679d11f3",
+    "swimmer": {
+      "first_name": "איתמר יעקובי",
+      "last_name": "",
+      "full_name": "איתמר יעקובי"
+    },
+    "gender": "בנים",
+    "birth_year": "2009",
+    "club": {
+      "name_he": "מכבי פ.מ. רעות"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:08.21",
+    "points": 612,
+    "position": "12",
+    "heat": "5",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "22325148c98214d642eeca75bee7d930232ca2b5",
+    "swimmer_id": "5ee12dfcb432f5d23cd6b15df6bd63a3ce344ab5",
+    "swimmer": {
+      "first_name": "אורי נסים",
+      "last_name": "",
+      "full_name": "אורי נסים"
+    },
+    "gender": "בנים",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "הפועל באר שבע"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:09.44",
+    "points": 595,
+    "position": "13",
+    "heat": "6",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "084b89e7c39f6775aa3d79f6ca97b757f86d40ce",
+    "swimmer_id": "2e53cec4853b3bab16a24eb7afc7fc91002d8906",
+    "swimmer": {
+      "first_name": "איתן מייליקר",
+      "last_name": "",
+      "full_name": "איתן מייליקר"
+    },
+    "gender": "בנים",
+    "birth_year": "2008",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:09.56",
+    "points": 593,
+    "position": "14",
+    "heat": "6",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "cb21b66b88a0234483e6c20c377c1983ae2e623e",
+    "swimmer_id": "81f5a597f62350bbbf99328088098144d2f0c5f1",
+    "swimmer": {
+      "first_name": "יונתן גרציוב",
+      "last_name": "",
+      "full_name": "יונתן גרציוב"
+    },
+    "gender": "בנים",
+    "birth_year": "2006",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:09.96",
+    "points": 588,
+    "position": "15",
+    "heat": "6",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "b23f06be453a6dd4c5a43b9c90035413e1351489",
+    "swimmer_id": "dbbf2d8254af186297da05cc7bf8997072b27c45",
+    "swimmer": {
+      "first_name": "ענבר מסילתי",
+      "last_name": "",
+      "full_name": "ענבר מסילתי"
+    },
+    "gender": "בנים",
+    "birth_year": "2009",
+    "club": {
+      "name_he": "מכבי א.ס. רמת השרון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:10.31",
+    "points": 583,
+    "position": "16",
+    "heat": "5",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "7397f859ee62ecc3cc7016e78e31905673f9c1d3",
+    "swimmer_id": "bc2b6c6fb4608a022666c4cb3e6dea4f7cf8e9ac",
+    "swimmer": {
+      "first_name": "לאו פיאסטרו",
+      "last_name": "",
+      "full_name": "לאו פיאסטרו"
+    },
+    "gender": "בנים",
+    "birth_year": "2008",
+    "club": {
+      "name_he": "מכבי א.ס. רמת השרון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:10.37",
+    "points": 582,
+    "position": "17",
+    "heat": "6",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "b70e361869fb74c5e6665ddcec8928e846cfabb3",
+    "swimmer_id": "959d7c6ce526910f1f02e8a57f48dac318eb481d",
+    "swimmer": {
+      "first_name": "רון זילברברג",
+      "last_name": "",
+      "full_name": "רון זילברברג"
+    },
+    "gender": "בנים",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "מכבי פ.מ. רעות"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:10.45",
+    "points": 581,
+    "position": "18",
+    "heat": "6",
+    "lane": "8",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "2553d119a464c11a0311a88aee81061f51e0d196",
+    "swimmer_id": "fb0f26d20d5a0e79a40f7cf5bfc93ac9533aa70d",
+    "swimmer": {
+      "first_name": "יהונתן יצחקי",
+      "last_name": "",
+      "full_name": "יהונתן יצחקי"
+    },
+    "gender": "בנים",
+    "birth_year": "2004",
+    "club": {
+      "name_he": "מכבי וייסגל רחובות"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:10.61",
+    "points": 579,
+    "position": "19",
+    "heat": "1",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "ea44ad5cc83573cc9a29b1c0d9d1367d9101831a",
+    "swimmer_id": "7c0d0f11f820e3f7fdc0d1a8c92c35aafa66f6b5",
+    "swimmer": {
+      "first_name": "סוהיל אשקר",
+      "last_name": "",
+      "full_name": "סוהיל אשקר"
+    },
+    "gender": "בנים",
+    "birth_year": "2008",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:11.11",
+    "points": 572,
+    "position": "20",
+    "heat": "5",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "595ddb1a1f704047bde133ef31997bed6bd6c536",
+    "swimmer_id": "525dcc7c8cd65bd1943c99f7abe9c1096e29dc4b",
+    "swimmer": {
+      "first_name": "איתמר בילינסון",
+      "last_name": "",
+      "full_name": "איתמר בילינסון"
+    },
+    "gender": "בנים",
+    "birth_year": "2009",
+    "club": {
+      "name_he": "הפועל אולימפ נתניה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:11.90",
+    "points": 562,
+    "position": "21",
+    "heat": "4",
+    "lane": "8",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "4438e53097a147409114f6e1f090045f2ee97326",
+    "swimmer_id": "4c72b648780084ef12e87e6ca0c9ee7ea9d10719",
+    "swimmer": {
+      "first_name": "גיא מירונוב",
+      "last_name": "",
+      "full_name": "גיא מירונוב"
+    },
+    "gender": "בנים",
+    "birth_year": "2007",
+    "club": {
+      "name_he": "הפועל דולפין נתניה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:13.48",
+    "points": 542,
+    "position": "22",
+    "heat": "4",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "f91274633679e959d0a0b4031120f92c12c53961",
+    "swimmer_id": "582f227eb23181e12d590a7a365835b36e758bb5",
+    "swimmer": {
+      "first_name": "נועם מלול",
+      "last_name": "",
+      "full_name": "נועם מלול"
+    },
+    "gender": "בנים",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "בני הרצליה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:13.62",
+    "points": 541,
+    "position": "23",
+    "heat": "5",
+    "lane": "8",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "0b9513ad87ef0e998727784aa4e47faaae6724ce",
+    "swimmer_id": "f696d81869509c7be6a3bbf3168635fc964b9d57",
+    "swimmer": {
+      "first_name": "דוד דמיטרייב",
+      "last_name": "",
+      "full_name": "דוד דמיטרייב"
+    },
+    "gender": "בנים",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:13.86",
+    "points": 538,
+    "position": "24",
+    "heat": "5",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "5c9877439c847b604e1377b2eb004738c709e2cc",
+    "swimmer_id": "c95e4f5e0db65995f3f80dccaa81fa7e1f4f6236",
+    "swimmer": {
+      "first_name": "אריאל גרונטווגה",
+      "last_name": "",
+      "full_name": "אריאל גרונטווגה"
+    },
+    "gender": "בנים",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "הפועל אולימפ נתניה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:14.08",
+    "points": 535,
+    "position": "25",
+    "heat": "1",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "625602a594b19375061f148cc9a4a0b2a8ccb855",
+    "swimmer_id": "04257aa81dfd88a837c9cc1989d95dcf0f993e40",
+    "swimmer": {
+      "first_name": "דורון אברהם אבישי",
+      "last_name": "",
+      "full_name": "דורון אברהם אבישי"
+    },
+    "gender": "בנים",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "מכבי א.ס. רמת השרון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:14.19",
+    "points": 534,
+    "position": "26",
+    "heat": "5",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "a5e2c91ae869c7dbd5de2dd29e631e0b972cf419",
+    "swimmer_id": "4c4c3b8460c1bac9db93f15633524e064dc92d9b",
+    "swimmer": {
+      "first_name": "פאדי חאיק",
+      "last_name": "",
+      "full_name": "פאדי חאיק"
+    },
+    "gender": "בנים",
+    "birth_year": "2008",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:14.29",
+    "points": 532,
+    "position": "27",
+    "heat": "1",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "56524693c36c26932d9e78d7818695b8ffff1fdc",
+    "swimmer_id": "d91e199cbe69eb805e5448882225c09e430f059d",
+    "swimmer": {
+      "first_name": "איתי וייסמן",
+      "last_name": "",
+      "full_name": "איתי וייסמן"
+    },
+    "gender": "בנים",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "בני הרצליה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:14.38",
+    "points": 531,
+    "position": "28",
+    "heat": "4",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "f741b2f4d82540a2c2f9d5d7c9e0ce0909dd04ee",
+    "swimmer_id": "277c3d6eb26ac2b9dca25c828593d038c8c3fef3",
+    "swimmer": {
+      "first_name": "אלירן זסלבסקי",
+      "last_name": "",
+      "full_name": "אלירן זסלבסקי"
+    },
+    "gender": "בנים",
+    "birth_year": "2008",
+    "club": {
+      "name_he": "מכבי תל אביב"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:14.84",
+    "points": 526,
+    "position": "29",
+    "heat": "5",
+    "lane": "7",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "7748ef256b37ab7ac3255f500b41d440af1af30f",
+    "swimmer_id": "16ad9075bf33663b3665b29d48d426d7ed04d76b",
+    "swimmer": {
+      "first_name": "יותם רייזנר",
+      "last_name": "",
+      "full_name": "יותם רייזנר"
+    },
+    "gender": "בנים",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "מכבי וייסגל רחובות"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:15.19",
+    "points": 522,
+    "position": "30",
+    "heat": "2",
+    "lane": "6",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "1b0bece5160ec1110defc1c42ad5a13ee1b03df8",
+    "swimmer_id": "63e58e988f991298c36bde160e748ba7d5b578da",
+    "swimmer": {
+      "first_name": "דוד וייסבורג",
+      "last_name": "",
+      "full_name": "דוד וייסבורג"
+    },
+    "gender": "בנים",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:15.50",
+    "points": 518,
+    "position": "31",
+    "heat": "4",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "8f9317f8b0a1b31d8f81fd1d92882ea66c982912",
+    "swimmer_id": "bdfa0bc7300134ff71dad9d6642db7f0cf6a29c8",
+    "swimmer": {
+      "first_name": "ינאי בן אבו קוגן",
+      "last_name": "",
+      "full_name": "ינאי בן אבו קוגן"
+    },
+    "gender": "בנים",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "מכבי חיפה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:15.74",
+    "points": 516,
+    "position": "32",
+    "heat": "4",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "45b5798329ee00ec618ee0c3c9b6a7b9d49e0d1c",
+    "swimmer_id": "caa6732dc7a55714583e683782b935b7b0279e73",
+    "swimmer": {
+      "first_name": "מתן פולג",
+      "last_name": "",
+      "full_name": "מתן פולג"
+    },
+    "gender": "בנים",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "מכבי א.ס. רמת השרון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:16.51",
+    "points": 507,
+    "position": "33",
+    "heat": "3",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "a6d5c0bdfe9463bd857724763e284d07d3ef58c7",
+    "swimmer_id": "5402965d53ec89c5686d42fdb00b681228ddaa62",
+    "swimmer": {
+      "first_name": "הראל אברהם",
+      "last_name": "",
+      "full_name": "הראל אברהם"
+    },
+    "gender": "בנים",
+    "birth_year": "2009",
+    "club": {
+      "name_he": "מכבי א.ס. רמת השרון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:17.03",
+    "points": 501,
+    "position": "34",
+    "heat": "5",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "304abc47f78a43bae68698aa8f68e96817f2ee85",
+    "swimmer_id": "3709a6685605f256fe96accab7c6ae1c3247d9cd",
+    "swimmer": {
+      "first_name": "תום רייכמן",
+      "last_name": "",
+      "full_name": "תום רייכמן"
+    },
+    "gender": "בנים",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "בני הרצליה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:18.48",
+    "points": 486,
+    "position": "35",
+    "heat": "4",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "7a5b979d3743ed66103a3b818a669ff0bceacdd7",
+    "swimmer_id": "18563a8635358705e6e576b6f8c6390b14c0dfca",
+    "swimmer": {
+      "first_name": "אדם טורגובצקי",
+      "last_name": "",
+      "full_name": "אדם טורגובצקי"
+    },
+    "gender": "בנים",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "מכבי תל אביב"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:18.91",
+    "points": 481,
+    "position": "36",
+    "heat": "4",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "f56e7a74b7e8db1691eb1fa3e46832cdebe91054",
+    "swimmer_id": "27f618f3e1dbba4d79bf007e19613c356a6ae67b",
+    "swimmer": {
+      "first_name": "דניאל פלייטמן",
+      "last_name": "",
+      "full_name": "דניאל פלייטמן"
+    },
+    "gender": "בנים",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "הפועל אולימפ נתניה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:18.92",
+    "points": 481,
+    "position": "37",
+    "heat": "3",
+    "lane": "2",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "6226ddd47b5f1370ad68070cd064d372bb2d5cd1",
+    "swimmer_id": "bb38053142145ec00bf8382aec4d2bd545c4c74a",
+    "swimmer": {
+      "first_name": "נריה שמש",
+      "last_name": "",
+      "full_name": "נריה שמש"
+    },
+    "gender": "בנים",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "מכבי ירושלים"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:19.92",
+    "points": 471,
+    "position": "38",
+    "heat": "2",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "6bd1179e7d17377847e963fe2b9f0b3b89df9739",
+    "swimmer_id": "d3480f7a8671d6ee2dee9a2135d8e022ea65b9dd",
+    "swimmer": {
+      "first_name": "טומי מואס",
+      "last_name": "",
+      "full_name": "טומי מואס"
+    },
+    "gender": "בנים",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "אלומה עירוני הוד השרון"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:20.57",
+    "points": 464,
+    "position": "39",
+    "heat": "3",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "ded6645257da31bb47618027860172530888da18",
+    "swimmer_id": "71dd6d0a3dc35e2d259f846adefdb3337d001ab8",
+    "swimmer": {
+      "first_name": "נוה אפרתי בקרמן",
+      "last_name": "",
+      "full_name": "נוה אפרתי בקרמן"
+    },
+    "gender": "בנים",
+    "birth_year": "2010",
+    "club": {
+      "name_he": "הפועל באר טוביה"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:20.87",
+    "points": 461,
+    "position": "40",
+    "heat": "2",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "c6f242b9a91dfa63db140dd2a4015f701e3ab842",
+    "swimmer_id": "92dc4a78bd97ed701d02d9b4cce6d9b187839074",
+    "swimmer": {
+      "first_name": "אנטוני ברזקין",
+      "last_name": "",
+      "full_name": "אנטוני ברזקין"
+    },
+    "gender": "בנים",
+    "birth_year": "2011",
+    "club": {
+      "name_he": "מכבי קרית ביאליק"
+    },
+    "discipline": "200 מעורב אישי",
+    "category": "גברים 16-99",
+    "pool_length": "50",
+    "time": "02:21.10",
+    "points": 459,
+    "position": "41",
+    "heat": "3",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86353?isModal=True"
+  },
+  {
+    "result_id": "33f00ed5e95c576ca572a0605f1906223abfc539",
+    "swimmer_id": "eb63b41e26fc51ae1d814be8e4de8b0e95977605",
+    "swimmer": {
+      "first_name": "אלה אופיר",
+      "last_name": "",
+      "full_name": "אלה אופיר"
+    },
+    "gender": "בנות",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "הפועל באר טוביה"
+    },
+    "discipline": "50 חזה",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "00:00.19",
+    "points": null,
+    "position": "1",
+    "heat": "1",
+    "lane": "4",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86397?isModal=True"
+  },
+  {
+    "result_id": "6b14db8bea9fa9a7bc1e75a343ae713353de163b",
+    "swimmer_id": "600a2cb7d74a90ba9848f9427e0c1c913869c43d",
+    "swimmer": {
+      "first_name": "זוהר קופליאנסקי",
+      "last_name": "",
+      "full_name": "זוהר קופליאנסקי"
+    },
+    "gender": "בנות",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "בני הרצליה"
+    },
+    "discipline": "50 חזה",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "00:20.00",
+    "points": 2854,
+    "position": "6",
+    "heat": "1",
+    "lane": "3",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86397?isModal=True"
+  },
+  {
+    "result_id": "190af67ce5431b63e653845f27938314ff815629",
+    "swimmer_id": "98a6ec72c452847c8b2e5eb03baeedb78be4bc66",
+    "swimmer": {
+      "first_name": "סוזאן דוויק",
+      "last_name": "",
+      "full_name": "סוזאן דוויק"
+    },
+    "gender": "בנות",
+    "birth_year": "2014",
+    "club": {
+      "name_he": "הפועל אקווה נוף הגליל"
+    },
+    "discipline": "50 חזה",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "00:23.00",
+    "points": 1876,
+    "position": "7",
+    "heat": "1",
+    "lane": "5",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86397?isModal=True"
+  },
+  {
+    "result_id": "791e583a44a49f2b9f20b8e4eb413fc6e4470980",
+    "swimmer_id": "98ab2c46750389a2ed338f1a3c31cd97c37604cf",
+    "swimmer": {
+      "first_name": "מעיין תורג'מן",
+      "last_name": "",
+      "full_name": "מעיין תורג'מן"
+    },
+    "gender": "בנות",
+    "birth_year": "2013",
+    "club": {
+      "name_he": "מועדון שחייה כפר תבור"
+    },
+    "discipline": "50 חזה",
+    "category": "בנות 12-15",
+    "pool_length": "50",
+    "time": "00:36.00",
+    "points": 489,
+    "position": "8",
+    "heat": "1",
+    "lane": "1",
+    "competition": "משחה המילניום ה25",
+    "competition_date": "2026-11-26",
+    "source": "Loglig",
+    "event_url": "https://loglig.com:2053/LeagueTable/AthleticsDisciplineResults/86397?isModal=True"
   }
 ]

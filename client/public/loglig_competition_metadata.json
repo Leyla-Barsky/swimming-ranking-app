@@ -12,7 +12,7 @@
     "pool_length_reason": "ברירת מחדל לפי כללי הבריכות",
     "status": "has_results_page",
     "events_found": 14,
-    "last_checked": "2026-11-25T12:27:07.104Z"
+    "last_checked": "2026-11-26T12:08:07.538Z"
   },
   {
     "id": 40,
@@ -27,7 +27,7 @@
     "pool_length_reason": "זוהה בתקנון",
     "status": "has_results_page",
     "events_found": 10,
-    "last_checked": "2026-11-25T12:27:12.743Z"
+    "last_checked": "2026-11-26T12:08:14.421Z"
   },
   {
     "id": 42,
@@ -42,7 +42,7 @@
     "pool_length_reason": "ברירת מחדל לפי כללי הבריכות",
     "status": "has_results_page",
     "events_found": 16,
-    "last_checked": "2026-11-25T12:27:17.325Z"
+    "last_checked": "2026-11-26T12:08:19.298Z"
   },
   {
     "id": 44,
@@ -57,7 +57,7 @@
     "pool_length_reason": "ברירת מחדל לפי כללי הבריכות",
     "status": "has_results_page",
     "events_found": 10,
-    "last_checked": "2026-11-25T12:27:24.295Z"
+    "last_checked": "2026-11-26T12:08:26.781Z"
   },
   {
     "id": 46,
@@ -72,7 +72,7 @@
     "pool_length_reason": "ברירת מחדל לפי כללי הבריכות",
     "status": "has_results_page",
     "events_found": 4,
-    "last_checked": "2026-11-25T12:27:29.415Z"
+    "last_checked": "2026-11-26T12:08:32.450Z"
   },
   {
     "id": 48,
@@ -87,7 +87,7 @@
     "pool_length_reason": "ברירת מחדל לפי כללי הבריכות",
     "status": "has_results_page",
     "events_found": 8,
-    "last_checked": "2026-11-25T12:27:31.816Z"
+    "last_checked": "2026-11-26T12:08:35.165Z"
   },
   {
     "id": 50,
@@ -102,7 +102,7 @@
     "pool_length_reason": "זוהה בתקנון",
     "status": "has_results_page",
     "events_found": 24,
-    "last_checked": "2026-11-25T12:27:36.113Z"
+    "last_checked": "2026-11-26T12:08:39.748Z"
   },
   {
     "id": 52,
@@ -117,7 +117,7 @@
     "pool_length_reason": "ברירת מחדל לפי כללי הבריכות",
     "status": "has_results_page",
     "events_found": 10,
-    "last_checked": "2026-11-25T12:27:46.284Z"
+    "last_checked": "2026-11-26T12:08:50.753Z"
   },
   {
     "id": 54,
@@ -132,7 +132,7 @@
     "pool_length_reason": "ברירת מחדל לפי כללי הבריכות",
     "status": "has_results_page",
     "events_found": 8,
-    "last_checked": "2026-11-25T12:27:51.088Z"
+    "last_checked": "2026-11-26T12:08:56.568Z"
   },
   {
     "id": 56,
@@ -147,7 +147,7 @@
     "pool_length_reason": "זוהה בתקנון",
     "status": "has_results_page",
     "events_found": 6,
-    "last_checked": "2026-11-25T12:27:54.111Z"
+    "last_checked": "2026-11-26T12:09:00.001Z"
   },
   {
     "id": 58,
@@ -162,7 +162,7 @@
     "pool_length_reason": "ברירת מחדל לפי כללי הבריכות",
     "status": "has_results_page",
     "events_found": 68,
-    "last_checked": "2026-11-25T12:27:57.391Z"
+    "last_checked": "2026-11-26T12:09:03.498Z"
   },
   {
     "id": 60,
@@ -177,7 +177,7 @@
     "pool_length_reason": "ברירת מחדל לפי כללי הבריכות",
     "status": "has_results_page",
     "events_found": 8,
-    "last_checked": "2026-11-25T12:28:25.654Z"
+    "last_checked": "2026-11-26T12:09:34.912Z"
   },
   {
     "id": 62,
@@ -192,7 +192,7 @@
     "pool_length_reason": "ברירת מחדל לפי כללי הבריכות",
     "status": "has_results_page",
     "events_found": 6,
-    "last_checked": "2026-11-25T12:28:29.951Z"
+    "last_checked": "2026-11-26T12:09:39.437Z"
   },
   {
     "id": 64,
@@ -207,7 +207,7 @@
     "pool_length_reason": "זוהה בתקנון",
     "status": "has_results_page",
     "events_found": 12,
-    "last_checked": "2026-11-25T12:28:32.224Z"
+    "last_checked": "2026-11-26T12:09:41.962Z"
   },
   {
     "id": 66,
@@ -222,7 +222,7 @@
     "pool_length_reason": "זוהה בתקנון",
     "status": "has_results_page",
     "events_found": 10,
-    "last_checked": "2026-11-25T12:28:37.730Z"
+    "last_checked": "2026-11-26T12:09:47.944Z"
   },
   {
     "id": 68,
@@ -237,7 +237,7 @@
     "pool_length_reason": "זוהה בתקנון",
     "status": "has_results_page",
     "events_found": 10,
-    "last_checked": "2026-11-25T12:28:42.165Z"
+    "last_checked": "2026-11-26T12:09:52.970Z"
   },
   {
     "id": 70,
@@ -252,7 +252,7 @@
     "pool_length_reason": "ברירת מחדל לפי כללי הבריכות",
     "status": "has_results_page",
     "events_found": 10,
-    "last_checked": "2026-11-25T12:28:46.880Z"
+    "last_checked": "2026-11-26T12:09:58.497Z"
   },
   {
     "id": 72,
@@ -267,7 +267,7 @@
     "pool_length_reason": "זוהה בתקנון",
     "status": "has_results_page",
     "events_found": 64,
-    "last_checked": "2026-11-25T12:28:51.543Z"
+    "last_checked": "2026-11-26T12:10:03.645Z"
   },
   {
     "id": 74,
@@ -282,7 +282,7 @@
     "pool_length_reason": "ברירת מחדל לפי כללי הבריכות",
     "status": "has_results_page",
     "events_found": 14,
-    "last_checked": "2026-11-25T12:29:13.471Z"
+    "last_checked": "2026-11-26T12:10:27.356Z"
   },
   {
     "id": 76,
@@ -297,7 +297,7 @@
     "pool_length_reason": "ברירת מחדל לפי כללי הבריכות",
     "status": "has_results_page",
     "events_found": 4,
-    "last_checked": "2026-11-25T12:29:22.386Z"
+    "last_checked": "2026-11-26T12:10:38.288Z"
   },
   {
     "id": 80,
@@ -312,7 +312,7 @@
     "pool_length_reason": "ברירת מחדל לפי כללי הבריכות",
     "status": "has_results_page",
     "events_found": 8,
-    "last_checked": "2026-11-25T12:29:25.501Z"
+    "last_checked": "2026-11-26T12:10:41.457Z"
   },
   {
     "id": 82,
@@ -327,7 +327,7 @@
     "pool_length_reason": "ברירת מחדל לפי כללי הבריכות",
     "status": "has_results_page",
     "events_found": 21,
-    "last_checked": "2026-11-25T12:29:29.054Z"
+    "last_checked": "2026-11-26T12:10:45.620Z"
   },
   {
     "id": 84,
@@ -342,7 +342,7 @@
     "pool_length_reason": "ברירת מחדל לפי כללי הבריכות",
     "status": "has_results_page",
     "events_found": 20,
-    "last_checked": "2026-11-25T12:29:37.656Z"
+    "last_checked": "2026-11-26T12:10:54.810Z"
   },
   {
     "id": 88,
@@ -357,7 +357,7 @@
     "pool_length_reason": "ברירת מחדל לפי כללי הבריכות",
     "status": "has_results_page",
     "events_found": 8,
-    "last_checked": "2026-11-25T12:29:45.878Z"
+    "last_checked": "2026-11-26T12:11:03.325Z"
   },
   {
     "id": 92,
@@ -372,7 +372,7 @@
     "pool_length_reason": "זוהה בתקנון",
     "status": "no_results_page",
     "events_found": 0,
-    "last_checked": "2026-11-25T12:29:48.358Z"
+    "last_checked": "2026-11-26T12:11:05.926Z"
   },
   {
     "id": 94,
@@ -387,7 +387,7 @@
     "pool_length_reason": "זוהה בתקנון",
     "status": "has_results_page",
     "events_found": 10,
-    "last_checked": "2026-11-25T12:29:48.897Z"
+    "last_checked": "2026-11-26T12:11:06.599Z"
   },
   {
     "id": 96,
@@ -402,7 +402,7 @@
     "pool_length_reason": "ברירת מחדל לפי כללי הבריכות",
     "status": "no_results_page",
     "events_found": 0,
-    "last_checked": "2026-11-25T12:29:52.864Z"
+    "last_checked": "2026-11-26T12:11:11.529Z"
   },
   {
     "id": 98,
@@ -417,7 +417,7 @@
     "pool_length_reason": "ברירת מחדל לפי כללי הבריכות",
     "status": "has_results_page",
     "events_found": 16,
-    "last_checked": "2026-11-25T12:29:53.442Z"
+    "last_checked": "2026-11-26T12:11:12.211Z"
   },
   {
     "id": 100,
@@ -432,7 +432,7 @@
     "pool_length_reason": "זוהה בתקנון",
     "status": "has_results_page",
     "events_found": 12,
-    "last_checked": "2026-11-25T12:29:59.254Z"
+    "last_checked": "2026-11-26T12:11:18.999Z"
   },
   {
     "id": 102,
@@ -447,7 +447,7 @@
     "pool_length_reason": "ברירת מחדל לפי כללי הבריכות",
     "status": "no_results_yet",
     "events_found": 0,
-    "last_checked": "2026-11-25T12:30:04.942Z"
+    "last_checked": "2026-11-26T12:11:25.011Z"
   },
   {
     "id": 106,
@@ -462,7 +462,7 @@
     "pool_length_reason": "ברירת מחדל לפי כללי הבריכות",
     "status": "no_results_page",
     "events_found": 0,
-    "last_checked": "2026-11-25T12:30:05.129Z"
+    "last_checked": "2026-11-26T12:11:25.265Z"
   },
   {
     "id": 108,
@@ -475,9 +475,9 @@
     "competition_date": null,
     "pool_length": "50",
     "pool_length_reason": "זוהה בתקנון",
-    "status": "no_results_yet",
-    "events_found": 0,
-    "last_checked": "2026-11-25T12:30:05.870Z"
+    "status": "has_results_page",
+    "events_found": 22,
+    "last_checked": "2026-11-26T12:11:26.016Z"
   },
   {
     "id": 112,
@@ -492,7 +492,7 @@
     "pool_length_reason": "ברירת מחדל לפי כללי הבריכות",
     "status": "no_results_yet",
     "events_found": 0,
-    "last_checked": "2026-11-25T12:30:06.433Z"
+    "last_checked": "2026-11-26T12:11:33.456Z"
   },
   {
     "id": 114,
@@ -507,7 +507,7 @@
     "pool_length_reason": "זוהה בתקנון",
     "status": "no_results_page",
     "events_found": 0,
-    "last_checked": "2026-11-25T12:30:06.610Z"
+    "last_checked": "2026-11-26T12:11:33.661Z"
   },
   {
     "id": 116,
@@ -522,7 +522,7 @@
     "pool_length_reason": "זוהה בתקנון",
     "status": "no_results_yet",
     "events_found": 0,
-    "last_checked": "2026-11-25T12:30:07.192Z"
+    "last_checked": "2026-11-26T12:11:34.344Z"
   },
   {
     "id": 118,
@@ -537,7 +537,7 @@
     "pool_length_reason": "ברירת מחדל לפי כללי הבריכות",
     "status": "no_results_yet",
     "events_found": 0,
-    "last_checked": "2026-11-25T12:30:08.068Z"
+    "last_checked": "2026-11-26T12:11:34.998Z"
   },
   {
     "id": 120,
@@ -552,7 +552,7 @@
     "pool_length_reason": "זוהה בתקנון",
     "status": "no_results_yet",
     "events_found": 0,
-    "last_checked": "2026-11-25T12:30:08.623Z"
+    "last_checked": "2026-11-26T12:11:35.675Z"
   },
   {
     "id": 122,
@@ -567,7 +567,7 @@
     "pool_length_reason": "זוהה בתקנון",
     "status": "no_results_yet",
     "events_found": 0,
-    "last_checked": "2026-11-25T12:30:09.215Z"
+    "last_checked": "2026-11-26T12:11:36.383Z"
   },
   {
     "id": 124,
@@ -582,7 +582,7 @@
     "pool_length_reason": "זוהה בתקנון",
     "status": "no_results_page",
     "events_found": 0,
-    "last_checked": "2026-11-25T12:30:09.397Z"
+    "last_checked": "2026-11-26T12:11:36.619Z"
   },
   {
     "id": 126,
@@ -597,7 +597,7 @@
     "pool_length_reason": "זוהה בתקנון",
     "status": "no_results_yet",
     "events_found": 0,
-    "last_checked": "2026-11-25T12:30:09.965Z"
+    "last_checked": "2026-11-26T12:11:37.311Z"
   },
   {
     "id": 128,
@@ -612,7 +612,7 @@
     "pool_length_reason": "זוהה בתקנון",
     "status": "no_results_yet",
     "events_found": 0,
-    "last_checked": "2026-11-25T12:30:10.501Z"
+    "last_checked": "2026-11-26T12:11:37.971Z"
   },
   {
     "id": 130,
@@ -627,7 +627,7 @@
     "pool_length_reason": "זוהה בתקנון",
     "status": "no_results_yet",
     "events_found": 0,
-    "last_checked": "2026-11-25T12:30:11.060Z"
+    "last_checked": "2026-11-26T12:11:38.681Z"
   },
   {
     "id": 136,
@@ -642,6 +642,6 @@
     "pool_length_reason": "זוהה בתקנון",
     "status": "no_results_yet",
     "events_found": 0,
-    "last_checked": "2026-11-25T12:30:11.611Z"
+    "last_checked": "2026-11-26T12:11:39.325Z"
   }
 ]
